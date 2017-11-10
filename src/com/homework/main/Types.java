@@ -6,7 +6,6 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.io.OutputStream;
 import java.io.PrintStream;
-import java.net.SocketTimeoutException;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -43,18 +42,22 @@ public class Types {
 		    	
 		    	try {
 					doc = Jsoup.connect(url).ignoreHttpErrors(true).get();
-				} catch (SocketTimeoutException e1) {
+				} catch (Exception e1) {
 					System.out.println(ERR_MSG_URL);
 					continue;
 				}
-		    	
 		    	try {
-					check=Jsoup .connect(url)
+		    		try{
+		    			check=Jsoup .connect(url)
 								.timeout(3000)
 								.ignoreHttpErrors(true)
 								.execute()
 								.statusMessage();
-					
+		    			
+		    		} catch (Exception e) {
+		    			System.out.println(ERR_MSG_URL);
+		    			continue;
+					}
 			    	if (check.toString().equals(CONN_CHECK)) {
 			    		
 			    		elements = doc.select(TAG);
@@ -81,11 +84,10 @@ public class Types {
 			    		System.out.println(ERR_MSG_WORD_2);
 			    	}
 					
-				} catch (SocketTimeoutException e) {
+				} catch (Exception e) {
 					System.out.println(url + ERR_MSG_CONN);
 					continue;
 				}
-		    	
 		    	check = null;
 		    	System.gc();
 		    }
