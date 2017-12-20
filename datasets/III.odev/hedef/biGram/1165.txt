@@ -1,0 +1,245 @@
+Piyasalar güne: 1 defa bulunmaktadır
+güne böyle: 1 defa bulunmaktadır
+böyle başladı: 1 defa bulunmaktadır
+başladı Serbest: 1 defa bulunmaktadır
+Serbest piyasada: 1 defa bulunmaktadır
+piyasada bu: 1 defa bulunmaktadır
+bu sabah: 1 defa bulunmaktadır
+sabah itibarıyla: 1 defa bulunmaktadır
+itibarıyla 1,7826: 1 defa bulunmaktadır
+1,7826 TL'den: 1 defa bulunmaktadır
+TL'den alınan: 2 defa bulunmaktadır
+alınan dolar: 1 defa bulunmaktadır
+dolar 1,7832: 1 defa bulunmaktadır
+1,7832 TL'den: 1 defa bulunmaktadır
+TL'den satılırken,: 1 defa bulunmaktadır
+satılırken, 2,2756: 1 defa bulunmaktadır
+2,2756 TL'den: 1 defa bulunmaktadır
+TL'den alınan: 2 defa bulunmaktadır
+alınan Euro'nun: 1 defa bulunmaktadır
+Euro'nun satış: 1 defa bulunmaktadır
+satış fiyatı: 1 defa bulunmaktadır
+fiyatı ise: 1 defa bulunmaktadır
+ise 2,2763: 1 defa bulunmaktadır
+2,2763 TL: 1 defa bulunmaktadır
+TL olarak: 1 defa bulunmaktadır
+olarak gerçekleşiyor.: 1 defa bulunmaktadır
+gerçekleşiyor. Euro-dolar: 1 defa bulunmaktadır
+Euro-dolar paritesi: 1 defa bulunmaktadır
+paritesi 1,2761: 1 defa bulunmaktadır
+1,2761 seviyesinde.: 1 defa bulunmaktadır
+seviyesinde. İstanbul: 1 defa bulunmaktadır
+İstanbul serbest: 1 defa bulunmaktadır
+serbest piyasasında: 1 defa bulunmaktadır
+piyasasında işlem: 1 defa bulunmaktadır
+işlem gören: 1 defa bulunmaktadır
+gören dolar,: 1 defa bulunmaktadır
+dolar, Euro,: 1 defa bulunmaktadır
+Euro, Sterlin,: 1 defa bulunmaktadır
+Sterlin, Japon: 1 defa bulunmaktadır
+Japon Yeni,: 1 defa bulunmaktadır
+Yeni, Suudi: 1 defa bulunmaktadır
+Suudi Arabistan: 1 defa bulunmaktadır
+Arabistan Riyali: 1 defa bulunmaktadır
+Riyali ve: 1 defa bulunmaktadır
+ve diğer: 1 defa bulunmaktadır
+diğer para: 1 defa bulunmaktadır
+para birimlerinin: 1 defa bulunmaktadır
+birimlerinin sabah: 1 defa bulunmaktadır
+sabah saatlerindeki: 1 defa bulunmaktadır
+saatlerindeki açılış: 1 defa bulunmaktadır
+açılış fiyatları: 1 defa bulunmaktadır
+fiyatları şöyle:: 1 defa bulunmaktadır
+şöyle: Döviz: 1 defa bulunmaktadır
+Döviz Cinsi  : 1 defa bulunmaktadır
+Cinsi   Alış  : 1 defa bulunmaktadır
+Alış   Satış  : 1 defa bulunmaktadır
+Satış   Günlük: 1 defa bulunmaktadır
+Günlük fark: 1 defa bulunmaktadır
+fark (Yüzde): 1 defa bulunmaktadır
+(Yüzde) ABD: 1 defa bulunmaktadır
+ABD Dolari: 1 defa bulunmaktadır
+Dolari (Serbest: 3 defa bulunmaktadır
+(Serbest Piy): 10 defa bulunmaktadır
+Piy) 1,7826: 1 defa bulunmaktadır
+1,7826 1,7832: 1 defa bulunmaktadır
+1,7832 -0,09: 1 defa bulunmaktadır
+-0,09 Euro: 1 defa bulunmaktadır
+Euro (Serbest: 1 defa bulunmaktadır
+(Serbest Piy): 10 defa bulunmaktadır
+Piy) 2,2756: 1 defa bulunmaktadır
+2,2756 2,2763: 1 defa bulunmaktadır
+2,2763 -0,14: 1 defa bulunmaktadır
+-0,14 Avusturalya: 1 defa bulunmaktadır
+Avusturalya Dolari: 1 defa bulunmaktadır
+Dolari (Serbest: 3 defa bulunmaktadır
+(Serbest P): 1 defa bulunmaktadır
+P) 1,8510: 1 defa bulunmaktadır
+1,8510 1,8610: 1 defa bulunmaktadır
+1,8610 -0,16: 1 defa bulunmaktadır
+-0,16 Kanada: 1 defa bulunmaktadır
+Kanada Dolari: 1 defa bulunmaktadır
+Dolari (Serbest: 3 defa bulunmaktadır
+(Serbest Piy): 10 defa bulunmaktadır
+Piy) 1,7820: 1 defa bulunmaktadır
+1,7820 1,7930: 1 defa bulunmaktadır
+1,7930 0,11: 1 defa bulunmaktadır
+0,11 Isvicre: 1 defa bulunmaktadır
+Isvicre Frangi: 1 defa bulunmaktadır
+Frangi (Serbest: 1 defa bulunmaktadır
+(Serbest Piy): 10 defa bulunmaktadır
+Piy) 1,8865: 1 defa bulunmaktadır
+1,8865 1,8879: 1 defa bulunmaktadır
+1,8879 -0,05: 1 defa bulunmaktadır
+-0,05 Danimarka: 1 defa bulunmaktadır
+Danimarka Kronu: 1 defa bulunmaktadır
+Kronu (Serbest: 3 defa bulunmaktadır
+(Serbest Piy): 10 defa bulunmaktadır
+Piy) 0,3039: 1 defa bulunmaktadır
+0,3039 0,3049: 1 defa bulunmaktadır
+0,3049 0,07: 1 defa bulunmaktadır
+0,07 Ingiliz: 1 defa bulunmaktadır
+Ingiliz Sterlini: 1 defa bulunmaktadır
+Sterlini (Serbest: 1 defa bulunmaktadır
+(Serbest Piy): 10 defa bulunmaktadır
+Piy) 2,8502: 1 defa bulunmaktadır
+2,8502 2,8520: 1 defa bulunmaktadır
+2,8520 -0,03: 1 defa bulunmaktadır
+-0,03 100: 1 defa bulunmaktadır
+100 Japon: 1 defa bulunmaktadır
+Japon Yeni: 1 defa bulunmaktadır
+Yeni (Serbest: 1 defa bulunmaktadır
+(Serbest Piy): 10 defa bulunmaktadır
+Piy) 44,7770: 1 defa bulunmaktadır
+44,7770 44,8770: 1 defa bulunmaktadır
+44,8770 0,29: 1 defa bulunmaktadır
+0,29 Norvec: 1 defa bulunmaktadır
+Norvec Kronu: 1 defa bulunmaktadır
+Kronu (Serbest: 3 defa bulunmaktadır
+(Serbest Piy): 10 defa bulunmaktadır
+Piy) 0,3094: 1 defa bulunmaktadır
+0,3094 0,3106: 1 defa bulunmaktadır
+0,3106 0,1: 1 defa bulunmaktadır
+0,1 Saudi: 1 defa bulunmaktadır
+Saudi Riyali: 1 defa bulunmaktadır
+Riyali (Serbest: 1 defa bulunmaktadır
+(Serbest Piy): 10 defa bulunmaktadır
+Piy) 0,4739: 1 defa bulunmaktadır
+0,4739 0,4767: 1 defa bulunmaktadır
+0,4767 0,06: 1 defa bulunmaktadır
+0,06 Isvec: 1 defa bulunmaktadır
+Isvec Kronu: 1 defa bulunmaktadır
+Kronu (Serbest: 3 defa bulunmaktadır
+(Serbest Piy): 10 defa bulunmaktadır
+Piy) 0,2655: 1 defa bulunmaktadır
+0,2655 0,2663: 1 defa bulunmaktadır
+0,2663 0,04: 1 defa bulunmaktadır
+0,04 -: 1 defa bulunmaktadır
+- Borsa: 1 defa bulunmaktadır
+Borsa güne: 1 defa bulunmaktadır
+güne alıcılı: 2 defa bulunmaktadır
+alıcılı başladı: 1 defa bulunmaktadır
+başladı İstanbul: 1 defa bulunmaktadır
+İstanbul Menkul: 2 defa bulunmaktadır
+Menkul Kıymetler: 2 defa bulunmaktadır
+Kıymetler Borsası: 2 defa bulunmaktadır
+Borsası (İMKB): 2 defa bulunmaktadır
+(İMKB) Ulusal: 2 defa bulunmaktadır
+Ulusal 100: 2 defa bulunmaktadır
+100 Endeksi,: 1 defa bulunmaktadır
+Endeksi, güne: 1 defa bulunmaktadır
+güne alıcılı: 2 defa bulunmaktadır
+alıcılı başladı.: 1 defa bulunmaktadır
+başladı. Bileşik: 1 defa bulunmaktadır
+Bileşik Endeks,: 1 defa bulunmaktadır
+Endeks, ilk: 1 defa bulunmaktadır
+ilk seansın: 1 defa bulunmaktadır
+seansın başlarında: 1 defa bulunmaktadır
+başlarında 192,32: 1 defa bulunmaktadır
+192,32 puan: 1 defa bulunmaktadır
+puan artışla: 1 defa bulunmaktadır
+artışla 71.797,23: 1 defa bulunmaktadır
+71.797,23 puan: 1 defa bulunmaktadır
+puan seviyesinde: 1 defa bulunmaktadır
+seviyesinde başladı.: 1 defa bulunmaktadır
+başladı. Hisse: 1 defa bulunmaktadır
+Hisse senetleri: 1 defa bulunmaktadır
+senetleri ortalama: 1 defa bulunmaktadır
+ortalama yüzde: 1 defa bulunmaktadır
+yüzde 0,27: 2 defa bulunmaktadır
+0,27 oranında: 1 defa bulunmaktadır
+oranında değer: 1 defa bulunmaktadır
+değer kazandı. : 1 defa bulunmaktadır
+kazandı.  -: 1 defa bulunmaktadır
+- Dünya: 1 defa bulunmaktadır
+Dünya borsalarında: 1 defa bulunmaktadır
+borsalarında sabah: 1 defa bulunmaktadır
+sabah saatlerinde: 1 defa bulunmaktadır
+saatlerinde son: 1 defa bulunmaktadır
+son durum: 2 defa bulunmaktadır
+durum İstanbul: 1 defa bulunmaktadır
+İstanbul Menkul: 2 defa bulunmaktadır
+Menkul Kıymetler: 2 defa bulunmaktadır
+Kıymetler Borsası: 2 defa bulunmaktadır
+Borsası (İMKB): 2 defa bulunmaktadır
+(İMKB) Ulusal: 2 defa bulunmaktadır
+Ulusal 100: 2 defa bulunmaktadır
+100 Endeksi'nin: 1 defa bulunmaktadır
+Endeksi'nin yüzde: 1 defa bulunmaktadır
+yüzde 0,27: 2 defa bulunmaktadır
+0,27 değer: 1 defa bulunmaktadır
+değer kazandığı: 1 defa bulunmaktadır
+kazandığı günün: 1 defa bulunmaktadır
+günün ilk: 1 defa bulunmaktadır
+ilk saatlerinde: 1 defa bulunmaktadır
+saatlerinde bazı: 1 defa bulunmaktadır
+bazı ülkelerin: 1 defa bulunmaktadır
+ülkelerin borsalarında: 1 defa bulunmaktadır
+borsalarında son: 1 defa bulunmaktadır
+son durum: 2 defa bulunmaktadır
+durum şöyle: 1 defa bulunmaktadır
+şöyle oluştu:: 1 defa bulunmaktadır
+oluştu: Borsa: 1 defa bulunmaktadır
+Borsa Endeks: 1 defa bulunmaktadır
+Endeks Değişim: 1 defa bulunmaktadır
+Değişim Değeri: 1 defa bulunmaktadır
+Değeri (Yüzde): 1 defa bulunmaktadır
+(Yüzde) DJ: 1 defa bulunmaktadır
+DJ Industrial: 1 defa bulunmaktadır
+Industrial (End: 1 defa bulunmaktadır
+(End of: 2 defa bulunmaktadır
+of day) 12,9320 -2,36: 1 defa bulunmaktadır
+day) 12,9320 -2,36 Dax: 1 defa bulunmaktadır
+Dax Performance: 1 defa bulunmaktadır
+Performance (Delayed) 7,2320 -1,96: 1 defa bulunmaktadır
+(Delayed) 7,2320 -1,96 Nikkei: 1 defa bulunmaktadır
+Nikkei 225: 1 defa bulunmaktadır
+225 (Delayed) 8,8370 -1,51: 1 defa bulunmaktadır
+(Delayed) 8,8370 -1,51 FTSE: 1 defa bulunmaktadır
+FTSE 100: 1 defa bulunmaktadır
+100 London: 1 defa bulunmaktadır
+London (End: 1 defa bulunmaktadır
+(End of: 2 defa bulunmaktadır
+of day) 5,7910 -1,58: 1 defa bulunmaktadır
+day) 5,7910 -1,58 DJ: 1 defa bulunmaktadır
+DJ Future: 1 defa bulunmaktadır
+Future (Delayed) 12,9090 0,36: 1 defa bulunmaktadır
+(Delayed) 12,9090 0,36 DAX: 1 defa bulunmaktadır
+DAX Future: 1 defa bulunmaktadır
+Future (Delayed) 7,2690 0,53: 1 defa bulunmaktadır
+(Delayed) 7,2690 0,53 SP500: 1 defa bulunmaktadır
+SP500 Future: 1 defa bulunmaktadır
+Future (Delayed) 1,3940 0,40: 1 defa bulunmaktadır
+(Delayed) 1,3940 0,40 CAC,: 1 defa bulunmaktadır
+CAC, Paris: 1 defa bulunmaktadır
+Paris (Delayed) 3,4090 -1,99: 1 defa bulunmaktadır
+(Delayed) 3,4090 -1,99 Russia: 1 defa bulunmaktadır
+Russia RSI: 1 defa bulunmaktadır
+RSI Index: 1 defa bulunmaktadır
+Index (Delayed) 1,4190 -0,52: 1 defa bulunmaktadır
+(Delayed) 1,4190 -0,52 Bovespa,: 1 defa bulunmaktadır
+Bovespa, Sao: 1 defa bulunmaktadır
+Sao Paulo 58,5170 -1,58: 1 defa bulunmaktadır
+Paulo 58,5170 -1,58  : 1 defa bulunmaktadır
+  CİHAN: 1 defa bulunmaktadır
+CİHAN  : 1 defa bulunmaktadır

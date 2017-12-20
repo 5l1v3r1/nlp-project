@@ -1,0 +1,6 @@
+Innovia: 1 defa bulunmaktadır
+4’te: 1 defa bulunmaktadır
+son: 1 defa bulunmaktadır
+blok: 1 defa bulunmaktadır
+satışa: 1 defa bulunmaktadır
+çıkıyor: 1 defa bulunmaktadır

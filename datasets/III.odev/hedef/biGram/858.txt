@@ -1,0 +1,5 @@
+Eski dairenizi: 1 defa bulunmaktadır
+dairenizi alıp,: 1 defa bulunmaktadır
+alıp, yerine: 1 defa bulunmaktadır
+yerine rezidans: 1 defa bulunmaktadır
+rezidans verecek: 1 defa bulunmaktadır

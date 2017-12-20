@@ -1,0 +1,535 @@
+Türkiye'de 1,5 milyon: 1 defa bulunmaktadır
+1,5 milyon patron: 1 defa bulunmaktadır
+milyon patron var: 1 defa bulunmaktadır
+patron var Türkiye'de: 1 defa bulunmaktadır
+var Türkiye'de hizmet: 1 defa bulunmaktadır
+Türkiye'de hizmet akdi: 2 defa bulunmaktadır
+hizmet akdi ile: 2 defa bulunmaktadır
+akdi ile işçi: 1 defa bulunmaktadır
+ile işçi çalıştıran: 1 defa bulunmaktadır
+işçi çalıştıran 1: 1 defa bulunmaktadır
+çalıştıran 1 milyon: 1 defa bulunmaktadır
+1 milyon 435: 2 defa bulunmaktadır
+milyon 435 bin: 2 defa bulunmaktadır
+435 bin 879: 2 defa bulunmaktadır
+bin 879 işyeri: 2 defa bulunmaktadır
+879 işyeri var.: 2 defa bulunmaktadır
+işyeri var. Faaliyet: 1 defa bulunmaktadır
+var. Faaliyet kollarına: 1 defa bulunmaktadır
+Faaliyet kollarına göre,: 1 defa bulunmaktadır
+kollarına göre, perakende: 1 defa bulunmaktadır
+göre, perakende ticarette: 1 defa bulunmaktadır
+perakende ticarette 248: 1 defa bulunmaktadır
+ticarette 248 bin: 1 defa bulunmaktadır
+248 bin 671,: 1 defa bulunmaktadır
+bin 671, bina: 1 defa bulunmaktadır
+671, bina inşaatında: 1 defa bulunmaktadır
+bina inşaatında 116: 1 defa bulunmaktadır
+inşaatında 116 bin: 1 defa bulunmaktadır
+116 bin 679,: 1 defa bulunmaktadır
+bin 679, kara: 1 defa bulunmaktadır
+679, kara taşımacılığı: 1 defa bulunmaktadır
+kara taşımacılığı ve: 1 defa bulunmaktadır
+taşımacılığı ve boru: 1 defa bulunmaktadır
+ve boru hattı: 2 defa bulunmaktadır
+boru hattı taşımacılığında: 1 defa bulunmaktadır
+hattı taşımacılığında ise: 1 defa bulunmaktadır
+taşımacılığında ise 108: 1 defa bulunmaktadır
+ise 108 bin: 1 defa bulunmaktadır
+108 bin 728: 2 defa bulunmaktadır
+bin 728 işyeri: 1 defa bulunmaktadır
+728 işyeri bulunuyor.: 1 defa bulunmaktadır
+işyeri bulunuyor. Çalışma: 1 defa bulunmaktadır
+bulunuyor. Çalışma ve: 1 defa bulunmaktadır
+Çalışma ve Sosyal: 2 defa bulunmaktadır
+ve Sosyal Güvenlik: 2 defa bulunmaktadır
+Sosyal Güvenlik Bakanlığının: 2 defa bulunmaktadır
+Güvenlik Bakanlığının ''2011: 1 defa bulunmaktadır
+Bakanlığının ''2011 Çalışma: 1 defa bulunmaktadır
+''2011 Çalışma Hayatı: 1 defa bulunmaktadır
+Çalışma Hayatı İstatistikleri''ne: 1 defa bulunmaktadır
+Hayatı İstatistikleri''ne göre,: 1 defa bulunmaktadır
+İstatistikleri''ne göre, Sosyal: 1 defa bulunmaktadır
+göre, Sosyal Sigortalar: 1 defa bulunmaktadır
+Sosyal Sigortalar ve: 1 defa bulunmaktadır
+Sigortalar ve Genel: 1 defa bulunmaktadır
+ve Genel Sağlık: 1 defa bulunmaktadır
+Genel Sağlık Sigortası'nın: 1 defa bulunmaktadır
+Sağlık Sigortası'nın ''sigortalı: 1 defa bulunmaktadır
+Sigortası'nın ''sigortalı sayılanlar''a: 1 defa bulunmaktadır
+''sigortalı sayılanlar''a ilişkin: 1 defa bulunmaktadır
+sayılanlar''a ilişkin 4.: 1 defa bulunmaktadır
+ilişkin 4. maddesinin: 1 defa bulunmaktadır
+4. maddesinin ''a'': 1 defa bulunmaktadır
+maddesinin ''a'' bendine: 1 defa bulunmaktadır
+''a'' bendine göre,: 1 defa bulunmaktadır
+bendine göre, Türkiye'de: 1 defa bulunmaktadır
+göre, Türkiye'de hizmet: 1 defa bulunmaktadır
+Türkiye'de hizmet akdi: 2 defa bulunmaktadır
+hizmet akdi ile: 2 defa bulunmaktadır
+akdi ile çalışanı: 1 defa bulunmaktadır
+ile çalışanı bulunan: 1 defa bulunmaktadır
+çalışanı bulunan 1: 1 defa bulunmaktadır
+bulunan 1 milyon: 1 defa bulunmaktadır
+1 milyon 435: 2 defa bulunmaktadır
+milyon 435 bin: 2 defa bulunmaktadır
+435 bin 879: 2 defa bulunmaktadır
+bin 879 işyeri: 2 defa bulunmaktadır
+879 işyeri var.: 2 defa bulunmaktadır
+işyeri var.         : 1 defa bulunmaktadır
+var.          Bu: 1 defa bulunmaktadır
+         Bu işyerlerinden: 1 defa bulunmaktadır
+Bu işyerlerinden sadece: 1 defa bulunmaktadır
+işyerlerinden sadece 230'u,: 1 defa bulunmaktadır
+sadece 230'u, binin: 1 defa bulunmaktadır
+230'u, binin üzerinde: 1 defa bulunmaktadır
+binin üzerinde çalışan: 1 defa bulunmaktadır
+üzerinde çalışan istihdam: 1 defa bulunmaktadır
+çalışan istihdam ederken: 1 defa bulunmaktadır
+istihdam ederken sadece: 1 defa bulunmaktadır
+ederken sadece 1: 1 defa bulunmaktadır
+sadece 1 kişinin: 1 defa bulunmaktadır
+1 kişinin çalıştığı: 1 defa bulunmaktadır
+kişinin çalıştığı işyeri: 1 defa bulunmaktadır
+çalıştığı işyeri sayısı: 1 defa bulunmaktadır
+işyeri sayısı ise: 1 defa bulunmaktadır
+sayısı ise 513: 1 defa bulunmaktadır
+ise 513 bin: 1 defa bulunmaktadır
+513 bin 454.: 1 defa bulunmaktadır
+bin 454. Yurt: 1 defa bulunmaktadır
+454. Yurt genelinde: 1 defa bulunmaktadır
+Yurt genelinde 2-3: 1 defa bulunmaktadır
+genelinde 2-3 çalışanı: 1 defa bulunmaktadır
+2-3 çalışanı olan: 1 defa bulunmaktadır
+çalışanı olan 393: 1 defa bulunmaktadır
+olan 393 bin: 1 defa bulunmaktadır
+393 bin 195,: 1 defa bulunmaktadır
+bin 195, 4-6: 1 defa bulunmaktadır
+195, 4-6 arasında: 1 defa bulunmaktadır
+4-6 arasında çalışanı: 1 defa bulunmaktadır
+arasında çalışanı olan: 9 defa bulunmaktadır
+çalışanı olan 220: 1 defa bulunmaktadır
+olan 220 bin: 1 defa bulunmaktadır
+220 bin 101,: 1 defa bulunmaktadır
+bin 101, 7-9: 1 defa bulunmaktadır
+101, 7-9 arasında: 1 defa bulunmaktadır
+7-9 arasında çalışanı: 1 defa bulunmaktadır
+arasında çalışanı olan: 9 defa bulunmaktadır
+çalışanı olan 97: 1 defa bulunmaktadır
+olan 97 bin: 1 defa bulunmaktadır
+97 bin 990,: 1 defa bulunmaktadır
+bin 990, 10-19: 1 defa bulunmaktadır
+990, 10-19 arasında: 1 defa bulunmaktadır
+10-19 arasında çalışanı: 1 defa bulunmaktadır
+arasında çalışanı olan: 9 defa bulunmaktadır
+çalışanı olan 115: 1 defa bulunmaktadır
+olan 115 bin: 1 defa bulunmaktadır
+115 bin 861,: 1 defa bulunmaktadır
+bin 861, 20-29: 1 defa bulunmaktadır
+861, 20-29 arasında: 1 defa bulunmaktadır
+20-29 arasında çalışanı: 1 defa bulunmaktadır
+arasında çalışanı olan: 9 defa bulunmaktadır
+çalışanı olan 37: 1 defa bulunmaktadır
+olan 37 bin: 1 defa bulunmaktadır
+37 bin 188,: 1 defa bulunmaktadır
+bin 188, 30-49: 1 defa bulunmaktadır
+188, 30-49 arasında: 1 defa bulunmaktadır
+30-49 arasında çalışanı: 1 defa bulunmaktadır
+arasında çalışanı olan: 9 defa bulunmaktadır
+çalışanı olan 30: 1 defa bulunmaktadır
+olan 30 bin: 1 defa bulunmaktadır
+30 bin 366,: 1 defa bulunmaktadır
+bin 366, 50-99: 1 defa bulunmaktadır
+366, 50-99 arasında: 1 defa bulunmaktadır
+50-99 arasında çalışanı: 1 defa bulunmaktadır
+arasında çalışanı olan: 9 defa bulunmaktadır
+çalışanı olan 15: 1 defa bulunmaktadır
+olan 15 bin: 1 defa bulunmaktadır
+15 bin 482,: 1 defa bulunmaktadır
+bin 482, 100-249: 1 defa bulunmaktadır
+482, 100-249 çalışanı: 1 defa bulunmaktadır
+100-249 çalışanı olan: 1 defa bulunmaktadır
+çalışanı olan 8: 1 defa bulunmaktadır
+olan 8 bin: 1 defa bulunmaktadır
+8 bin 946,: 1 defa bulunmaktadır
+bin 946, 250-499: 1 defa bulunmaktadır
+946, 250-499 arasında: 1 defa bulunmaktadır
+250-499 arasında çalışanı: 1 defa bulunmaktadır
+arasında çalışanı olan: 9 defa bulunmaktadır
+çalışanı olan 2: 1 defa bulunmaktadır
+olan 2 bin: 1 defa bulunmaktadır
+2 bin 304,: 1 defa bulunmaktadır
+bin 304, 500-749: 1 defa bulunmaktadır
+304, 500-749 arasında: 1 defa bulunmaktadır
+500-749 arasında çalışanı: 1 defa bulunmaktadır
+arasında çalışanı olan: 9 defa bulunmaktadır
+çalışanı olan 561: 1 defa bulunmaktadır
+olan 561 ve: 1 defa bulunmaktadır
+561 ve 750-999: 1 defa bulunmaktadır
+ve 750-999 arasında: 1 defa bulunmaktadır
+750-999 arasında çalışanı: 1 defa bulunmaktadır
+arasında çalışanı olan: 9 defa bulunmaktadır
+çalışanı olan 201: 1 defa bulunmaktadır
+olan 201 işyeri: 1 defa bulunmaktadır
+201 işyeri bulunuyor.: 1 defa bulunmaktadır
+işyeri bulunuyor.         : 1 defa bulunmaktadır
+bulunuyor.          -En: 1 defa bulunmaktadır
+         -En çok: 1 defa bulunmaktadır
+-En çok işyeri: 1 defa bulunmaktadır
+çok işyeri perakende: 1 defa bulunmaktadır
+işyeri perakende ticarette-: 1 defa bulunmaktadır
+perakende ticarette-         : 1 defa bulunmaktadır
+ticarette-          Çalışma: 1 defa bulunmaktadır
+         Çalışma ve: 1 defa bulunmaktadır
+Çalışma ve Sosyal: 2 defa bulunmaktadır
+ve Sosyal Güvenlik: 2 defa bulunmaktadır
+Sosyal Güvenlik Bakanlığının: 2 defa bulunmaktadır
+Güvenlik Bakanlığının verilere: 1 defa bulunmaktadır
+Bakanlığının verilere göre,: 1 defa bulunmaktadır
+verilere göre, en: 1 defa bulunmaktadır
+göre, en çok: 1 defa bulunmaktadır
+en çok işyeri: 1 defa bulunmaktadır
+çok işyeri bulunan: 1 defa bulunmaktadır
+işyeri bulunan faaliyet: 1 defa bulunmaktadır
+bulunan faaliyet kolları: 1 defa bulunmaktadır
+faaliyet kolları sırasıyla: 1 defa bulunmaktadır
+kolları sırasıyla şöyle:: 1 defa bulunmaktadır
+sırasıyla şöyle:         : 1 defa bulunmaktadır
+şöyle:          -Perakende: 1 defa bulunmaktadır
+         -Perakende ticaret:                       : 1 defa bulunmaktadır
+-Perakende ticaret:                        248: 1 defa bulunmaktadır
+ticaret:                        248 bin: 1 defa bulunmaktadır
+248 bin 671: 1 defa bulunmaktadır
+bin 671         : 1 defa bulunmaktadır
+671          -Bina: 1 defa bulunmaktadır
+         -Bina inşaatı:                            : 1 defa bulunmaktadır
+-Bina inşaatı:                             116: 1 defa bulunmaktadır
+inşaatı:                             116 bin: 1 defa bulunmaktadır
+116 bin 679: 1 defa bulunmaktadır
+bin 679         : 1 defa bulunmaktadır
+679          -Kara: 1 defa bulunmaktadır
+         -Kara ve: 1 defa bulunmaktadır
+-Kara ve boru: 1 defa bulunmaktadır
+ve boru hattı: 2 defa bulunmaktadır
+boru hattı taşımacılığı:         : 1 defa bulunmaktadır
+hattı taşımacılığı:          108: 1 defa bulunmaktadır
+taşımacılığı:          108 bin: 1 defa bulunmaktadır
+108 bin 728: 2 defa bulunmaktadır
+bin 728         : 1 defa bulunmaktadır
+728          -Toptan: 1 defa bulunmaktadır
+         -Toptan ticaret:                           : 1 defa bulunmaktadır
+-Toptan ticaret:                            91: 1 defa bulunmaktadır
+ticaret:                            91 bin: 1 defa bulunmaktadır
+91 bin 455: 1 defa bulunmaktadır
+bin 455         : 1 defa bulunmaktadır
+455          -Yiyecek: 1 defa bulunmaktadır
+         -Yiyecek ve: 1 defa bulunmaktadır
+-Yiyecek ve içecek: 1 defa bulunmaktadır
+ve içecek hizmeti:                : 1 defa bulunmaktadır
+içecek hizmeti:                 69: 1 defa bulunmaktadır
+hizmeti:                 69 bin: 1 defa bulunmaktadır
+69 bin 895: 1 defa bulunmaktadır
+bin 895         : 1 defa bulunmaktadır
+895          -Özel: 1 defa bulunmaktadır
+         -Özel inşaat: 1 defa bulunmaktadır
+-Özel inşaat faaliyetleri:                 : 1 defa bulunmaktadır
+inşaat faaliyetleri:                  48: 1 defa bulunmaktadır
+faaliyetleri:                  48 bin: 1 defa bulunmaktadır
+48 bin 436: 1 defa bulunmaktadır
+bin 436         : 1 defa bulunmaktadır
+436          -Elektrik,: 1 defa bulunmaktadır
+         -Elektrik, gaz,: 1 defa bulunmaktadır
+-Elektrik, gaz, buhar: 1 defa bulunmaktadır
+gaz, buhar ve: 1 defa bulunmaktadır
+buhar ve hava: 1 defa bulunmaktadır
+ve hava sistemleri: 1 defa bulunmaktadır
+hava sistemleri         : 1 defa bulunmaktadır
+sistemleri          üretim: 1 defa bulunmaktadır
+         üretim ve: 1 defa bulunmaktadır
+üretim ve dağıtımı:                        : 1 defa bulunmaktadır
+ve dağıtımı:                         40: 1 defa bulunmaktadır
+dağıtımı:                         40 bin: 1 defa bulunmaktadır
+40 bin 469: 1 defa bulunmaktadır
+bin 469         : 1 defa bulunmaktadır
+469          -Bina: 1 defa bulunmaktadır
+         -Bina ve: 1 defa bulunmaktadır
+-Bina ve çevre: 1 defa bulunmaktadır
+ve çevre düzenleme: 1 defa bulunmaktadır
+çevre düzenleme faaliyetleri:     : 1 defa bulunmaktadır
+düzenleme faaliyetleri:      39: 1 defa bulunmaktadır
+faaliyetleri:      39 bin: 1 defa bulunmaktadır
+39 bin 821: 1 defa bulunmaktadır
+bin 821         : 1 defa bulunmaktadır
+821          -Büro: 1 defa bulunmaktadır
+         -Büro yönetimi: 1 defa bulunmaktadır
+-Büro yönetimi ve: 1 defa bulunmaktadır
+yönetimi ve büro: 1 defa bulunmaktadır
+ve büro desteği: 1 defa bulunmaktadır
+büro desteği faaliyet:   : 1 defa bulunmaktadır
+desteği faaliyet:    39: 1 defa bulunmaktadır
+faaliyet:    39 bin: 1 defa bulunmaktadır
+39 bin 383: 1 defa bulunmaktadır
+bin 383         : 1 defa bulunmaktadır
+383          -Gıda: 1 defa bulunmaktadır
+         -Gıda ürünleri: 1 defa bulunmaktadır
+-Gıda ürünleri imalatı:                    : 1 defa bulunmaktadır
+ürünleri imalatı:                     39: 1 defa bulunmaktadır
+imalatı:                     39 bin: 1 defa bulunmaktadır
+39 bin 379: 1 defa bulunmaktadır
+bin 379         : 1 defa bulunmaktadır
+379          -Hukuki: 1 defa bulunmaktadır
+         -Hukuki ve: 1 defa bulunmaktadır
+-Hukuki ve muhasebe: 1 defa bulunmaktadır
+ve muhasebe faaliyetleri:          : 1 defa bulunmaktadır
+muhasebe faaliyetleri:           35: 1 defa bulunmaktadır
+faaliyetleri:           35 bin: 1 defa bulunmaktadır
+35 bin 360: 1 defa bulunmaktadır
+bin 360         : 1 defa bulunmaktadır
+360          -İdari: 1 defa bulunmaktadır
+         -İdari danışmanlık: 1 defa bulunmaktadır
+-İdari danışmanlık faaliyetleri:           : 1 defa bulunmaktadır
+danışmanlık faaliyetleri:            30: 1 defa bulunmaktadır
+faaliyetleri:            30 bin: 1 defa bulunmaktadır
+30 bin 698: 1 defa bulunmaktadır
+bin 698         : 1 defa bulunmaktadır
+698          -Fabrikasyon: 1 defa bulunmaktadır
+         -Fabrikasyon metal: 1 defa bulunmaktadır
+-Fabrikasyon metal ürünleri:               : 1 defa bulunmaktadır
+metal ürünleri:                30: 1 defa bulunmaktadır
+ürünleri:                30 bin: 1 defa bulunmaktadır
+30 bin 546: 1 defa bulunmaktadır
+bin 546         : 1 defa bulunmaktadır
+546          -Giyim: 1 defa bulunmaktadır
+         -Giyim eşyaları: 1 defa bulunmaktadır
+-Giyim eşyaları imalatı:                   : 1 defa bulunmaktadır
+eşyaları imalatı:                    30: 1 defa bulunmaktadır
+imalatı:                    30 bin: 1 defa bulunmaktadır
+30 bin 325: 1 defa bulunmaktadır
+bin 325         : 1 defa bulunmaktadır
+325          -Toptan,: 1 defa bulunmaktadır
+         -Toptan, perakende: 1 defa bulunmaktadır
+-Toptan, perakende ticaret: 1 defa bulunmaktadır
+perakende ticaret ve: 1 defa bulunmaktadır
+ticaret ve motorlu: 1 defa bulunmaktadır
+ve motorlu         : 1 defa bulunmaktadır
+motorlu          taşıt: 1 defa bulunmaktadır
+         taşıt onarımı:                             : 1 defa bulunmaktadır
+taşıt onarımı:                              28: 1 defa bulunmaktadır
+onarımı:                              28 bin: 1 defa bulunmaktadır
+28 bin 820: 1 defa bulunmaktadır
+bin 820         : 1 defa bulunmaktadır
+820          -Eğitim:                                   : 1 defa bulunmaktadır
+         -Eğitim:                                    24: 1 defa bulunmaktadır
+-Eğitim:                                    24 bin: 1 defa bulunmaktadır
+24 bin 973: 1 defa bulunmaktadır
+bin 973         : 1 defa bulunmaktadır
+973          -Makine: 1 defa bulunmaktadır
+         -Makine ve: 2 defa bulunmaktadır
+-Makine ve ekipman: 2 defa bulunmaktadır
+ve ekipman kurulum: 1 defa bulunmaktadır
+ekipman kurulum ve: 1 defa bulunmaktadır
+kurulum ve onarımı:     : 1 defa bulunmaktadır
+ve onarımı:      19: 1 defa bulunmaktadır
+onarımı:      19 bin: 1 defa bulunmaktadır
+19 bin 592: 1 defa bulunmaktadır
+bin 592         : 1 defa bulunmaktadır
+592          -İnsan: 1 defa bulunmaktadır
+         -İnsan sağlığı: 1 defa bulunmaktadır
+-İnsan sağlığı hizmetleri:                 : 1 defa bulunmaktadır
+sağlığı hizmetleri:                  16: 1 defa bulunmaktadır
+hizmetleri:                  16 bin: 1 defa bulunmaktadır
+16 bin 931: 1 defa bulunmaktadır
+bin 931         : 1 defa bulunmaktadır
+931          -Mobilya: 1 defa bulunmaktadır
+         -Mobilya imalatı:                          : 1 defa bulunmaktadır
+-Mobilya imalatı:                           16: 1 defa bulunmaktadır
+imalatı:                           16 bin: 1 defa bulunmaktadır
+16 bin 915: 1 defa bulunmaktadır
+bin 915         : 1 defa bulunmaktadır
+915          -Güvenlik: 1 defa bulunmaktadır
+         -Güvenlik ve: 1 defa bulunmaktadır
+-Güvenlik ve soruşturma: 1 defa bulunmaktadır
+ve soruşturma faaliyetleri:      : 1 defa bulunmaktadır
+soruşturma faaliyetleri:       16: 1 defa bulunmaktadır
+faaliyetleri:       16 bin: 1 defa bulunmaktadır
+16 bin 449: 1 defa bulunmaktadır
+bin 449         : 1 defa bulunmaktadır
+449          -Tekstil: 1 defa bulunmaktadır
+         -Tekstil ürünleri: 1 defa bulunmaktadır
+-Tekstil ürünleri imalatı:                 : 1 defa bulunmaktadır
+ürünleri imalatı:                  16: 1 defa bulunmaktadır
+imalatı:                  16 bin: 1 defa bulunmaktadır
+16 bin 47: 1 defa bulunmaktadır
+bin 47         : 1 defa bulunmaktadır
+47          -Taşıma: 1 defa bulunmaktadır
+         -Taşıma için: 1 defa bulunmaktadır
+-Taşıma için depolama: 1 defa bulunmaktadır
+için depolama ve: 1 defa bulunmaktadır
+depolama ve destek: 1 defa bulunmaktadır
+ve destek faaliyeti: : 1 defa bulunmaktadır
+destek faaliyeti:  16: 1 defa bulunmaktadır
+faaliyeti:  16 bin: 1 defa bulunmaktadır
+16 bin 9: 1 defa bulunmaktadır
+bin 9         : 1 defa bulunmaktadır
+9          -Mimarlık: 1 defa bulunmaktadır
+         -Mimarlık ve: 1 defa bulunmaktadır
+-Mimarlık ve mühendislik: 1 defa bulunmaktadır
+ve mühendislik faaliyetleri:     : 1 defa bulunmaktadır
+mühendislik faaliyetleri:      15: 1 defa bulunmaktadır
+faaliyetleri:      15 bin: 1 defa bulunmaktadır
+15 bin 998: 1 defa bulunmaktadır
+bin 998         : 1 defa bulunmaktadır
+998          -Makine: 1 defa bulunmaktadır
+         -Makine ve: 2 defa bulunmaktadır
+-Makine ve ekipman: 2 defa bulunmaktadır
+ve ekipman imalatı:                : 1 defa bulunmaktadır
+ekipman imalatı:                 15: 1 defa bulunmaktadır
+imalatı:                 15 bin: 1 defa bulunmaktadır
+15 bin 752: 1 defa bulunmaktadır
+bin 752         : 1 defa bulunmaktadır
+752          -Bina: 1 defa bulunmaktadır
+         -Bina dış: 1 defa bulunmaktadır
+-Bina dış yapılarının: 1 defa bulunmaktadır
+dış yapılarının inşaatı:             : 1 defa bulunmaktadır
+yapılarının inşaatı:              12: 1 defa bulunmaktadır
+inşaatı:              12 bin: 1 defa bulunmaktadır
+12 bin 763: 1 defa bulunmaktadır
+bin 763         : 1 defa bulunmaktadır
+763          -Metalik: 1 defa bulunmaktadır
+         -Metalik olmayan: 1 defa bulunmaktadır
+-Metalik olmayan ürünler: 1 defa bulunmaktadır
+olmayan ürünler imalatı:          : 1 defa bulunmaktadır
+ürünler imalatı:           12: 1 defa bulunmaktadır
+imalatı:           12 bin: 1 defa bulunmaktadır
+12 bin 442: 1 defa bulunmaktadır
+bin 442         : 1 defa bulunmaktadır
+442          -Konaklama:                                : 1 defa bulunmaktadır
+         -Konaklama:                                 12: 1 defa bulunmaktadır
+-Konaklama:                                 12 bin: 1 defa bulunmaktadır
+12 bin 260: 1 defa bulunmaktadır
+bin 260         : 1 defa bulunmaktadır
+260          -Bilgisayar: 1 defa bulunmaktadır
+         -Bilgisayar ve: 1 defa bulunmaktadır
+-Bilgisayar ve kişisel: 1 defa bulunmaktadır
+ve kişisel ev: 1 defa bulunmaktadır
+kişisel ev eşyaları: 1 defa bulunmaktadır
+ev eşyaları onarımı:: 1 defa bulunmaktadır
+eşyaları onarımı: 11: 1 defa bulunmaktadır
+onarımı: 11 bin: 1 defa bulunmaktadır
+11 bin 650: 1 defa bulunmaktadır
+bin 650         : 1 defa bulunmaktadır
+650          -Bitkisel: 1 defa bulunmaktadır
+         -Bitkisel ve: 1 defa bulunmaktadır
+-Bitkisel ve hayvansal: 1 defa bulunmaktadır
+ve hayvansal üretim:             : 1 defa bulunmaktadır
+hayvansal üretim:              11: 1 defa bulunmaktadır
+üretim:              11 bin: 1 defa bulunmaktadır
+11 bin 569: 1 defa bulunmaktadır
+bin 569         : 1 defa bulunmaktadır
+569          -Ağaç,: 1 defa bulunmaktadır
+         -Ağaç, ağaç: 1 defa bulunmaktadır
+-Ağaç, ağaç ürünleri: 1 defa bulunmaktadır
+ağaç ürünleri ve: 1 defa bulunmaktadır
+ürünleri ve mantar: 1 defa bulunmaktadır
+ve mantar üretimi:    : 1 defa bulunmaktadır
+mantar üretimi:     11: 1 defa bulunmaktadır
+üretimi:     11 bin: 1 defa bulunmaktadır
+11 bin 232: 1 defa bulunmaktadır
+bin 232         : 1 defa bulunmaktadır
+232          -Kauçuk: 1 defa bulunmaktadır
+         -Kauçuk ve: 1 defa bulunmaktadır
+-Kauçuk ve plastik: 1 defa bulunmaktadır
+ve plastik ürünler: 1 defa bulunmaktadır
+plastik ürünler imalatı:        : 1 defa bulunmaktadır
+ürünler imalatı:         11: 1 defa bulunmaktadır
+imalatı:         11 bin: 1 defa bulunmaktadır
+11 bin 82: 1 defa bulunmaktadır
+bin 82         : 1 defa bulunmaktadır
+82          -En: 1 defa bulunmaktadır
+         -En az: 1 defa bulunmaktadır
+-En az işyeri: 1 defa bulunmaktadır
+az işyeri ham: 1 defa bulunmaktadır
+işyeri ham petrol: 1 defa bulunmaktadır
+ham petrol ve: 2 defa bulunmaktadır
+petrol ve doğalgaz: 2 defa bulunmaktadır
+ve doğalgaz çıkarım: 1 defa bulunmaktadır
+doğalgaz çıkarım alanında-: 1 defa bulunmaktadır
+çıkarım alanında-         : 1 defa bulunmaktadır
+alanında-          Verilere: 1 defa bulunmaktadır
+         Verilere göre,: 1 defa bulunmaktadır
+Verilere göre, ham: 1 defa bulunmaktadır
+göre, ham petrol: 1 defa bulunmaktadır
+ham petrol ve: 2 defa bulunmaktadır
+petrol ve doğalgaz: 2 defa bulunmaktadır
+ve doğalgaz çıkarımında: 1 defa bulunmaktadır
+doğalgaz çıkarımında 51,: 1 defa bulunmaktadır
+çıkarımında 51, tütün: 1 defa bulunmaktadır
+51, tütün ürünleri: 1 defa bulunmaktadır
+tütün ürünleri imalatında: 1 defa bulunmaktadır
+ürünleri imalatında 57,: 1 defa bulunmaktadır
+imalatında 57, havayolu: 1 defa bulunmaktadır
+57, havayolu taşımacılığında: 1 defa bulunmaktadır
+havayolu taşımacılığında 156,: 1 defa bulunmaktadır
+taşımacılığında 156, iyileştirme: 1 defa bulunmaktadır
+156, iyileştirme ve: 1 defa bulunmaktadır
+iyileştirme ve diğer: 1 defa bulunmaktadır
+ve diğer atık: 1 defa bulunmaktadır
+diğer atık hizmetleri: 1 defa bulunmaktadır
+atık hizmetleri yönetiminde: 1 defa bulunmaktadır
+hizmetleri yönetiminde 200,: 1 defa bulunmaktadır
+yönetiminde 200, eczacılık: 1 defa bulunmaktadır
+200, eczacılık ve: 1 defa bulunmaktadır
+eczacılık ve buna: 1 defa bulunmaktadır
+ve buna ilişkin: 1 defa bulunmaktadır
+buna ilişkin malzeme: 1 defa bulunmaktadır
+ilişkin malzeme imalatında: 1 defa bulunmaktadır
+malzeme imalatında 205,: 1 defa bulunmaktadır
+imalatında 205, kanalizasyon: 1 defa bulunmaktadır
+205, kanalizasyon alanında: 1 defa bulunmaktadır
+kanalizasyon alanında 284,: 1 defa bulunmaktadır
+alanında 284, kok: 1 defa bulunmaktadır
+284, kok kömürü: 1 defa bulunmaktadır
+kok kömürü ve: 1 defa bulunmaktadır
+kömürü ve petrol: 1 defa bulunmaktadır
+ve petrol ürünleri: 1 defa bulunmaktadır
+petrol ürünleri imalatında: 1 defa bulunmaktadır
+ürünleri imalatında 375,: 1 defa bulunmaktadır
+imalatında 375, bilimsel: 1 defa bulunmaktadır
+375, bilimsel araştırma: 1 defa bulunmaktadır
+bilimsel araştırma ve: 1 defa bulunmaktadır
+araştırma ve geliştirme: 1 defa bulunmaktadır
+ve geliştirme faaliyetlerinde: 1 defa bulunmaktadır
+geliştirme faaliyetlerinde 426: 1 defa bulunmaktadır
+faaliyetlerinde 426 ve: 1 defa bulunmaktadır
+426 ve programcılık: 1 defa bulunmaktadır
+ve programcılık yayıncılıkta: 1 defa bulunmaktadır
+programcılık yayıncılıkta ise: 1 defa bulunmaktadır
+yayıncılıkta ise 517: 1 defa bulunmaktadır
+ise 517 firma: 1 defa bulunmaktadır
+517 firma faaliyet: 1 defa bulunmaktadır
+firma faaliyet gösteriyor.: 1 defa bulunmaktadır
+faaliyet gösteriyor.         : 1 defa bulunmaktadır
+gösteriyor.          Binin: 1 defa bulunmaktadır
+         Binin üzerinde: 1 defa bulunmaktadır
+Binin üzerinde çalışanı: 1 defa bulunmaktadır
+üzerinde çalışanı bulunan: 1 defa bulunmaktadır
+çalışanı bulunan firmalar: 1 defa bulunmaktadır
+bulunan firmalar ise: 1 defa bulunmaktadır
+firmalar ise gıda: 1 defa bulunmaktadır
+ise gıda ürünleri,: 1 defa bulunmaktadır
+gıda ürünleri, tekstil,: 1 defa bulunmaktadır
+ürünleri, tekstil, giyim: 1 defa bulunmaktadır
+tekstil, giyim eşyası,: 1 defa bulunmaktadır
+giyim eşyası, elektrikli: 1 defa bulunmaktadır
+eşyası, elektrikli teçhizat,: 1 defa bulunmaktadır
+elektrikli teçhizat, makine: 1 defa bulunmaktadır
+teçhizat, makine ve: 1 defa bulunmaktadır
+makine ve ekipman: 1 defa bulunmaktadır
+ve ekipman imalatı: 1 defa bulunmaktadır
+ekipman imalatı ile: 1 defa bulunmaktadır
+imalatı ile bina: 1 defa bulunmaktadır
+ile bina inşaatı: 1 defa bulunmaktadır
+bina inşaatı sektörlerinde: 1 defa bulunmaktadır
+inşaatı sektörlerinde yoğunlaşıyor.: 1 defa bulunmaktadır
+sektörlerinde yoğunlaşıyor.         : 1 defa bulunmaktadır
+yoğunlaşıyor.          AA: 1 defa bulunmaktadır

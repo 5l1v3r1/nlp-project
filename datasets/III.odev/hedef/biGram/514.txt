@@ -1,0 +1,138 @@
+İkinci el: 2 defa bulunmaktadır
+el araç: 3 defa bulunmaktadır
+araç satışında: 1 defa bulunmaktadır
+satışında bayram: 1 defa bulunmaktadır
+bayram bereketi: 1 defa bulunmaktadır
+bereketi Kurban: 1 defa bulunmaktadır
+Kurban Bayramı'nın: 1 defa bulunmaktadır
+Bayramı'nın yaklaşmasıyla: 1 defa bulunmaktadır
+yaklaşmasıyla ikinci: 1 defa bulunmaktadır
+ikinci el: 1 defa bulunmaktadır
+el araç: 3 defa bulunmaktadır
+araç satışları: 1 defa bulunmaktadır
+satışları da: 1 defa bulunmaktadır
+da hız: 1 defa bulunmaktadır
+hız kazandı.: 1 defa bulunmaktadır
+kazandı. Başkent: 1 defa bulunmaktadır
+Başkent Otomotivciler: 1 defa bulunmaktadır
+Otomotivciler Derneği: 1 defa bulunmaktadır
+Derneği (BOD): 1 defa bulunmaktadır
+(BOD) Başkanı: 1 defa bulunmaktadır
+Başkanı Aydın: 1 defa bulunmaktadır
+Aydın Erkoç,: 1 defa bulunmaktadır
+Erkoç, araç: 1 defa bulunmaktadır
+araç satışlarının: 1 defa bulunmaktadır
+satışlarının bayram: 1 defa bulunmaktadır
+bayram dönemlerinde: 1 defa bulunmaktadır
+dönemlerinde hızlandığını: 1 defa bulunmaktadır
+hızlandığını belirterek,: 1 defa bulunmaktadır
+belirterek, yaklaşan: 1 defa bulunmaktadır
+yaklaşan Kurban: 1 defa bulunmaktadır
+Kurban Bayramı: 1 defa bulunmaktadır
+Bayramı öncesinde: 1 defa bulunmaktadır
+öncesinde araç: 1 defa bulunmaktadır
+araç almak: 1 defa bulunmaktadır
+almak isteyenleri: 1 defa bulunmaktadır
+isteyenleri hızlı: 1 defa bulunmaktadır
+hızlı davranmaları: 1 defa bulunmaktadır
+davranmaları konusunda: 1 defa bulunmaktadır
+konusunda uyardı.: 1 defa bulunmaktadır
+uyardı. Konuya: 1 defa bulunmaktadır
+Konuya ilişkin: 1 defa bulunmaktadır
+ilişkin AA: 1 defa bulunmaktadır
+AA muhabirine: 1 defa bulunmaktadır
+muhabirine değerlendirmelerde: 1 defa bulunmaktadır
+değerlendirmelerde bulunan: 1 defa bulunmaktadır
+bulunan Erkoç,: 1 defa bulunmaktadır
+Erkoç, ''Güvenmediğiniz: 1 defa bulunmaktadır
+''Güvenmediğiniz kişilerden: 1 defa bulunmaktadır
+kişilerden araç: 1 defa bulunmaktadır
+araç satın: 1 defa bulunmaktadır
+satın almayın.: 1 defa bulunmaktadır
+almayın. Alacağınız: 1 defa bulunmaktadır
+Alacağınız aracın,: 1 defa bulunmaktadır
+aracın, almadan: 1 defa bulunmaktadır
+almadan önce: 1 defa bulunmaktadır
+önce mutlaka: 1 defa bulunmaktadır
+mutlaka gerekli: 1 defa bulunmaktadır
+gerekli kontrollerini: 1 defa bulunmaktadır
+kontrollerini yaptırın'': 1 defa bulunmaktadır
+yaptırın'' uyarılarında: 1 defa bulunmaktadır
+uyarılarında bulundu.: 1 defa bulunmaktadır
+bulundu. İkinci: 1 defa bulunmaktadır
+İkinci el: 2 defa bulunmaktadır
+el araç: 3 defa bulunmaktadır
+araç piyasasındaki: 1 defa bulunmaktadır
+piyasasındaki bazı: 1 defa bulunmaktadır
+bazı araçların: 1 defa bulunmaktadır
+araçların ortalama: 1 defa bulunmaktadır
+ortalama satış: 1 defa bulunmaktadır
+satış fiyatları: 1 defa bulunmaktadır
+fiyatları ise: 1 defa bulunmaktadır
+ise şöyle;: 1 defa bulunmaktadır
+şöyle; Marka-Model             : 1 defa bulunmaktadır
+Marka-Model              Yıl         : 1 defa bulunmaktadır
+Yıl          Yakıt            : 1 defa bulunmaktadır
+Yakıt             Fiyat: 1 defa bulunmaktadır
+Fiyat Tofaş: 1 defa bulunmaktadır
+Tofaş Şahin             : 1 defa bulunmaktadır
+Şahin              1995      : 1 defa bulunmaktadır
+1995       Benzin+LPG         : 1 defa bulunmaktadır
+Benzin+LPG          8.000: 1 defa bulunmaktadır
+8.000 Fiat: 1 defa bulunmaktadır
+Fiat Albea              : 1 defa bulunmaktadır
+Albea               2006      : 1 defa bulunmaktadır
+2006       Benzin+LPG        : 1 defa bulunmaktadır
+Benzin+LPG         13.000: 1 defa bulunmaktadır
+13.000 Hyundai: 1 defa bulunmaktadır
+Hyundai Accent          : 1 defa bulunmaktadır
+Accent           2005      : 1 defa bulunmaktadır
+2005       Benzin+LPG        : 1 defa bulunmaktadır
+Benzin+LPG         17.000: 1 defa bulunmaktadır
+17.000 Renault: 1 defa bulunmaktadır
+Renault Megane          : 1 defa bulunmaktadır
+Megane           2004      : 1 defa bulunmaktadır
+2004       Benzin+LPG        : 1 defa bulunmaktadır
+Benzin+LPG         19.500: 1 defa bulunmaktadır
+19.500 Ford: 1 defa bulunmaktadır
+Ford Mondeo             : 1 defa bulunmaktadır
+Mondeo              2005      : 1 defa bulunmaktadır
+2005       Dizel             : 2 defa bulunmaktadır
+Dizel              25.000: 1 defa bulunmaktadır
+25.000 Citroen: 1 defa bulunmaktadır
+Citroen C4              : 1 defa bulunmaktadır
+C4               2008      : 1 defa bulunmaktadır
+2008       Dizel             : 2 defa bulunmaktadır
+Dizel              30.000: 1 defa bulunmaktadır
+30.000 Peugeot: 1 defa bulunmaktadır
+Peugeot 407             : 1 defa bulunmaktadır
+407              2006      : 1 defa bulunmaktadır
+2006       Dizel             : 1 defa bulunmaktadır
+Dizel              32.000: 1 defa bulunmaktadır
+32.000 Volkswagen: 1 defa bulunmaktadır
+Volkswagen Jetta        : 1 defa bulunmaktadır
+Jetta         2010      : 1 defa bulunmaktadır
+2010       Benzin            : 2 defa bulunmaktadır
+Benzin             43.000: 1 defa bulunmaktadır
+43.000 L.Rover: 1 defa bulunmaktadır
+L.Rover Freelander      : 1 defa bulunmaktadır
+Freelander       2007      : 1 defa bulunmaktadır
+2007       Dizel             : 1 defa bulunmaktadır
+Dizel              52.000: 1 defa bulunmaktadır
+52.000 Chevrolet: 1 defa bulunmaktadır
+Chevrolet Captiva       : 1 defa bulunmaktadır
+Captiva        2008      : 1 defa bulunmaktadır
+2008       Dizel             : 2 defa bulunmaktadır
+Dizel              53.000: 1 defa bulunmaktadır
+53.000 Mercedes: 1 defa bulunmaktadır
+Mercedes C180           : 1 defa bulunmaktadır
+C180            2010      : 1 defa bulunmaktadır
+2010       Benzin            : 2 defa bulunmaktadır
+Benzin             79.000: 1 defa bulunmaktadır
+79.000 BMW: 1 defa bulunmaktadır
+BMW X5                  : 1 defa bulunmaktadır
+X5                   2005      : 1 defa bulunmaktadır
+2005       Dizel             : 2 defa bulunmaktadır
+Dizel              94.000: 1 defa bulunmaktadır
+94.000  : 1 defa bulunmaktadır
+   : 1 defa bulunmaktadır

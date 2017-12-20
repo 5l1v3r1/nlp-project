@@ -1,0 +1,16 @@
+İstanbul Boğazı: 1 defa bulunmaktadır
+Boğazı gemi: 1 defa bulunmaktadır
+gemi trafiğine: 1 defa bulunmaktadır
+trafiğine kapatıldı: 1 defa bulunmaktadır
+kapatıldı İstanbul: 1 defa bulunmaktadır
+İstanbul Boğazı,: 1 defa bulunmaktadır
+Boğazı, yoğun: 1 defa bulunmaktadır
+yoğun sis: 1 defa bulunmaktadır
+sis yüzünden: 1 defa bulunmaktadır
+yüzünden çift: 1 defa bulunmaktadır
+çift yönlü: 1 defa bulunmaktadır
+yönlü olarak: 1 defa bulunmaktadır
+olarak transit: 1 defa bulunmaktadır
+transit gemi: 1 defa bulunmaktadır
+gemi geçişlerine: 1 defa bulunmaktadır
+geçişlerine kapatıldı.             : 1 defa bulunmaktadır

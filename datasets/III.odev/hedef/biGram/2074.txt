@@ -1,0 +1,225 @@
+13 soruya: 2 defa bulunmaktadır
+soruya yanıt: 2 defa bulunmaktadır
+yanıt bekliyor: 1 defa bulunmaktadır
+bekliyor CHP: 1 defa bulunmaktadır
+CHP lideri: 1 defa bulunmaktadır
+lideri Kemal: 1 defa bulunmaktadır
+Kemal Kılıçdaroğlu,: 1 defa bulunmaktadır
+Kılıçdaroğlu, bütçe: 1 defa bulunmaktadır
+bütçe görüşmelerinde: 1 defa bulunmaktadır
+görüşmelerinde Meclis: 1 defa bulunmaktadır
+Meclis kürsüsünden: 1 defa bulunmaktadır
+kürsüsünden Başbakan: 1 defa bulunmaktadır
+Başbakan Erdoğan'a: 1 defa bulunmaktadır
+Erdoğan'a yönelttiği: 1 defa bulunmaktadır
+yönelttiği 13: 1 defa bulunmaktadır
+13 soruya: 2 defa bulunmaktadır
+soruya yanıt: 2 defa bulunmaktadır
+yanıt bekliyor.: 1 defa bulunmaktadır
+bekliyor. CHP: 1 defa bulunmaktadır
+CHP Grup: 1 defa bulunmaktadır
+Grup Başkanlığı'ndan: 1 defa bulunmaktadır
+Başkanlığı'ndan yapılan: 1 defa bulunmaktadır
+yapılan açıklamada,: 1 defa bulunmaktadır
+açıklamada, Kılıçdaroğlu'nun: 1 defa bulunmaktadır
+Kılıçdaroğlu'nun yanıtını: 1 defa bulunmaktadır
+yanıtını beklediği: 1 defa bulunmaktadır
+beklediği sorular: 1 defa bulunmaktadır
+sorular tek: 1 defa bulunmaktadır
+tek tek: 1 defa bulunmaktadır
+tek sıralandı:: 1 defa bulunmaktadır
+sıralandı: - SAYIN: 1 defa bulunmaktadır
+- SAYIN Başbakan,: 1 defa bulunmaktadır
+Başbakan, yasayı: 1 defa bulunmaktadır
+yasayı ihlal: 1 defa bulunmaktadır
+ihlal ederek: 1 defa bulunmaktadır
+ederek Orta: 1 defa bulunmaktadır
+Orta Vadeli: 1 defa bulunmaktadır
+Vadeli Programı: 1 defa bulunmaktadır
+Programı neden: 1 defa bulunmaktadır
+neden 37: 1 defa bulunmaktadır
+37 gün: 1 defa bulunmaktadır
+gün gecikmeyle: 1 defa bulunmaktadır
+gecikmeyle açıkladınız?: 1 defa bulunmaktadır
+açıkladınız? - SAYIŞTAY: 1 defa bulunmaktadır
+- SAYIŞTAY raporları: 1 defa bulunmaktadır
+raporları TBMM'ye: 1 defa bulunmaktadır
+TBMM'ye gelmeden: 1 defa bulunmaktadır
+gelmeden kesin: 1 defa bulunmaktadır
+kesin hesap: 1 defa bulunmaktadır
+hesap kanunu: 1 defa bulunmaktadır
+kanunu tasarısını: 1 defa bulunmaktadır
+tasarısını nasıl: 1 defa bulunmaktadır
+nasıl değerlendireceğiz? : 1 defa bulunmaktadır
+değerlendireceğiz?  -: 1 defa bulunmaktadır
+- ÖNCE: 1 defa bulunmaktadır
+ÖNCE canlı: 1 defa bulunmaktadır
+canlı hayvan,: 1 defa bulunmaktadır
+hayvan, sonra: 1 defa bulunmaktadır
+sonra kırmızı: 1 defa bulunmaktadır
+kırmızı et,: 1 defa bulunmaktadır
+et, sonra: 1 defa bulunmaktadır
+sonra kurbanlık: 1 defa bulunmaktadır
+kurbanlık koyun,: 1 defa bulunmaktadır
+koyun, en: 1 defa bulunmaktadır
+en sonunda: 1 defa bulunmaktadır
+sonunda da: 1 defa bulunmaktadır
+da saman: 2 defa bulunmaktadır
+saman ithal: 2 defa bulunmaktadır
+ithal ettiniz.: 1 defa bulunmaktadır
+ettiniz. Acaba: 1 defa bulunmaktadır
+Acaba nasıl: 1 defa bulunmaktadır
+nasıl oluyor: 1 defa bulunmaktadır
+oluyor da: 1 defa bulunmaktadır
+da saman: 2 defa bulunmaktadır
+saman ithal: 2 defa bulunmaktadır
+ithal eder: 1 defa bulunmaktadır
+eder noktaya: 1 defa bulunmaktadır
+noktaya geliyoruz?: 1 defa bulunmaktadır
+geliyoruz? - İŞSİZLİK: 1 defa bulunmaktadır
+- İŞSİZLİK sorununu: 1 defa bulunmaktadır
+sorununu niye: 1 defa bulunmaktadır
+niye çözmediniz? : 1 defa bulunmaktadır
+çözmediniz?  -: 1 defa bulunmaktadır
+- SİZDEN: 1 defa bulunmaktadır
+SİZDEN önceki: 1 defa bulunmaktadır
+önceki ve: 1 defa bulunmaktadır
+ve sonraki: 1 defa bulunmaktadır
+sonraki icra: 1 defa bulunmaktadır
+icra daireleri: 1 defa bulunmaktadır
+daireleri sayısını: 1 defa bulunmaktadır
+sayısını açıklayın.: 1 defa bulunmaktadır
+açıklayın. Niçin: 1 defa bulunmaktadır
+Niçin icra: 1 defa bulunmaktadır
+icra dairelerinin: 1 defa bulunmaktadır
+dairelerinin sayısını: 1 defa bulunmaktadır
+sayısını artırıyorsunuz?: 1 defa bulunmaktadır
+artırıyorsunuz? - NİÇİN: 1 defa bulunmaktadır
+- NİÇİN 7: 1 defa bulunmaktadır
+7 kez: 1 defa bulunmaktadır
+kez mali: 1 defa bulunmaktadır
+mali af: 1 defa bulunmaktadır
+af çıkardınız?: 1 defa bulunmaktadır
+çıkardınız? İNSANLAR: 1 defa bulunmaktadır
+İNSANLAR NİYE: 1 defa bulunmaktadır
+NİYE HAPİSTE: 1 defa bulunmaktadır
+HAPİSTE - TÜRKİYE: 1 defa bulunmaktadır
+- TÜRKİYE 1987'de: 1 defa bulunmaktadır
+1987'de 14.: 1 defa bulunmaktadır
+14. büyük: 1 defa bulunmaktadır
+büyük ekonomiydi.: 1 defa bulunmaktadır
+ekonomiydi. Bugün: 1 defa bulunmaktadır
+Bugün 17'nci.: 1 defa bulunmaktadır
+17'nci. Niye: 1 defa bulunmaktadır
+Niye geriye: 1 defa bulunmaktadır
+geriye gidiyoruz?: 1 defa bulunmaktadır
+gidiyoruz? - 1979'DAN: 1 defa bulunmaktadır
+- 1979'DAN 2003'e: 1 defa bulunmaktadır
+2003'e kadar,: 1 defa bulunmaktadır
+kadar, Türkiye: 1 defa bulunmaktadır
+Türkiye Cumhuriyeti'nin: 1 defa bulunmaktadır
+Cumhuriyeti'nin bütçesinden: 1 defa bulunmaktadır
+bütçesinden ödenen: 1 defa bulunmaktadır
+ödenen faiz: 1 defa bulunmaktadır
+faiz 135: 1 defa bulunmaktadır
+135 milyar: 1 defa bulunmaktadır
+milyar lira.: 2 defa bulunmaktadır
+lira. 2003-2011: 1 defa bulunmaktadır
+2003-2011 döneminde: 1 defa bulunmaktadır
+döneminde ödediğimiz: 1 defa bulunmaktadır
+ödediğimiz faiz: 1 defa bulunmaktadır
+faiz 450: 1 defa bulunmaktadır
+450 milyar: 2 defa bulunmaktadır
+milyar lira.: 2 defa bulunmaktadır
+lira. Sayın: 1 defa bulunmaktadır
+Sayın Başbakan: 1 defa bulunmaktadır
+Başbakan 450: 1 defa bulunmaktadır
+450 milyar: 2 defa bulunmaktadır
+milyar lirayı: 1 defa bulunmaktadır
+lirayı kimin: 1 defa bulunmaktadır
+kimin parasından: 1 defa bulunmaktadır
+parasından ödediniz?: 1 defa bulunmaktadır
+ödediniz? - 2002'DE: 1 defa bulunmaktadır
+- 2002'DE hapishanedeki: 1 defa bulunmaktadır
+hapishanedeki kişi: 1 defa bulunmaktadır
+kişi sayısı: 1 defa bulunmaktadır
+sayısı 59: 1 defa bulunmaktadır
+59 bin: 1 defa bulunmaktadır
+bin 429'dı.: 1 defa bulunmaktadır
+429'dı. 2012'de: 1 defa bulunmaktadır
+2012'de 125: 1 defa bulunmaktadır
+125 bin: 1 defa bulunmaktadır
+bin 100: 1 defa bulunmaktadır
+100 kişi: 1 defa bulunmaktadır
+kişi oldu.: 1 defa bulunmaktadır
+oldu. Ekonomi: 1 defa bulunmaktadır
+Ekonomi iyiyse,: 1 defa bulunmaktadır
+iyiyse, işsizliği: 1 defa bulunmaktadır
+işsizliği çözdüyseniz,: 1 defa bulunmaktadır
+çözdüyseniz, insanlar: 1 defa bulunmaktadır
+insanlar niye: 1 defa bulunmaktadır
+niye hapishaneye: 1 defa bulunmaktadır
+hapishaneye girer?: 1 defa bulunmaktadır
+girer? - TÜRKİYE: 1 defa bulunmaktadır
+- TÜRKİYE Cumhuriyeti'nin,: 1 defa bulunmaktadır
+Cumhuriyeti'nin, enerji: 1 defa bulunmaktadır
+enerji konusunda: 1 defa bulunmaktadır
+konusunda Rusya'ya: 1 defa bulunmaktadır
+Rusya'ya bağlı: 1 defa bulunmaktadır
+bağlı olduğu: 1 defa bulunmaktadır
+olduğu oranda: 1 defa bulunmaktadır
+oranda başka: 1 defa bulunmaktadır
+başka bir: 1 defa bulunmaktadır
+bir ülkeye: 1 defa bulunmaktadır
+ülkeye bu: 1 defa bulunmaktadır
+bu oranda: 1 defa bulunmaktadır
+oranda bağlı: 1 defa bulunmaktadır
+bağlı olan: 1 defa bulunmaktadır
+olan ikinci: 1 defa bulunmaktadır
+ikinci bir: 1 defa bulunmaktadır
+bir ülke: 1 defa bulunmaktadır
+ülke var: 1 defa bulunmaktadır
+var mı?: 1 defa bulunmaktadır
+mı? - KAPALI: 1 defa bulunmaktadır
+- KAPALI kapılar: 1 defa bulunmaktadır
+kapılar ardında: 1 defa bulunmaktadır
+ardında İsrail'le: 1 defa bulunmaktadır
+İsrail'le yaptığınız: 1 defa bulunmaktadır
+yaptığınız pazarlıkları: 1 defa bulunmaktadır
+pazarlıkları niye: 1 defa bulunmaktadır
+niye açıklamıyorsunuz?: 1 defa bulunmaktadır
+açıklamıyorsunuz? - PARASIZ: 1 defa bulunmaktadır
+- PARASIZ eğitim: 1 defa bulunmaktadır
+eğitim isteyenlerin: 1 defa bulunmaktadır
+isteyenlerin hapse: 1 defa bulunmaktadır
+hapse atıldığı: 1 defa bulunmaktadır
+atıldığı bir: 1 defa bulunmaktadır
+bir ülkedeyiz.: 1 defa bulunmaktadır
+ülkedeyiz. Yurt: 1 defa bulunmaktadır
+Yurt dışında: 1 defa bulunmaktadır
+dışında gittiğiniz: 1 defa bulunmaktadır
+gittiğiniz ülkelerin: 1 defa bulunmaktadır
+ülkelerin başbakanlarına,: 1 defa bulunmaktadır
+başbakanlarına, 'Sizin: 1 defa bulunmaktadır
+'Sizin ülkenizde: 1 defa bulunmaktadır
+ülkenizde basılmamış: 1 defa bulunmaktadır
+basılmamış kitaba: 1 defa bulunmaktadır
+kitaba bir: 1 defa bulunmaktadır
+bir yargı: 1 defa bulunmaktadır
+yargı kararıyla: 1 defa bulunmaktadır
+kararıyla yasak: 1 defa bulunmaktadır
+yasak getirilirse: 1 defa bulunmaktadır
+getirilirse siz: 1 defa bulunmaktadır
+siz ne: 1 defa bulunmaktadır
+ne düşünürsünüz?': 1 defa bulunmaktadır
+düşünürsünüz?' diye: 1 defa bulunmaktadır
+diye sordunuz: 1 defa bulunmaktadır
+sordunuz mu?: 1 defa bulunmaktadır
+mu? - 12: 1 defa bulunmaktadır
+- 12 Eylül: 1 defa bulunmaktadır
+Eylül darbe: 1 defa bulunmaktadır
+darbe hukukunu: 1 defa bulunmaktadır
+hukukunu değiştirmeye: 1 defa bulunmaktadır
+değiştirmeye var: 1 defa bulunmaktadır
+var mısınız?: 1 defa bulunmaktadır
+mısınız? ANKARA: 1 defa bulunmaktadır

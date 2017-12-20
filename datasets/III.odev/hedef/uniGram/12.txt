@@ -1,0 +1,537 @@
+Türkiye'de: 3 defa bulunmaktadır
+1,5: 1 defa bulunmaktadır
+milyon: 3 defa bulunmaktadır
+patron: 1 defa bulunmaktadır
+var: 1 defa bulunmaktadır
+Türkiye'de: 3 defa bulunmaktadır
+hizmet: 2 defa bulunmaktadır
+akdi: 2 defa bulunmaktadır
+ile: 3 defa bulunmaktadır
+işçi: 1 defa bulunmaktadır
+çalıştıran: 1 defa bulunmaktadır
+1: 3 defa bulunmaktadır
+milyon: 3 defa bulunmaktadır
+435: 2 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+879: 2 defa bulunmaktadır
+işyeri: 8 defa bulunmaktadır
+var.: 2 defa bulunmaktadır
+Faaliyet: 1 defa bulunmaktadır
+kollarına: 1 defa bulunmaktadır
+göre,: 5 defa bulunmaktadır
+perakende: 3 defa bulunmaktadır
+ticarette: 1 defa bulunmaktadır
+248: 2 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+671,: 1 defa bulunmaktadır
+bina: 2 defa bulunmaktadır
+inşaatında: 1 defa bulunmaktadır
+116: 2 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+679,: 1 defa bulunmaktadır
+kara: 1 defa bulunmaktadır
+taşımacılığı: 1 defa bulunmaktadır
+ve: 31 defa bulunmaktadır
+boru: 2 defa bulunmaktadır
+hattı: 2 defa bulunmaktadır
+taşımacılığında: 2 defa bulunmaktadır
+ise: 4 defa bulunmaktadır
+108: 2 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+728: 2 defa bulunmaktadır
+işyeri: 8 defa bulunmaktadır
+bulunuyor.: 2 defa bulunmaktadır
+Çalışma: 3 defa bulunmaktadır
+ve: 31 defa bulunmaktadır
+Sosyal: 3 defa bulunmaktadır
+Güvenlik: 2 defa bulunmaktadır
+Bakanlığının: 2 defa bulunmaktadır
+''2011: 1 defa bulunmaktadır
+Çalışma: 3 defa bulunmaktadır
+Hayatı: 1 defa bulunmaktadır
+İstatistikleri''ne: 1 defa bulunmaktadır
+göre,: 5 defa bulunmaktadır
+Sosyal: 3 defa bulunmaktadır
+Sigortalar: 1 defa bulunmaktadır
+ve: 31 defa bulunmaktadır
+Genel: 1 defa bulunmaktadır
+Sağlık: 1 defa bulunmaktadır
+Sigortası'nın: 1 defa bulunmaktadır
+''sigortalı: 1 defa bulunmaktadır
+sayılanlar''a: 1 defa bulunmaktadır
+ilişkin: 2 defa bulunmaktadır
+4.: 1 defa bulunmaktadır
+maddesinin: 1 defa bulunmaktadır
+''a'': 1 defa bulunmaktadır
+bendine: 1 defa bulunmaktadır
+göre,: 5 defa bulunmaktadır
+Türkiye'de: 3 defa bulunmaktadır
+hizmet: 2 defa bulunmaktadır
+akdi: 2 defa bulunmaktadır
+ile: 3 defa bulunmaktadır
+çalışanı: 13 defa bulunmaktadır
+bulunan: 3 defa bulunmaktadır
+1: 3 defa bulunmaktadır
+milyon: 3 defa bulunmaktadır
+435: 2 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+879: 2 defa bulunmaktadır
+işyeri: 8 defa bulunmaktadır
+var.: 2 defa bulunmaktadır
+        : 40 defa bulunmaktadır
+Bu: 1 defa bulunmaktadır
+işyerlerinden: 1 defa bulunmaktadır
+sadece: 2 defa bulunmaktadır
+230'u,: 1 defa bulunmaktadır
+binin: 1 defa bulunmaktadır
+üzerinde: 2 defa bulunmaktadır
+çalışan: 1 defa bulunmaktadır
+istihdam: 1 defa bulunmaktadır
+ederken: 1 defa bulunmaktadır
+sadece: 2 defa bulunmaktadır
+1: 3 defa bulunmaktadır
+kişinin: 1 defa bulunmaktadır
+çalıştığı: 1 defa bulunmaktadır
+işyeri: 8 defa bulunmaktadır
+sayısı: 1 defa bulunmaktadır
+ise: 4 defa bulunmaktadır
+513: 1 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+454.: 1 defa bulunmaktadır
+Yurt: 1 defa bulunmaktadır
+genelinde: 1 defa bulunmaktadır
+2-3: 1 defa bulunmaktadır
+çalışanı: 13 defa bulunmaktadır
+olan: 11 defa bulunmaktadır
+393: 1 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+195,: 1 defa bulunmaktadır
+4-6: 1 defa bulunmaktadır
+arasında: 9 defa bulunmaktadır
+çalışanı: 13 defa bulunmaktadır
+olan: 11 defa bulunmaktadır
+220: 1 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+101,: 1 defa bulunmaktadır
+7-9: 1 defa bulunmaktadır
+arasında: 9 defa bulunmaktadır
+çalışanı: 13 defa bulunmaktadır
+olan: 11 defa bulunmaktadır
+97: 1 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+990,: 1 defa bulunmaktadır
+10-19: 1 defa bulunmaktadır
+arasında: 9 defa bulunmaktadır
+çalışanı: 13 defa bulunmaktadır
+olan: 11 defa bulunmaktadır
+115: 1 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+861,: 1 defa bulunmaktadır
+20-29: 1 defa bulunmaktadır
+arasında: 9 defa bulunmaktadır
+çalışanı: 13 defa bulunmaktadır
+olan: 11 defa bulunmaktadır
+37: 1 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+188,: 1 defa bulunmaktadır
+30-49: 1 defa bulunmaktadır
+arasında: 9 defa bulunmaktadır
+çalışanı: 13 defa bulunmaktadır
+olan: 11 defa bulunmaktadır
+30: 4 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+366,: 1 defa bulunmaktadır
+50-99: 1 defa bulunmaktadır
+arasında: 9 defa bulunmaktadır
+çalışanı: 13 defa bulunmaktadır
+olan: 11 defa bulunmaktadır
+15: 3 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+482,: 1 defa bulunmaktadır
+100-249: 1 defa bulunmaktadır
+çalışanı: 13 defa bulunmaktadır
+olan: 11 defa bulunmaktadır
+8: 1 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+946,: 1 defa bulunmaktadır
+250-499: 1 defa bulunmaktadır
+arasında: 9 defa bulunmaktadır
+çalışanı: 13 defa bulunmaktadır
+olan: 11 defa bulunmaktadır
+2: 1 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+304,: 1 defa bulunmaktadır
+500-749: 1 defa bulunmaktadır
+arasında: 9 defa bulunmaktadır
+çalışanı: 13 defa bulunmaktadır
+olan: 11 defa bulunmaktadır
+561: 1 defa bulunmaktadır
+ve: 31 defa bulunmaktadır
+750-999: 1 defa bulunmaktadır
+arasında: 9 defa bulunmaktadır
+çalışanı: 13 defa bulunmaktadır
+olan: 11 defa bulunmaktadır
+201: 1 defa bulunmaktadır
+işyeri: 8 defa bulunmaktadır
+bulunuyor.: 2 defa bulunmaktadır
+        : 40 defa bulunmaktadır
+-En: 2 defa bulunmaktadır
+çok: 2 defa bulunmaktadır
+işyeri: 8 defa bulunmaktadır
+perakende: 3 defa bulunmaktadır
+ticarette-: 1 defa bulunmaktadır
+        : 40 defa bulunmaktadır
+Çalışma: 3 defa bulunmaktadır
+ve: 31 defa bulunmaktadır
+Sosyal: 3 defa bulunmaktadır
+Güvenlik: 2 defa bulunmaktadır
+Bakanlığının: 2 defa bulunmaktadır
+verilere: 1 defa bulunmaktadır
+göre,: 5 defa bulunmaktadır
+en: 1 defa bulunmaktadır
+çok: 2 defa bulunmaktadır
+işyeri: 8 defa bulunmaktadır
+bulunan: 3 defa bulunmaktadır
+faaliyet: 2 defa bulunmaktadır
+kolları: 1 defa bulunmaktadır
+sırasıyla: 1 defa bulunmaktadır
+şöyle:: 1 defa bulunmaktadır
+        : 40 defa bulunmaktadır
+-Perakende: 1 defa bulunmaktadır
+ticaret:                       : 1 defa bulunmaktadır
+248: 2 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+671: 1 defa bulunmaktadır
+        : 40 defa bulunmaktadır
+-Bina: 3 defa bulunmaktadır
+inşaatı:                            : 1 defa bulunmaktadır
+116: 2 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+679: 1 defa bulunmaktadır
+        : 40 defa bulunmaktadır
+-Kara: 1 defa bulunmaktadır
+ve: 31 defa bulunmaktadır
+boru: 2 defa bulunmaktadır
+hattı: 2 defa bulunmaktadır
+taşımacılığı:         : 1 defa bulunmaktadır
+108: 2 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+728: 2 defa bulunmaktadır
+        : 40 defa bulunmaktadır
+-Toptan: 1 defa bulunmaktadır
+ticaret:                           : 1 defa bulunmaktadır
+91: 1 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+455: 1 defa bulunmaktadır
+        : 40 defa bulunmaktadır
+-Yiyecek: 1 defa bulunmaktadır
+ve: 31 defa bulunmaktadır
+içecek: 1 defa bulunmaktadır
+hizmeti:                : 1 defa bulunmaktadır
+69: 1 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+895: 1 defa bulunmaktadır
+        : 40 defa bulunmaktadır
+-Özel: 1 defa bulunmaktadır
+inşaat: 1 defa bulunmaktadır
+faaliyetleri:                 : 1 defa bulunmaktadır
+48: 1 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+436: 1 defa bulunmaktadır
+        : 40 defa bulunmaktadır
+-Elektrik,: 1 defa bulunmaktadır
+gaz,: 1 defa bulunmaktadır
+buhar: 1 defa bulunmaktadır
+ve: 31 defa bulunmaktadır
+hava: 1 defa bulunmaktadır
+sistemleri: 1 defa bulunmaktadır
+        : 40 defa bulunmaktadır
+üretim: 1 defa bulunmaktadır
+ve: 31 defa bulunmaktadır
+dağıtımı:                        : 1 defa bulunmaktadır
+40: 1 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+469: 1 defa bulunmaktadır
+        : 40 defa bulunmaktadır
+-Bina: 3 defa bulunmaktadır
+ve: 31 defa bulunmaktadır
+çevre: 1 defa bulunmaktadır
+düzenleme: 1 defa bulunmaktadır
+faaliyetleri:     : 2 defa bulunmaktadır
+39: 3 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+821: 1 defa bulunmaktadır
+        : 40 defa bulunmaktadır
+-Büro: 1 defa bulunmaktadır
+yönetimi: 1 defa bulunmaktadır
+ve: 31 defa bulunmaktadır
+büro: 1 defa bulunmaktadır
+desteği: 1 defa bulunmaktadır
+faaliyet:   : 1 defa bulunmaktadır
+39: 3 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+383: 1 defa bulunmaktadır
+        : 40 defa bulunmaktadır
+-Gıda: 1 defa bulunmaktadır
+ürünleri: 5 defa bulunmaktadır
+imalatı:                    : 1 defa bulunmaktadır
+39: 3 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+379: 1 defa bulunmaktadır
+        : 40 defa bulunmaktadır
+-Hukuki: 1 defa bulunmaktadır
+ve: 31 defa bulunmaktadır
+muhasebe: 1 defa bulunmaktadır
+faaliyetleri:          : 1 defa bulunmaktadır
+35: 1 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+360: 1 defa bulunmaktadır
+        : 40 defa bulunmaktadır
+-İdari: 1 defa bulunmaktadır
+danışmanlık: 1 defa bulunmaktadır
+faaliyetleri:           : 1 defa bulunmaktadır
+30: 4 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+698: 1 defa bulunmaktadır
+        : 40 defa bulunmaktadır
+-Fabrikasyon: 1 defa bulunmaktadır
+metal: 1 defa bulunmaktadır
+ürünleri:               : 1 defa bulunmaktadır
+30: 4 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+546: 1 defa bulunmaktadır
+        : 40 defa bulunmaktadır
+-Giyim: 1 defa bulunmaktadır
+eşyaları: 2 defa bulunmaktadır
+imalatı:                   : 1 defa bulunmaktadır
+30: 4 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+325: 1 defa bulunmaktadır
+        : 40 defa bulunmaktadır
+-Toptan,: 1 defa bulunmaktadır
+perakende: 3 defa bulunmaktadır
+ticaret: 1 defa bulunmaktadır
+ve: 31 defa bulunmaktadır
+motorlu: 1 defa bulunmaktadır
+        : 40 defa bulunmaktadır
+taşıt: 1 defa bulunmaktadır
+onarımı:                             : 1 defa bulunmaktadır
+28: 1 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+820: 1 defa bulunmaktadır
+        : 40 defa bulunmaktadır
+-Eğitim:                                   : 1 defa bulunmaktadır
+24: 1 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+973: 1 defa bulunmaktadır
+        : 40 defa bulunmaktadır
+-Makine: 2 defa bulunmaktadır
+ve: 31 defa bulunmaktadır
+ekipman: 3 defa bulunmaktadır
+kurulum: 1 defa bulunmaktadır
+ve: 31 defa bulunmaktadır
+onarımı:     : 1 defa bulunmaktadır
+19: 1 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+592: 1 defa bulunmaktadır
+        : 40 defa bulunmaktadır
+-İnsan: 1 defa bulunmaktadır
+sağlığı: 1 defa bulunmaktadır
+hizmetleri:                 : 1 defa bulunmaktadır
+16: 5 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+931: 1 defa bulunmaktadır
+        : 40 defa bulunmaktadır
+-Mobilya: 1 defa bulunmaktadır
+imalatı:                          : 1 defa bulunmaktadır
+16: 5 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+915: 1 defa bulunmaktadır
+        : 40 defa bulunmaktadır
+-Güvenlik: 1 defa bulunmaktadır
+ve: 31 defa bulunmaktadır
+soruşturma: 1 defa bulunmaktadır
+faaliyetleri:      : 1 defa bulunmaktadır
+16: 5 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+449: 1 defa bulunmaktadır
+        : 40 defa bulunmaktadır
+-Tekstil: 1 defa bulunmaktadır
+ürünleri: 5 defa bulunmaktadır
+imalatı:                 : 1 defa bulunmaktadır
+16: 5 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+47: 1 defa bulunmaktadır
+        : 40 defa bulunmaktadır
+-Taşıma: 1 defa bulunmaktadır
+için: 1 defa bulunmaktadır
+depolama: 1 defa bulunmaktadır
+ve: 31 defa bulunmaktadır
+destek: 1 defa bulunmaktadır
+faaliyeti: : 1 defa bulunmaktadır
+16: 5 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+9: 1 defa bulunmaktadır
+        : 40 defa bulunmaktadır
+-Mimarlık: 1 defa bulunmaktadır
+ve: 31 defa bulunmaktadır
+mühendislik: 1 defa bulunmaktadır
+faaliyetleri:     : 2 defa bulunmaktadır
+15: 3 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+998: 1 defa bulunmaktadır
+        : 40 defa bulunmaktadır
+-Makine: 2 defa bulunmaktadır
+ve: 31 defa bulunmaktadır
+ekipman: 3 defa bulunmaktadır
+imalatı:                : 1 defa bulunmaktadır
+15: 3 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+752: 1 defa bulunmaktadır
+        : 40 defa bulunmaktadır
+-Bina: 3 defa bulunmaktadır
+dış: 1 defa bulunmaktadır
+yapılarının: 1 defa bulunmaktadır
+inşaatı:             : 1 defa bulunmaktadır
+12: 3 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+763: 1 defa bulunmaktadır
+        : 40 defa bulunmaktadır
+-Metalik: 1 defa bulunmaktadır
+olmayan: 1 defa bulunmaktadır
+ürünler: 2 defa bulunmaktadır
+imalatı:          : 1 defa bulunmaktadır
+12: 3 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+442: 1 defa bulunmaktadır
+        : 40 defa bulunmaktadır
+-Konaklama:                                : 1 defa bulunmaktadır
+12: 3 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+260: 1 defa bulunmaktadır
+        : 40 defa bulunmaktadır
+-Bilgisayar: 1 defa bulunmaktadır
+ve: 31 defa bulunmaktadır
+kişisel: 1 defa bulunmaktadır
+ev: 1 defa bulunmaktadır
+eşyaları: 2 defa bulunmaktadır
+onarımı:: 1 defa bulunmaktadır
+11: 4 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+650: 1 defa bulunmaktadır
+        : 40 defa bulunmaktadır
+-Bitkisel: 1 defa bulunmaktadır
+ve: 31 defa bulunmaktadır
+hayvansal: 1 defa bulunmaktadır
+üretim:             : 1 defa bulunmaktadır
+11: 4 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+569: 1 defa bulunmaktadır
+        : 40 defa bulunmaktadır
+-Ağaç,: 1 defa bulunmaktadır
+ağaç: 1 defa bulunmaktadır
+ürünleri: 5 defa bulunmaktadır
+ve: 31 defa bulunmaktadır
+mantar: 1 defa bulunmaktadır
+üretimi:    : 1 defa bulunmaktadır
+11: 4 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+232: 1 defa bulunmaktadır
+        : 40 defa bulunmaktadır
+-Kauçuk: 1 defa bulunmaktadır
+ve: 31 defa bulunmaktadır
+plastik: 1 defa bulunmaktadır
+ürünler: 2 defa bulunmaktadır
+imalatı:        : 1 defa bulunmaktadır
+11: 4 defa bulunmaktadır
+bin: 46 defa bulunmaktadır
+82: 1 defa bulunmaktadır
+        : 40 defa bulunmaktadır
+-En: 2 defa bulunmaktadır
+az: 1 defa bulunmaktadır
+işyeri: 8 defa bulunmaktadır
+ham: 2 defa bulunmaktadır
+petrol: 3 defa bulunmaktadır
+ve: 31 defa bulunmaktadır
+doğalgaz: 2 defa bulunmaktadır
+çıkarım: 1 defa bulunmaktadır
+alanında-: 1 defa bulunmaktadır
+        : 40 defa bulunmaktadır
+Verilere: 1 defa bulunmaktadır
+göre,: 5 defa bulunmaktadır
+ham: 2 defa bulunmaktadır
+petrol: 3 defa bulunmaktadır
+ve: 31 defa bulunmaktadır
+doğalgaz: 2 defa bulunmaktadır
+çıkarımında: 1 defa bulunmaktadır
+51,: 1 defa bulunmaktadır
+tütün: 1 defa bulunmaktadır
+ürünleri: 5 defa bulunmaktadır
+imalatında: 3 defa bulunmaktadır
+57,: 1 defa bulunmaktadır
+havayolu: 1 defa bulunmaktadır
+taşımacılığında: 2 defa bulunmaktadır
+156,: 1 defa bulunmaktadır
+iyileştirme: 1 defa bulunmaktadır
+ve: 31 defa bulunmaktadır
+diğer: 1 defa bulunmaktadır
+atık: 1 defa bulunmaktadır
+hizmetleri: 1 defa bulunmaktadır
+yönetiminde: 1 defa bulunmaktadır
+200,: 1 defa bulunmaktadır
+eczacılık: 1 defa bulunmaktadır
+ve: 31 defa bulunmaktadır
+buna: 1 defa bulunmaktadır
+ilişkin: 2 defa bulunmaktadır
+malzeme: 1 defa bulunmaktadır
+imalatında: 3 defa bulunmaktadır
+205,: 1 defa bulunmaktadır
+kanalizasyon: 1 defa bulunmaktadır
+alanında: 1 defa bulunmaktadır
+284,: 1 defa bulunmaktadır
+kok: 1 defa bulunmaktadır
+kömürü: 1 defa bulunmaktadır
+ve: 31 defa bulunmaktadır
+petrol: 3 defa bulunmaktadır
+ürünleri: 5 defa bulunmaktadır
+imalatında: 3 defa bulunmaktadır
+375,: 1 defa bulunmaktadır
+bilimsel: 1 defa bulunmaktadır
+araştırma: 1 defa bulunmaktadır
+ve: 31 defa bulunmaktadır
+geliştirme: 1 defa bulunmaktadır
+faaliyetlerinde: 1 defa bulunmaktadır
+426: 1 defa bulunmaktadır
+ve: 31 defa bulunmaktadır
+programcılık: 1 defa bulunmaktadır
+yayıncılıkta: 1 defa bulunmaktadır
+ise: 4 defa bulunmaktadır
+517: 1 defa bulunmaktadır
+firma: 1 defa bulunmaktadır
+faaliyet: 2 defa bulunmaktadır
+gösteriyor.: 1 defa bulunmaktadır
+        : 40 defa bulunmaktadır
+Binin: 1 defa bulunmaktadır
+üzerinde: 2 defa bulunmaktadır
+çalışanı: 13 defa bulunmaktadır
+bulunan: 3 defa bulunmaktadır
+firmalar: 1 defa bulunmaktadır
+ise: 4 defa bulunmaktadır
+gıda: 1 defa bulunmaktadır
+ürünleri,: 1 defa bulunmaktadır
+tekstil,: 1 defa bulunmaktadır
+giyim: 1 defa bulunmaktadır
+eşyası,: 1 defa bulunmaktadır
+elektrikli: 1 defa bulunmaktadır
+teçhizat,: 1 defa bulunmaktadır
+makine: 1 defa bulunmaktadır
+ve: 31 defa bulunmaktadır
+ekipman: 3 defa bulunmaktadır
+imalatı: 1 defa bulunmaktadır
+ile: 3 defa bulunmaktadır
+bina: 2 defa bulunmaktadır
+inşaatı: 1 defa bulunmaktadır
+sektörlerinde: 1 defa bulunmaktadır
+yoğunlaşıyor.: 1 defa bulunmaktadır
+        : 40 defa bulunmaktadır
+AA: 1 defa bulunmaktadır

@@ -1,0 +1,4 @@
+TOKİ'den düşük: 1 defa bulunmaktadır
+düşük peşinatlı: 1 defa bulunmaktadır
+peşinatlı arsa: 1 defa bulunmaktadır
+arsa satışı: 1 defa bulunmaktadır

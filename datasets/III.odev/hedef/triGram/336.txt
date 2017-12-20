@@ -1,0 +1,90 @@
+Altın fiyatları İstanbul: 1 defa bulunmaktadır
+fiyatları İstanbul Kapalıçarşı'da: 1 defa bulunmaktadır
+İstanbul Kapalıçarşı'da 24: 1 defa bulunmaktadır
+Kapalıçarşı'da 24 ayar: 1 defa bulunmaktadır
+24 ayar külçe: 1 defa bulunmaktadır
+ayar külçe altının: 1 defa bulunmaktadır
+külçe altının gram: 1 defa bulunmaktadır
+altının gram satış: 1 defa bulunmaktadır
+gram satış fiyatı: 1 defa bulunmaktadır
+satış fiyatı 101,05: 1 defa bulunmaktadır
+fiyatı 101,05 lira,: 1 defa bulunmaktadır
+101,05 lira, Cumhuriyet: 1 defa bulunmaktadır
+lira, Cumhuriyet Altınının: 1 defa bulunmaktadır
+Cumhuriyet Altınının satış: 1 defa bulunmaktadır
+Altınının satış fiyatı: 1 defa bulunmaktadır
+satış fiyatı ise: 1 defa bulunmaktadır
+fiyatı ise 675,00: 1 defa bulunmaktadır
+ise 675,00 lira: 1 defa bulunmaktadır
+675,00 lira oldu.: 1 defa bulunmaktadır
+lira oldu.         : 1 defa bulunmaktadır
+oldu.          İstanbul: 1 defa bulunmaktadır
+         İstanbul Kapalıçarşı'da: 1 defa bulunmaktadır
+İstanbul Kapalıçarşı'da alınıp: 1 defa bulunmaktadır
+Kapalıçarşı'da alınıp satılan: 1 defa bulunmaktadır
+alınıp satılan altın: 1 defa bulunmaktadır
+satılan altın türlerinin,: 1 defa bulunmaktadır
+altın türlerinin, önceki: 1 defa bulunmaktadır
+türlerinin, önceki kapanış: 1 defa bulunmaktadır
+önceki kapanış ve: 1 defa bulunmaktadır
+kapanış ve bugün: 1 defa bulunmaktadır
+ve bugün açılış: 1 defa bulunmaktadır
+bugün açılış fiyatları: 1 defa bulunmaktadır
+açılış fiyatları (TL): 1 defa bulunmaktadır
+fiyatları (TL) şöyle:: 1 defa bulunmaktadır
+(TL) şöyle:         : 1 defa bulunmaktadır
+şöyle:                                         : 1 defa bulunmaktadır
+                                         PAZARTESİ     : 1 defa bulunmaktadır
+                                PAZARTESİ      SALI    : 1 defa bulunmaktadır
+PAZARTESİ      SALI                                    : 1 defa bulunmaktadır
+SALI                                     Alış          : 1 defa bulunmaktadır
+                                Alış           Satış      : 1 defa bulunmaktadır
+Alış           Satış       Alış       : 1 defa bulunmaktadır
+Satış       Alış        Satış   : 1 defa bulunmaktadır
+Alış        Satış     : 1 defa bulunmaktadır
+Satış      24: 1 defa bulunmaktadır
+  24 Ayar: 1 defa bulunmaktadır
+24 Ayar Külçe: 1 defa bulunmaktadır
+Ayar Külçe Altın(Gr.)           : 1 defa bulunmaktadır
+Külçe Altın(Gr.)            100,65     : 1 defa bulunmaktadır
+Altın(Gr.)            100,65      101,00     : 1 defa bulunmaktadır
+100,65      101,00      100,70     : 1 defa bulunmaktadır
+101,00      100,70      101,05: 1 defa bulunmaktadır
+100,70      101,05  : 1 defa bulunmaktadır
+101,05   Cumhuriyet: 1 defa bulunmaktadır
+  Cumhuriyet Ata: 1 defa bulunmaktadır
+Cumhuriyet Ata Lira                : 1 defa bulunmaktadır
+Ata Lira                 671,00     : 1 defa bulunmaktadır
+Lira                 671,00      681,00     : 1 defa bulunmaktadır
+671,00      681,00      665,00     : 1 defa bulunmaktadır
+681,00      665,00      675,00: 1 defa bulunmaktadır
+665,00      675,00  : 1 defa bulunmaktadır
+675,00   22: 1 defa bulunmaktadır
+  22 Ayar: 1 defa bulunmaktadır
+22 Ayar Bilezik(Gr.)                : 1 defa bulunmaktadır
+Ayar Bilezik(Gr.)                 91,60      : 1 defa bulunmaktadır
+Bilezik(Gr.)                 91,60       99,00      : 1 defa bulunmaktadır
+91,60       99,00       91,65      : 1 defa bulunmaktadır
+99,00       91,65       99,00: 1 defa bulunmaktadır
+91,65       99,00  : 1 defa bulunmaktadır
+99,00   Lira: 1 defa bulunmaktadır
+  Lira Ziynet                        : 1 defa bulunmaktadır
+Lira Ziynet                         648,00     : 1 defa bulunmaktadır
+Ziynet                         648,00      660,00     : 1 defa bulunmaktadır
+648,00      660,00      648,00     : 1 defa bulunmaktadır
+660,00      648,00      660,00: 1 defa bulunmaktadır
+648,00      660,00  : 1 defa bulunmaktadır
+660,00   Yarım: 1 defa bulunmaktadır
+  Yarım Ziynet                       : 1 defa bulunmaktadır
+Yarım Ziynet                        322,00     : 1 defa bulunmaktadır
+Ziynet                        322,00      332,00     : 1 defa bulunmaktadır
+322,00      332,00      322,00     : 1 defa bulunmaktadır
+332,00      322,00      332,00: 1 defa bulunmaktadır
+322,00      332,00  : 1 defa bulunmaktadır
+332,00   Çeyrek: 1 defa bulunmaktadır
+  Çeyrek Ziynet                      : 1 defa bulunmaktadır
+Çeyrek Ziynet                       161,00     : 1 defa bulunmaktadır
+Ziynet                       161,00      166,00     : 1 defa bulunmaktadır
+161,00      166,00      161,00     : 1 defa bulunmaktadır
+166,00      161,00      166,00: 1 defa bulunmaktadır
+161,00      166,00 AA: 1 defa bulunmaktadır

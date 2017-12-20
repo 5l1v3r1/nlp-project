@@ -1,0 +1,3 @@
+Türk firmadan Bağdat'a: 1 defa bulunmaktadır
+firmadan Bağdat'a dev: 1 defa bulunmaktadır
+Bağdat'a dev proje: 1 defa bulunmaktadır

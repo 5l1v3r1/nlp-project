@@ -1,0 +1,878 @@
+Sanayi beklentiyi: 1 defa bulunmaktadır
+beklentiyi aştı: 1 defa bulunmaktadır
+aştı Büyümenin: 1 defa bulunmaktadır
+Büyümenin öncü: 1 defa bulunmaktadır
+öncü göstergelerinden: 1 defa bulunmaktadır
+göstergelerinden sanayi: 1 defa bulunmaktadır
+sanayi üretimi: 2 defa bulunmaktadır
+üretimi Eylül: 1 defa bulunmaktadır
+Eylül ayında: 15 defa bulunmaktadır
+ayında geçen: 9 defa bulunmaktadır
+geçen yılın: 13 defa bulunmaktadır
+yılın aynı: 13 defa bulunmaktadır
+aynı ayına: 12 defa bulunmaktadır
+ayına göre: 9 defa bulunmaktadır
+göre yüzde: 13 defa bulunmaktadır
+yüzde 6.2: 6 defa bulunmaktadır
+6.2 oranında: 3 defa bulunmaktadır
+oranında artışla: 4 defa bulunmaktadır
+artışla 135.5: 1 defa bulunmaktadır
+135.5 değerini: 1 defa bulunmaktadır
+değerini aldı.: 1 defa bulunmaktadır
+aldı. Sanayinin: 1 defa bulunmaktadır
+Sanayinin alt: 3 defa bulunmaktadır
+alt sektörleri: 5 defa bulunmaktadır
+sektörleri incelendiğinde,: 5 defa bulunmaktadır
+incelendiğinde, 2012: 3 defa bulunmaktadır
+2012 yılı: 10 defa bulunmaktadır
+yılı Eylül: 8 defa bulunmaktadır
+Eylül ayında: 15 defa bulunmaktadır
+ayında geçen: 9 defa bulunmaktadır
+geçen yılın: 13 defa bulunmaktadır
+yılın aynı: 13 defa bulunmaktadır
+aynı ayına: 12 defa bulunmaktadır
+ayına göre;: 3 defa bulunmaktadır
+göre; madencilik: 3 defa bulunmaktadır
+madencilik ve: 5 defa bulunmaktadır
+ve taşocakçılığı: 5 defa bulunmaktadır
+taşocakçılığı sektörü: 5 defa bulunmaktadır
+sektörü endeksi: 13 defa bulunmaktadır
+endeksi yüzde: 10 defa bulunmaktadır
+yüzde 10.8,: 2 defa bulunmaktadır
+10.8, imalat: 2 defa bulunmaktadır
+imalat sanayi: 4 defa bulunmaktadır
+sanayi sektörü: 4 defa bulunmaktadır
+sektörü endeksi: 13 defa bulunmaktadır
+endeksi yüzde: 10 defa bulunmaktadır
+yüzde 6.2: 6 defa bulunmaktadır
+6.2 ,: 1 defa bulunmaktadır
+, elektrik,: 1 defa bulunmaktadır
+elektrik, gaz,: 4 defa bulunmaktadır
+gaz, buhar: 5 defa bulunmaktadır
+buhar ve: 5 defa bulunmaktadır
+ve iklimlendirme: 5 defa bulunmaktadır
+iklimlendirme üretimi: 5 defa bulunmaktadır
+üretimi ve: 5 defa bulunmaktadır
+ve dağıtımı: 5 defa bulunmaktadır
+dağıtımı sektörü: 5 defa bulunmaktadır
+sektörü endeksi: 13 defa bulunmaktadır
+endeksi ise: 5 defa bulunmaktadır
+ise yüzde: 3 defa bulunmaktadır
+yüzde 4.1: 4 defa bulunmaktadır
+4.1 arttı.: 2 defa bulunmaktadır
+arttı. Takvim: 2 defa bulunmaktadır
+Takvim etkisinden: 4 defa bulunmaktadır
+etkisinden arındırılmış: 5 defa bulunmaktadır
+arındırılmış endeks: 3 defa bulunmaktadır
+endeks 2012: 3 defa bulunmaktadır
+2012 yılı: 10 defa bulunmaktadır
+yılı Eylül: 8 defa bulunmaktadır
+Eylül ayında: 15 defa bulunmaktadır
+ayında geçen: 9 defa bulunmaktadır
+geçen yılın: 13 defa bulunmaktadır
+yılın aynı: 13 defa bulunmaktadır
+aynı ayına: 12 defa bulunmaktadır
+ayına göre: 9 defa bulunmaktadır
+göre yüzde: 13 defa bulunmaktadır
+yüzde 6.2,: 3 defa bulunmaktadır
+6.2, mevsim: 2 defa bulunmaktadır
+mevsim ve: 3 defa bulunmaktadır
+ve takvim: 4 defa bulunmaktadır
+takvim etkilerinden: 3 defa bulunmaktadır
+etkilerinden arındırılmış: 3 defa bulunmaktadır
+arındırılmış sanayi: 3 defa bulunmaktadır
+sanayi üretim: 5 defa bulunmaktadır
+üretim endeksi: 4 defa bulunmaktadır
+endeksi ise: 5 defa bulunmaktadır
+ise bir: 3 defa bulunmaktadır
+bir önceki: 7 defa bulunmaktadır
+önceki aya: 7 defa bulunmaktadır
+aya göre: 7 defa bulunmaktadır
+göre yüzde: 13 defa bulunmaktadır
+yüzde 3.9: 3 defa bulunmaktadır
+3.9 arttı.: 2 defa bulunmaktadır
+arttı. Sanayinin: 1 defa bulunmaktadır
+Sanayinin alt: 3 defa bulunmaktadır
+alt sektörleri: 5 defa bulunmaktadır
+sektörleri incelendiğinde,: 5 defa bulunmaktadır
+incelendiğinde, 2012: 3 defa bulunmaktadır
+2012 yılı: 10 defa bulunmaktadır
+yılı Eylül: 8 defa bulunmaktadır
+Eylül ayında: 15 defa bulunmaktadır
+ayında geçen: 9 defa bulunmaktadır
+geçen yılın: 13 defa bulunmaktadır
+yılın aynı: 13 defa bulunmaktadır
+aynı ayına: 12 defa bulunmaktadır
+ayına göre;: 3 defa bulunmaktadır
+göre; madencilik: 3 defa bulunmaktadır
+madencilik ve: 5 defa bulunmaktadır
+ve taşocakçılığı: 5 defa bulunmaktadır
+taşocakçılığı sektörü: 5 defa bulunmaktadır
+sektörü endeksi: 13 defa bulunmaktadır
+endeksi yüzde: 10 defa bulunmaktadır
+yüzde 10.8,: 2 defa bulunmaktadır
+10.8, imalat: 2 defa bulunmaktadır
+imalat sanayi: 4 defa bulunmaktadır
+sanayi sektörü: 4 defa bulunmaktadır
+sektörü endeksi: 13 defa bulunmaktadır
+endeksi yüzde: 10 defa bulunmaktadır
+yüzde 6.2,: 3 defa bulunmaktadır
+6.2, elektrik,: 1 defa bulunmaktadır
+elektrik, gaz,: 4 defa bulunmaktadır
+gaz, buhar: 5 defa bulunmaktadır
+buhar ve: 5 defa bulunmaktadır
+ve iklimlendirme: 5 defa bulunmaktadır
+iklimlendirme üretimi: 5 defa bulunmaktadır
+üretimi ve: 5 defa bulunmaktadır
+ve dağıtımı: 5 defa bulunmaktadır
+dağıtımı sektörü: 5 defa bulunmaktadır
+sektörü endeksi: 13 defa bulunmaktadır
+endeksi ise: 5 defa bulunmaktadır
+ise yüzde: 3 defa bulunmaktadır
+yüzde 4.1: 4 defa bulunmaktadır
+4.1 arttı.: 2 defa bulunmaktadır
+arttı. Takvim: 2 defa bulunmaktadır
+Takvim etkisinden: 4 defa bulunmaktadır
+etkisinden arındırılmış: 5 defa bulunmaktadır
+arındırılmış endeks: 3 defa bulunmaktadır
+endeks 2012: 3 defa bulunmaktadır
+2012 yılı: 10 defa bulunmaktadır
+yılı Eylül: 8 defa bulunmaktadır
+Eylül ayında: 15 defa bulunmaktadır
+ayında geçen: 9 defa bulunmaktadır
+geçen yılın: 13 defa bulunmaktadır
+yılın aynı: 13 defa bulunmaktadır
+aynı ayına: 12 defa bulunmaktadır
+ayına göre: 9 defa bulunmaktadır
+göre yüzde: 13 defa bulunmaktadır
+yüzde 6.2,: 3 defa bulunmaktadır
+6.2, mevsim: 2 defa bulunmaktadır
+mevsim ve: 3 defa bulunmaktadır
+ve takvim: 4 defa bulunmaktadır
+takvim etkilerinden: 3 defa bulunmaktadır
+etkilerinden arındırılmış: 3 defa bulunmaktadır
+arındırılmış sanayi: 3 defa bulunmaktadır
+sanayi üretim: 5 defa bulunmaktadır
+üretim endeksi: 4 defa bulunmaktadır
+endeksi ise: 5 defa bulunmaktadır
+ise bir: 3 defa bulunmaktadır
+bir önceki: 7 defa bulunmaktadır
+önceki aya: 7 defa bulunmaktadır
+aya göre: 7 defa bulunmaktadır
+göre yüzde: 13 defa bulunmaktadır
+yüzde 3.9: 3 defa bulunmaktadır
+3.9 arttı.: 2 defa bulunmaktadır
+arttı. Türkiye: 1 defa bulunmaktadır
+Türkiye İstatistik: 1 defa bulunmaktadır
+İstatistik Kurumu: 1 defa bulunmaktadır
+Kurumu (TÜİK): 1 defa bulunmaktadır
+(TÜİK) 2012: 1 defa bulunmaktadır
+2012 yılı: 10 defa bulunmaktadır
+yılı Eylül: 8 defa bulunmaktadır
+Eylül ayı: 1 defa bulunmaktadır
+ayı Sanayi: 1 defa bulunmaktadır
+Sanayi Üretim: 3 defa bulunmaktadır
+Üretim Endeksi’ni: 1 defa bulunmaktadır
+Endeksi’ni açıkladı.: 1 defa bulunmaktadır
+açıkladı. Buna: 1 defa bulunmaktadır
+Buna göre: 1 defa bulunmaktadır
+göre Eylül: 1 defa bulunmaktadır
+Eylül ayında: 15 defa bulunmaktadır
+ayında 2005=100: 1 defa bulunmaktadır
+2005=100 temel: 1 defa bulunmaktadır
+temel yıllı: 1 defa bulunmaktadır
+yıllı sanayi: 1 defa bulunmaktadır
+sanayi üretim: 5 defa bulunmaktadır
+üretim endeksi: 4 defa bulunmaktadır
+endeksi geçen: 1 defa bulunmaktadır
+geçen yılın: 13 defa bulunmaktadır
+yılın aynı: 13 defa bulunmaktadır
+aynı ayına: 12 defa bulunmaktadır
+ayına göre: 9 defa bulunmaktadır
+göre yüzde: 13 defa bulunmaktadır
+yüzde 6.2: 6 defa bulunmaktadır
+6.2 oranında: 3 defa bulunmaktadır
+oranında artarak: 1 defa bulunmaktadır
+artarak 135.5: 1 defa bulunmaktadır
+135.5 düzeyinde: 1 defa bulunmaktadır
+düzeyinde gerçekleşti.: 3 defa bulunmaktadır
+gerçekleşti. Sanayi: 1 defa bulunmaktadır
+Sanayi üretim,: 1 defa bulunmaktadır
+üretim, Aralık: 1 defa bulunmaktadır
+Aralık 2009’dan: 1 defa bulunmaktadır
+2009’dan 2012: 1 defa bulunmaktadır
+2012 yılı: 10 defa bulunmaktadır
+yılı Temmuz: 1 defa bulunmaktadır
+Temmuz ayına: 1 defa bulunmaktadır
+ayına kadar: 1 defa bulunmaktadır
+kadar dönemde: 1 defa bulunmaktadır
+dönemde geçen: 1 defa bulunmaktadır
+geçen yılın: 13 defa bulunmaktadır
+yılın aynı: 13 defa bulunmaktadır
+aynı ayına: 12 defa bulunmaktadır
+ayına göre: 9 defa bulunmaktadır
+göre artış: 1 defa bulunmaktadır
+artış göstermişti.: 1 defa bulunmaktadır
+göstermişti. 32: 1 defa bulunmaktadır
+32 ay: 1 defa bulunmaktadır
+ay sonra: 1 defa bulunmaktadır
+sonra ilk: 1 defa bulunmaktadır
+ilk kez: 1 defa bulunmaktadır
+kez Ağustos’ta: 1 defa bulunmaktadır
+Ağustos’ta kesintisiz: 1 defa bulunmaktadır
+kesintisiz artış: 1 defa bulunmaktadır
+artış sürecine: 1 defa bulunmaktadır
+sürecine ara: 1 defa bulunmaktadır
+ara vererek: 1 defa bulunmaktadır
+vererek yüzde: 1 defa bulunmaktadır
+yüzde 1.8: 1 defa bulunmaktadır
+1.8 oranında: 1 defa bulunmaktadır
+oranında gerileyen: 1 defa bulunmaktadır
+gerileyen Endeks,: 1 defa bulunmaktadır
+Endeks, Eylül: 1 defa bulunmaktadır
+Eylül ayında: 15 defa bulunmaktadır
+ayında yeniden: 1 defa bulunmaktadır
+yeniden artışa: 1 defa bulunmaktadır
+artışa geçti.: 1 defa bulunmaktadır
+geçti. -AYLIK: 1 defa bulunmaktadır
+-AYLIK BAZDA: 1 defa bulunmaktadır
+BAZDA SANAYİ: 1 defa bulunmaktadır
+SANAYİ ÜRETİMİ: 1 defa bulunmaktadır
+ÜRETİMİ YÜZDE: 1 defa bulunmaktadır
+YÜZDE 15.6: 1 defa bulunmaktadır
+15.6 ARTTI-: 1 defa bulunmaktadır
+ARTTI- Sanayi: 1 defa bulunmaktadır
+Sanayi üretimi: 1 defa bulunmaktadır
+üretimi endeksi: 1 defa bulunmaktadır
+endeksi Eylül: 1 defa bulunmaktadır
+Eylül ayında: 15 defa bulunmaktadır
+ayında bir: 2 defa bulunmaktadır
+bir önceki: 7 defa bulunmaktadır
+önceki aya: 7 defa bulunmaktadır
+aya göre: 7 defa bulunmaktadır
+göre yüzde: 13 defa bulunmaktadır
+yüzde 15.6: 1 defa bulunmaktadır
+15.6 oranında: 1 defa bulunmaktadır
+oranında artış: 2 defa bulunmaktadır
+artış gösterdi.: 1 defa bulunmaktadır
+gösterdi. Endeksin: 1 defa bulunmaktadır
+Endeksin aylık: 1 defa bulunmaktadır
+aylık bazda: 1 defa bulunmaktadır
+bazda gelişimi: 1 defa bulunmaktadır
+gelişimi incelendiğinde,: 1 defa bulunmaktadır
+incelendiğinde, sanayi: 1 defa bulunmaktadır
+sanayi üretimi,: 1 defa bulunmaktadır
+üretimi, 2012: 1 defa bulunmaktadır
+2012 yılı: 10 defa bulunmaktadır
+yılı Ocak: 1 defa bulunmaktadır
+Ocak ayında: 1 defa bulunmaktadır
+ayında bir: 2 defa bulunmaktadır
+bir önceki: 7 defa bulunmaktadır
+önceki aya: 7 defa bulunmaktadır
+aya göre: 7 defa bulunmaktadır
+göre yüzde: 13 defa bulunmaktadır
+yüzde 14.9,: 1 defa bulunmaktadır
+14.9, Şubat: 1 defa bulunmaktadır
+Şubat ayında: 1 defa bulunmaktadır
+ayında yüzde: 3 defa bulunmaktadır
+yüzde 1.4: 1 defa bulunmaktadır
+1.4 oranında: 1 defa bulunmaktadır
+oranında gerileme: 1 defa bulunmaktadır
+gerileme göstermişti.: 1 defa bulunmaktadır
+göstermişti. Mart: 1 defa bulunmaktadır
+Mart ayında: 1 defa bulunmaktadır
+ayında ise: 1 defa bulunmaktadır
+ise yüzde: 3 defa bulunmaktadır
+yüzde 10.9: 1 defa bulunmaktadır
+10.9 oranında: 1 defa bulunmaktadır
+oranında artış: 2 defa bulunmaktadır
+artış gösteren: 1 defa bulunmaktadır
+gösteren endeks: 1 defa bulunmaktadır
+endeks Nisan: 1 defa bulunmaktadır
+Nisan ayında: 1 defa bulunmaktadır
+ayında 4.6: 1 defa bulunmaktadır
+4.6 oranında: 1 defa bulunmaktadır
+oranında azalmıştı.: 1 defa bulunmaktadır
+azalmıştı. Mayıs: 1 defa bulunmaktadır
+Mayıs ayında: 1 defa bulunmaktadır
+ayında yüzde: 3 defa bulunmaktadır
+yüzde 7.5: 1 defa bulunmaktadır
+7.5 oranında: 1 defa bulunmaktadır
+oranında artış,: 1 defa bulunmaktadır
+artış, Haziran: 1 defa bulunmaktadır
+Haziran ayında: 1 defa bulunmaktadır
+ayında 1.6: 1 defa bulunmaktadır
+1.6 gerileme: 1 defa bulunmaktadır
+gerileme yaşanmıştı.: 1 defa bulunmaktadır
+yaşanmıştı. Temmuz’da: 1 defa bulunmaktadır
+Temmuz’da yüzde: 1 defa bulunmaktadır
+yüzde 0.2: 1 defa bulunmaktadır
+0.2 oranında: 1 defa bulunmaktadır
+oranında artan: 1 defa bulunmaktadır
+artan Endeks,: 1 defa bulunmaktadır
+Endeks, Ağustos: 1 defa bulunmaktadır
+Ağustos ayında: 1 defa bulunmaktadır
+ayında yüzde: 3 defa bulunmaktadır
+yüzde 11.7: 1 defa bulunmaktadır
+11.7 oranında: 1 defa bulunmaktadır
+oranında gerilemişti.: 1 defa bulunmaktadır
+gerilemişti. -İMALAT: 1 defa bulunmaktadır
+-İMALAT SANAYİNDE: 1 defa bulunmaktadır
+SANAYİNDE ÜRETİM: 1 defa bulunmaktadır
+ÜRETİM GEÇEN: 1 defa bulunmaktadır
+GEÇEN YILIN: 1 defa bulunmaktadır
+YILIN AYNI: 1 defa bulunmaktadır
+AYNI AYINA: 1 defa bulunmaktadır
+AYINA GÖRE: 1 defa bulunmaktadır
+GÖRE YÜZDE: 1 defa bulunmaktadır
+YÜZDE 6.2: 2 defa bulunmaktadır
+6.2 ARTTI-: 2 defa bulunmaktadır
+ARTTI- Sanayinin: 1 defa bulunmaktadır
+Sanayinin alt: 3 defa bulunmaktadır
+alt sektörleri: 5 defa bulunmaktadır
+sektörleri incelendiğinde,: 5 defa bulunmaktadır
+incelendiğinde, Eylül: 1 defa bulunmaktadır
+Eylül ayında: 15 defa bulunmaktadır
+ayında geçen: 9 defa bulunmaktadır
+geçen yılın: 13 defa bulunmaktadır
+yılın aynı: 13 defa bulunmaktadır
+aynı ayına: 12 defa bulunmaktadır
+ayına göre;: 3 defa bulunmaktadır
+göre; madencilik: 3 defa bulunmaktadır
+madencilik ve: 5 defa bulunmaktadır
+ve taşocakçılığı: 5 defa bulunmaktadır
+taşocakçılığı sektörü: 5 defa bulunmaktadır
+sektörü endeksi: 13 defa bulunmaktadır
+endeksi yüzde: 10 defa bulunmaktadır
+yüzde 10.8: 1 defa bulunmaktadır
+10.8 artışla: 1 defa bulunmaktadır
+artışla 154.5’e: 1 defa bulunmaktadır
+154.5’e yükseldi.: 1 defa bulunmaktadır
+yükseldi. İmalat: 1 defa bulunmaktadır
+İmalat sanayi: 1 defa bulunmaktadır
+sanayi sektörü: 4 defa bulunmaktadır
+sektörü endeksi: 13 defa bulunmaktadır
+endeksi yüzde: 10 defa bulunmaktadır
+yüzde 6.2: 6 defa bulunmaktadır
+6.2 artışla: 2 defa bulunmaktadır
+artışla 133.5’e,: 1 defa bulunmaktadır
+133.5’e, elektrik,: 1 defa bulunmaktadır
+elektrik, gaz,: 4 defa bulunmaktadır
+gaz, buhar: 5 defa bulunmaktadır
+buhar ve: 5 defa bulunmaktadır
+ve iklimlendirme: 5 defa bulunmaktadır
+iklimlendirme üretimi: 5 defa bulunmaktadır
+üretimi ve: 5 defa bulunmaktadır
+ve dağıtımı: 5 defa bulunmaktadır
+dağıtımı sektörü: 5 defa bulunmaktadır
+sektörü endeksi: 13 defa bulunmaktadır
+endeksi yüzde: 10 defa bulunmaktadır
+yüzde 4.1: 4 defa bulunmaktadır
+4.1 artışla: 2 defa bulunmaktadır
+artışla 145.3’e: 1 defa bulunmaktadır
+145.3’e ulaştı.: 1 defa bulunmaktadır
+ulaştı. -TAKVİM: 1 defa bulunmaktadır
+-TAKVİM ENDEKSİNDEN: 1 defa bulunmaktadır
+ENDEKSİNDEN ARINDIRILMIŞ: 1 defa bulunmaktadır
+ARINDIRILMIŞ ENDEKS: 1 defa bulunmaktadır
+ENDEKS YÜZDE: 2 defa bulunmaktadır
+YÜZDE 6.2: 2 defa bulunmaktadır
+6.2 ARTTI-: 2 defa bulunmaktadır
+ARTTI- Takvim: 1 defa bulunmaktadır
+Takvim etkisinden: 4 defa bulunmaktadır
+etkisinden arındırılmış: 5 defa bulunmaktadır
+arındırılmış endeks: 3 defa bulunmaktadır
+endeks 2012: 3 defa bulunmaktadır
+2012 yılı: 10 defa bulunmaktadır
+yılı Eylül: 8 defa bulunmaktadır
+Eylül ayında: 15 defa bulunmaktadır
+ayında geçen: 9 defa bulunmaktadır
+geçen yılın: 13 defa bulunmaktadır
+yılın aynı: 13 defa bulunmaktadır
+aynı ayına: 12 defa bulunmaktadır
+ayına göre: 9 defa bulunmaktadır
+göre yüzde: 13 defa bulunmaktadır
+yüzde 6.2: 6 defa bulunmaktadır
+6.2 artışla: 2 defa bulunmaktadır
+artışla 135.6: 1 defa bulunmaktadır
+135.6 değerinde: 1 defa bulunmaktadır
+değerinde gerçekleşti.: 1 defa bulunmaktadır
+gerçekleşti. Takvim: 1 defa bulunmaktadır
+Takvim etkisinden: 4 defa bulunmaktadır
+etkisinden arındırılmış: 5 defa bulunmaktadır
+arındırılmış endekse: 2 defa bulunmaktadır
+endekse göre: 2 defa bulunmaktadır
+göre sanayinin: 2 defa bulunmaktadır
+sanayinin alt: 2 defa bulunmaktadır
+alt sektörleri: 5 defa bulunmaktadır
+sektörleri incelendiğinde,: 5 defa bulunmaktadır
+incelendiğinde, 2012: 3 defa bulunmaktadır
+2012 yılı: 10 defa bulunmaktadır
+yılı Eylül: 8 defa bulunmaktadır
+Eylül ayında: 15 defa bulunmaktadır
+ayında geçen: 9 defa bulunmaktadır
+geçen yılın: 13 defa bulunmaktadır
+yılın aynı: 13 defa bulunmaktadır
+aynı ayına: 12 defa bulunmaktadır
+ayına göre: 9 defa bulunmaktadır
+göre imalat: 1 defa bulunmaktadır
+imalat sanayi: 4 defa bulunmaktadır
+sanayi sektörü: 4 defa bulunmaktadır
+sektörü endeksi: 13 defa bulunmaktadır
+endeksi yüzde: 10 defa bulunmaktadır
+yüzde 6.2: 6 defa bulunmaktadır
+6.2 oranında: 3 defa bulunmaktadır
+oranında artışla: 4 defa bulunmaktadır
+artışla 133.6,: 1 defa bulunmaktadır
+133.6, elektrik,: 1 defa bulunmaktadır
+elektrik, gaz,: 4 defa bulunmaktadır
+gaz, buhar: 5 defa bulunmaktadır
+buhar ve: 5 defa bulunmaktadır
+ve iklimlendirme: 5 defa bulunmaktadır
+iklimlendirme üretimi: 5 defa bulunmaktadır
+üretimi ve: 5 defa bulunmaktadır
+ve dağıtımı: 5 defa bulunmaktadır
+dağıtımı sektörü: 5 defa bulunmaktadır
+sektörü endeksi: 13 defa bulunmaktadır
+endeksi yüzde: 10 defa bulunmaktadır
+yüzde 4.1: 4 defa bulunmaktadır
+4.1 artışla: 2 defa bulunmaktadır
+artışla 145.3: 1 defa bulunmaktadır
+145.3 düzeyine: 1 defa bulunmaktadır
+düzeyine ulaşırken,: 1 defa bulunmaktadır
+ulaşırken, madencilik: 1 defa bulunmaktadır
+madencilik ve: 5 defa bulunmaktadır
+ve taşocakçılığı: 5 defa bulunmaktadır
+taşocakçılığı sektörü: 5 defa bulunmaktadır
+sektörü yüzde: 1 defa bulunmaktadır
+yüzde 8.7: 2 defa bulunmaktadır
+8.7 artarak: 1 defa bulunmaktadır
+artarak 152.2: 1 defa bulunmaktadır
+152.2 oldu.: 1 defa bulunmaktadır
+oldu. -MEVSİM: 1 defa bulunmaktadır
+-MEVSİM VE: 1 defa bulunmaktadır
+VE TAKVİM: 1 defa bulunmaktadır
+TAKVİM ETKİSİNDEN: 1 defa bulunmaktadır
+ETKİSİNDEN ARINDILMIŞ: 1 defa bulunmaktadır
+ARINDILMIŞ ENDEKS: 1 defa bulunmaktadır
+ENDEKS YÜZDE: 2 defa bulunmaktadır
+YÜZDE 3.9: 1 defa bulunmaktadır
+3.9 ARTTI-: 1 defa bulunmaktadır
+ARTTI- Eylül’de: 1 defa bulunmaktadır
+Eylül’de mevsim: 1 defa bulunmaktadır
+mevsim ve: 3 defa bulunmaktadır
+ve takvim: 4 defa bulunmaktadır
+takvim etkilerinden: 3 defa bulunmaktadır
+etkilerinden arındırılmış: 3 defa bulunmaktadır
+arındırılmış sanayi: 3 defa bulunmaktadır
+sanayi üretim: 5 defa bulunmaktadır
+üretim endeksi: 4 defa bulunmaktadır
+endeksi ise: 5 defa bulunmaktadır
+ise bir: 3 defa bulunmaktadır
+bir önceki: 7 defa bulunmaktadır
+önceki aya: 7 defa bulunmaktadır
+aya göre: 7 defa bulunmaktadır
+göre yüzde: 13 defa bulunmaktadır
+yüzde 3.9: 3 defa bulunmaktadır
+3.9 oranında: 1 defa bulunmaktadır
+oranında artışla: 4 defa bulunmaktadır
+artışla 133: 1 defa bulunmaktadır
+133 8: 1 defa bulunmaktadır
+8 düzeyinde: 1 defa bulunmaktadır
+düzeyinde gerçekleşti.: 3 defa bulunmaktadır
+gerçekleşti. Mevsim: 1 defa bulunmaktadır
+Mevsim ve: 1 defa bulunmaktadır
+ve takvim: 4 defa bulunmaktadır
+takvim etkisinden: 1 defa bulunmaktadır
+etkisinden arındırılmış: 5 defa bulunmaktadır
+arındırılmış endekse: 2 defa bulunmaktadır
+endekse göre: 2 defa bulunmaktadır
+göre sanayinin: 2 defa bulunmaktadır
+sanayinin alt: 2 defa bulunmaktadır
+alt sektörleri: 5 defa bulunmaktadır
+sektörleri incelendiğinde,: 5 defa bulunmaktadır
+incelendiğinde, imalat: 1 defa bulunmaktadır
+imalat sanayi: 4 defa bulunmaktadır
+sanayi endeksi: 1 defa bulunmaktadır
+endeksi bir: 2 defa bulunmaktadır
+bir önceki: 7 defa bulunmaktadır
+önceki aya: 7 defa bulunmaktadır
+aya göre: 7 defa bulunmaktadır
+göre yüzde: 13 defa bulunmaktadır
+yüzde 4: 1 defa bulunmaktadır
+4 artışla: 1 defa bulunmaktadır
+artışla 131.5’e: 1 defa bulunmaktadır
+131.5’e yükselirken,: 1 defa bulunmaktadır
+yükselirken, madencilik: 1 defa bulunmaktadır
+madencilik ve: 5 defa bulunmaktadır
+ve taşocakçılığı: 5 defa bulunmaktadır
+taşocakçılığı sektörü: 5 defa bulunmaktadır
+sektörü endeksi: 13 defa bulunmaktadır
+endeksi bir: 2 defa bulunmaktadır
+bir önceki: 7 defa bulunmaktadır
+önceki aya: 7 defa bulunmaktadır
+aya göre: 7 defa bulunmaktadır
+göre yüzde: 13 defa bulunmaktadır
+yüzde 4.4: 1 defa bulunmaktadır
+4.4 oranında: 1 defa bulunmaktadır
+oranında artışla: 4 defa bulunmaktadır
+artışla yüzde: 1 defa bulunmaktadır
+yüzde 137.5’e: 1 defa bulunmaktadır
+137.5’e ulaştı.: 1 defa bulunmaktadır
+ulaştı. Elektrik,: 1 defa bulunmaktadır
+Elektrik, gaz,: 1 defa bulunmaktadır
+gaz, buhar: 5 defa bulunmaktadır
+buhar ve: 5 defa bulunmaktadır
+ve iklimlendirme: 5 defa bulunmaktadır
+iklimlendirme üretimi: 5 defa bulunmaktadır
+üretimi ve: 5 defa bulunmaktadır
+ve dağıtımı: 5 defa bulunmaktadır
+dağıtımı sektörü: 5 defa bulunmaktadır
+sektörü endeksi: 13 defa bulunmaktadır
+endeksi yüzde: 10 defa bulunmaktadır
+yüzde 1.2: 1 defa bulunmaktadır
+1.2 artışla: 1 defa bulunmaktadır
+artışla 151: 1 defa bulunmaktadır
+151 oldu.: 1 defa bulunmaktadır
+oldu. -ARA: 1 defa bulunmaktadır
+-ARA MALI: 1 defa bulunmaktadır
+MALI İMALATI: 1 defa bulunmaktadır
+İMALATI YÜZDE: 1 defa bulunmaktadır
+YÜZDE 5.3: 1 defa bulunmaktadır
+5.3 ARTTI-: 1 defa bulunmaktadır
+ARTTI- Eylül: 1 defa bulunmaktadır
+Eylül ayında: 15 defa bulunmaktadır
+ayında arındırılmamış: 1 defa bulunmaktadır
+arındırılmamış endeks: 1 defa bulunmaktadır
+endeks verilerine: 1 defa bulunmaktadır
+verilerine göre: 1 defa bulunmaktadır
+göre ara: 1 defa bulunmaktadır
+ara malı: 1 defa bulunmaktadır
+malı imalatında: 1 defa bulunmaktadır
+imalatında üretim: 1 defa bulunmaktadır
+üretim geçen: 1 defa bulunmaktadır
+geçen yılın: 13 defa bulunmaktadır
+yılın aynı: 13 defa bulunmaktadır
+aynı ayına: 12 defa bulunmaktadır
+ayına göre: 9 defa bulunmaktadır
+göre yüzde: 13 defa bulunmaktadır
+yüzde 5.3: 1 defa bulunmaktadır
+5.3 artışla: 1 defa bulunmaktadır
+artışla 139.2: 1 defa bulunmaktadır
+139.2 oldu.: 1 defa bulunmaktadır
+oldu. Dayanıklı: 1 defa bulunmaktadır
+Dayanıklı tüketim: 1 defa bulunmaktadır
+tüketim malı: 2 defa bulunmaktadır
+malı imalatı: 3 defa bulunmaktadır
+imalatı yüzde: 3 defa bulunmaktadır
+yüzde 8.6: 1 defa bulunmaktadır
+8.6 artışla: 1 defa bulunmaktadır
+artışla 165.4,: 1 defa bulunmaktadır
+165.4, dayanıksız: 1 defa bulunmaktadır
+dayanıksız tüketim: 1 defa bulunmaktadır
+tüketim malı: 2 defa bulunmaktadır
+malı imalatı: 3 defa bulunmaktadır
+imalatı yüzde: 3 defa bulunmaktadır
+yüzde 8.7: 2 defa bulunmaktadır
+8.7 artışla: 1 defa bulunmaktadır
+artışla 123.4,: 1 defa bulunmaktadır
+123.4, sermaye: 1 defa bulunmaktadır
+sermaye malı: 1 defa bulunmaktadır
+malı imalatı: 3 defa bulunmaktadır
+imalatı yüzde: 3 defa bulunmaktadır
+yüzde 4.5: 1 defa bulunmaktadır
+4.5 artışla: 1 defa bulunmaktadır
+artışla 136.4: 1 defa bulunmaktadır
+136.4 düzeyinde: 1 defa bulunmaktadır
+düzeyinde gerçekleşti.: 3 defa bulunmaktadır
+gerçekleşti. Bu: 1 defa bulunmaktadır
+Bu dönemde: 1 defa bulunmaktadır
+dönemde enerji: 1 defa bulunmaktadır
+enerji yüzde: 1 defa bulunmaktadır
+yüzde 5.1: 1 defa bulunmaktadır
+5.1 artışla: 1 defa bulunmaktadır
+artışla 136.6: 1 defa bulunmaktadır
+136.6 oldu.: 1 defa bulunmaktadır
+oldu. -ÜRETİMİN: 1 defa bulunmaktadır
+-ÜRETİMİN EN: 1 defa bulunmaktadır
+EN ÇOK: 1 defa bulunmaktadır
+ÇOK GERİLEDİĞİ: 1 defa bulunmaktadır
+GERİLEDİĞİ SEKTÖRLER-: 1 defa bulunmaktadır
+SEKTÖRLER- Eylül: 1 defa bulunmaktadır
+Eylül ayında: 15 defa bulunmaktadır
+ayında sanayi: 2 defa bulunmaktadır
+sanayi üretimi: 2 defa bulunmaktadır
+üretimi sektörel: 1 defa bulunmaktadır
+sektörel bazda: 1 defa bulunmaktadır
+bazda değerlendirildiğinde,: 1 defa bulunmaktadır
+değerlendirildiğinde, 6: 1 defa bulunmaktadır
+6 alt: 1 defa bulunmaktadır
+alt sektörde: 1 defa bulunmaktadır
+sektörde üretimin: 1 defa bulunmaktadır
+üretimin gerilediği: 1 defa bulunmaktadır
+gerilediği belirlendi.: 1 defa bulunmaktadır
+belirlendi. 2012: 1 defa bulunmaktadır
+2012 yılı: 10 defa bulunmaktadır
+yılı Eylül: 8 defa bulunmaktadır
+Eylül ayında: 15 defa bulunmaktadır
+ayında geçen: 9 defa bulunmaktadır
+geçen yılın: 13 defa bulunmaktadır
+yılın aynı: 13 defa bulunmaktadır
+aynı dönemine: 1 defa bulunmaktadır
+dönemine göre: 1 defa bulunmaktadır
+göre gerileyen: 1 defa bulunmaktadır
+gerileyen sektörler: 1 defa bulunmaktadır
+sektörler arasında: 1 defa bulunmaktadır
+arasında yüzde: 1 defa bulunmaktadır
+yüzde 9: 1 defa bulunmaktadır
+9 ile: 1 defa bulunmaktadır
+ile makine: 1 defa bulunmaktadır
+makine ve: 2 defa bulunmaktadır
+ve ekipmanların: 1 defa bulunmaktadır
+ekipmanların kurulumu: 1 defa bulunmaktadır
+kurulumu ve: 1 defa bulunmaktadır
+ve onarımı,: 1 defa bulunmaktadır
+onarımı, yüzde: 1 defa bulunmaktadır
+yüzde 4.2: 1 defa bulunmaktadır
+4.2 ile: 1 defa bulunmaktadır
+ile elektrikli: 1 defa bulunmaktadır
+elektrikli teçhizat: 1 defa bulunmaktadır
+teçhizat imalatı,: 1 defa bulunmaktadır
+imalatı, yüzde: 3 defa bulunmaktadır
+yüzde 3.1: 1 defa bulunmaktadır
+3.1 ile: 1 defa bulunmaktadır
+ile mobilya: 1 defa bulunmaktadır
+mobilya imalatı,: 1 defa bulunmaktadır
+imalatı, yüzde: 3 defa bulunmaktadır
+yüzde 1: 1 defa bulunmaktadır
+1 ile: 1 defa bulunmaktadır
+ile başka: 1 defa bulunmaktadır
+başka yerde: 1 defa bulunmaktadır
+yerde sınıflandırılmamış: 1 defa bulunmaktadır
+sınıflandırılmamış makine: 1 defa bulunmaktadır
+makine ve: 2 defa bulunmaktadır
+ve ekipman: 1 defa bulunmaktadır
+ekipman imalatı,: 1 defa bulunmaktadır
+imalatı, yüzde: 3 defa bulunmaktadır
+yüzde 0.8: 1 defa bulunmaktadır
+0.8 ile: 1 defa bulunmaktadır
+ile ham: 1 defa bulunmaktadır
+ham petrol: 1 defa bulunmaktadır
+petrol ve: 1 defa bulunmaktadır
+ve doğalgaz: 1 defa bulunmaktadır
+doğalgaz çıkarımı,: 1 defa bulunmaktadır
+çıkarımı, yüzde: 1 defa bulunmaktadır
+yüzde 0.1: 1 defa bulunmaktadır
+0.1 ile: 1 defa bulunmaktadır
+ile bilgisayarların: 1 defa bulunmaktadır
+bilgisayarların elektronik: 1 defa bulunmaktadır
+elektronik ve: 1 defa bulunmaktadır
+ve optik: 1 defa bulunmaktadır
+optik ürünlerin: 1 defa bulunmaktadır
+ürünlerin imalatı: 1 defa bulunmaktadır
+imalatı yer: 1 defa bulunmaktadır
+yer aldı.: 1 defa bulunmaktadır
+aldı. -ALT: 1 defa bulunmaktadır
+-ALT SEKTÖRLERDE: 1 defa bulunmaktadır
+SEKTÖRLERDE EN: 1 defa bulunmaktadır
+EN YÜKSEK: 1 defa bulunmaktadır
+YÜKSEK ARTIŞ: 1 defa bulunmaktadır
+ARTIŞ DİĞER: 1 defa bulunmaktadır
+DİĞER ULAŞIM: 1 defa bulunmaktadır
+ULAŞIM ARAÇLARININ: 1 defa bulunmaktadır
+ARAÇLARININ İMALATINDA-: 1 defa bulunmaktadır
+İMALATINDA- Eylül: 1 defa bulunmaktadır
+Eylül ayında: 15 defa bulunmaktadır
+ayında sanayi: 2 defa bulunmaktadır
+sanayi üretim: 5 defa bulunmaktadır
+üretim endeksinde: 1 defa bulunmaktadır
+endeksinde geçen: 1 defa bulunmaktadır
+geçen yılın: 13 defa bulunmaktadır
+yılın aynı: 13 defa bulunmaktadır
+aynı ayına: 12 defa bulunmaktadır
+ayına göre: 9 defa bulunmaktadır
+göre alt: 1 defa bulunmaktadır
+alt sektörler: 1 defa bulunmaktadır
+sektörler bazında: 1 defa bulunmaktadır
+bazında değişim: 1 defa bulunmaktadır
+değişim oranları: 1 defa bulunmaktadır
+oranları incelendiğinde,: 1 defa bulunmaktadır
+incelendiğinde, en: 1 defa bulunmaktadır
+en yüksek: 1 defa bulunmaktadır
+yüksek artış: 1 defa bulunmaktadır
+artış yüzde: 1 defa bulunmaktadır
+yüzde 196.9: 1 defa bulunmaktadır
+196.9 ile: 1 defa bulunmaktadır
+ile diğer: 1 defa bulunmaktadır
+diğer ulaşım: 1 defa bulunmaktadır
+ulaşım araçlarının: 1 defa bulunmaktadır
+araçlarının imalatında: 1 defa bulunmaktadır
+imalatında gerçekleşti.: 1 defa bulunmaktadır
+gerçekleşti. Bunu: 1 defa bulunmaktadır
+Bunu yüzde: 1 defa bulunmaktadır
+yüzde 53.4: 1 defa bulunmaktadır
+53.4 ile: 1 defa bulunmaktadır
+ile ağaç,: 1 defa bulunmaktadır
+ağaç, ağaç: 1 defa bulunmaktadır
+ağaç ve: 1 defa bulunmaktadır
+ve mantar: 1 defa bulunmaktadır
+mantar ürünleri: 1 defa bulunmaktadır
+ürünleri imalatı: 1 defa bulunmaktadır
+imalatı (mobilya: 1 defa bulunmaktadır
+(mobilya hariç,: 1 defa bulunmaktadır
+hariç, yüzde: 1 defa bulunmaktadır
+yüzde 26.9: 1 defa bulunmaktadır
+26.9 ile: 1 defa bulunmaktadır
+ile kayıtlı: 1 defa bulunmaktadır
+kayıtlı medyanın: 1 defa bulunmaktadır
+medyanın basılması: 1 defa bulunmaktadır
+basılması ve: 1 defa bulunmaktadır
+ve çoğaltılması: 1 defa bulunmaktadır
+çoğaltılması takip: 1 defa bulunmaktadır
+takip etti.: 1 defa bulunmaktadır
+etti. /**: 1 defa bulunmaktadır
+/** Arındırılmamış: 2 defa bulunmaktadır
+Arındırılmamış Sanayi: 2 defa bulunmaktadır
+Sanayi Üretim: 3 defa bulunmaktadır
+Üretim Endeksi: 1 defa bulunmaktadır
+Endeksi Aylar      : 1 defa bulunmaktadır
+Aylar       2008   : 1 defa bulunmaktadır
+2008    2009   : 1 defa bulunmaktadır
+2009    2010  : 1 defa bulunmaktadır
+2010   2011 : 1 defa bulunmaktadır
+2011  2012: 1 defa bulunmaktadır
+2012 Ocak      : 1 defa bulunmaktadır
+Ocak       112.3   : 1 defa bulunmaktadır
+112.3    88.1   : 1 defa bulunmaktadır
+88.1    99.3 : 1 defa bulunmaktadır
+99.3  118.4 : 1 defa bulunmaktadır
+118.4  120.2: 1 defa bulunmaktadır
+120.2 Şubat     : 1 defa bulunmaktadır
+Şubat      111.3   : 1 defa bulunmaktadır
+111.3    84.6   : 1 defa bulunmaktadır
+84.6    99.5 : 1 defa bulunmaktadır
+99.5  113.4 : 1 defa bulunmaktadır
+113.4  118.5: 1 defa bulunmaktadır
+118.5 Mart      : 1 defa bulunmaktadır
+Mart       121.5   : 1 defa bulunmaktadır
+121.5    95.4  : 1 defa bulunmaktadır
+95.4   115.8 : 1 defa bulunmaktadır
+115.8  128.1 : 1 defa bulunmaktadır
+128.1  131.4: 1 defa bulunmaktadır
+131.4 Nisan     : 1 defa bulunmaktadır
+Nisan      119.4   : 1 defa bulunmaktadır
+119.4    96.9  : 1 defa bulunmaktadır
+96.9   113.3 : 1 defa bulunmaktadır
+113.3  123.4 : 1 defa bulunmaktadır
+123.4  125.4: 1 defa bulunmaktadır
+125.4 Mayıs     : 1 defa bulunmaktadır
+Mayıs      123.4  : 1 defa bulunmaktadır
+123.4   102.3  : 1 defa bulunmaktadır
+102.3   117.6 : 1 defa bulunmaktadır
+117.6  127.2 : 1 defa bulunmaktadır
+127.2  134.7: 1 defa bulunmaktadır
+134.7 Haziran   : 1 defa bulunmaktadır
+Haziran    121.4  : 1 defa bulunmaktadır
+121.4   109.4  : 1 defa bulunmaktadır
+109.4   120.3 : 1 defa bulunmaktadır
+120.3  128.7 : 1 defa bulunmaktadır
+128.7  132.6: 1 defa bulunmaktadır
+132.6 Temmuz    : 1 defa bulunmaktadır
+Temmuz     121.1  : 1 defa bulunmaktadır
+121.1   110.4  : 1 defa bulunmaktadır
+110.4   120.3 : 1 defa bulunmaktadır
+120.3  128.5 : 1 defa bulunmaktadır
+128.5  132.8: 1 defa bulunmaktadır
+132.8 Ağustos   : 1 defa bulunmaktadır
+Ağustos    110.9  : 1 defa bulunmaktadır
+110.9   103.7  : 1 defa bulunmaktadır
+103.7   115.0 : 1 defa bulunmaktadır
+115.0  119.4 : 1 defa bulunmaktadır
+119.4  117.2: 1 defa bulunmaktadır
+117.2 Eylül     : 1 defa bulunmaktadır
+Eylül      114.1  : 1 defa bulunmaktadır
+114.1   103.1  : 1 defa bulunmaktadır
+103.1   113.9 : 1 defa bulunmaktadır
+113.9  127.6 : 1 defa bulunmaktadır
+127.6  135,5: 1 defa bulunmaktadır
+135,5 Ekim      : 1 defa bulunmaktadır
+Ekim       110.5  : 1 defa bulunmaktadır
+110.5   117.4  : 1 defa bulunmaktadır
+117.4   129.0 : 1 defa bulunmaktadır
+129.0  138.7: 1 defa bulunmaktadır
+138.7 Kasım     : 1 defa bulunmaktadır
+Kasım      110.0  : 1 defa bulunmaktadır
+110.0   106.8  : 1 defa bulunmaktadır
+106.8   116.8 : 1 defa bulunmaktadır
+116.8  126.7: 1 defa bulunmaktadır
+126.7 Aralık     : 1 defa bulunmaktadır
+Aralık      94.2  : 1 defa bulunmaktadır
+94.2   116.7  : 1 defa bulunmaktadır
+116.7   136.2 : 1 defa bulunmaktadır
+136.2  141.3: 1 defa bulunmaktadır
+141.3 Yıllık    : 1 defa bulunmaktadır
+Yıllık     114.2  : 1 defa bulunmaktadır
+114.2   102.9  : 1 defa bulunmaktadır
+102.9   116.4 : 1 defa bulunmaktadır
+116.4  126.8: 1 defa bulunmaktadır
+126.8 **/: 1 defa bulunmaktadır
+**/ /**: 1 defa bulunmaktadır
+/** Arındırılmamış: 2 defa bulunmaktadır
+Arındırılmamış Sanayi: 2 defa bulunmaktadır
+Sanayi Üretim: 3 defa bulunmaktadır
+Üretim Endeksi’ndeki: 1 defa bulunmaktadır
+Endeksi’ndeki artış: 1 defa bulunmaktadır
+artış hızı(%): 1 defa bulunmaktadır
+hızı(%) Aylar     : 1 defa bulunmaktadır
+Aylar      2010/2009 : 1 defa bulunmaktadır
+2010/2009  2011/2010 : 1 defa bulunmaktadır
+2011/2010  2012/2011: 1 defa bulunmaktadır
+2012/2011 Ocak      : 1 defa bulunmaktadır
+Ocak       12,8      : 1 defa bulunmaktadır
+12,8       19,2      : 1 defa bulunmaktadır
+19,2       1,5   : 1 defa bulunmaktadır
+1,5    Şubat     : 1 defa bulunmaktadır
+Şubat      17,6      : 1 defa bulunmaktadır
+17,6       14,0      : 1 defa bulunmaktadır
+14,0       4,4: 1 defa bulunmaktadır
+4,4 Mart      : 1 defa bulunmaktadır
+Mart       21,4      : 1 defa bulunmaktadır
+21,4       10,6      : 1 defa bulunmaktadır
+10,6       2,6 : 1 defa bulunmaktadır
+2,6  Nisan     : 1 defa bulunmaktadır
+Nisan      16,9       : 1 defa bulunmaktadır
+16,9        8,9      : 1 defa bulunmaktadır
+8,9       1,5: 1 defa bulunmaktadır
+1,5 Mayıs     : 1 defa bulunmaktadır
+Mayıs      14,9       : 1 defa bulunmaktadır
+14,9        8,2      : 1 defa bulunmaktadır
+8,2       5,9: 1 defa bulunmaktadır
+5,9 Haziran   : 1 defa bulunmaktadır
+Haziran    10,0       : 1 defa bulunmaktadır
+10,0        7,0      : 1 defa bulunmaktadır
+7,0       3,0: 1 defa bulunmaktadır
+3,0 Temmuz     : 1 defa bulunmaktadır
+Temmuz      8,8       : 1 defa bulunmaktadır
+8,8        7,0      : 1 defa bulunmaktadır
+7,0       3,3: 1 defa bulunmaktadır
+3,3 Ağustos   : 1 defa bulunmaktadır
+Ağustos    10,8       : 1 defa bulunmaktadır
+10,8        3,8     : 1 defa bulunmaktadır
+3,8      -1,8: 1 defa bulunmaktadır
+-1,8 Eylül     : 1 defa bulunmaktadır
+Eylül      10,4      : 1 defa bulunmaktadır
+10,4       12,1      : 1 defa bulunmaktadır
+12,1       6,2: 1 defa bulunmaktadır
+6,2 Ekim       : 1 defa bulunmaktadır
+Ekim        9,9       : 1 defa bulunmaktadır
+9,9        7,5 : 1 defa bulunmaktadır
+7,5  Kasım      : 1 defa bulunmaktadır
+Kasım       9,4       : 1 defa bulunmaktadır
+9,4        8,5: 1 defa bulunmaktadır
+8,5 Aralık    : 1 defa bulunmaktadır
+Aralık     16,7       : 1 defa bulunmaktadır
+16,7        3,7: 1 defa bulunmaktadır
+3,7 Yıllık    : 1 defa bulunmaktadır
+Yıllık     13,1       : 1 defa bulunmaktadır
+13,1        8,9: 1 defa bulunmaktadır
+8,9 ANKA: 1 defa bulunmaktadır

@@ -4,17 +4,26 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.StringTokenizer;
 
+@SuppressWarnings("rawtypes")
 public class Ngram {
 
-	private static final String KAYNAK  = "/home/myilmaz/Documents/Doktora/2017-8_I/NLP/mycHW-corpus/kaynak/";
-	private static final String HEDEF   = "/home/myilmaz/Documents/Doktora/2017-8_I/NLP/mycHW-corpus/hedef/";
-	private static final String DURUM   = " defa bulunmaktadır";
-	private static final String KONTROL = "Dosya mevcut";
-	private static final String UNIGRAM = "uniGram";
-	private static final String BIGRAM  = "biGram";
-	private static final String TRIGRAM = "triGram";
+	private static final String KAYNAK	= "/home/myilmaz/Documents/Doktora/2017-8_I/NLP/mycHW-corpus/kaynak/";
+	private static final String HEDEF	= "/home/myilmaz/Documents/Doktora/2017-8_I/NLP/mycHW-corpus/hedef/";
+	private static final String DURUM	= " defa bulunmaktadır";
+	private static final String KONTROL	= "Dosya mevcut";
+	private static final String UNIGRAM	= "uniGram";
+	private static final String BIGRAM	= "biGram";
+	private static final String TRIGRAM	= "triGram";
 	private static final String ESIT	= ": ";
 	private static final String BOS		= " ";
+	BufferedReader reader = null;
+	StringTokenizer st;
+	OutputStream os;
+	PrintStream p;
+	File destFile;
+	File srcFile;
+	String line;
+	int s=0;
 
 	public static void main(String[] args) throws IOException {
 
@@ -26,9 +35,9 @@ public class Ngram {
 
 	}
 
-	@SuppressWarnings({ "rawtypes", "unchecked" })
+	@SuppressWarnings({ "unchecked" })
 	public void operate(File srcFolder, File destFolder, String nGram) {
-
+		
 		if(srcFolder.isDirectory()){
 			String files[] = srcFolder.list();
 
@@ -36,16 +45,8 @@ public class Ngram {
 				
 				ArrayList wordsCount = new ArrayList();
 				ArrayList arrList = new ArrayList();
-				ArrayList words = new ArrayList();		
-				BufferedReader reader = null;
-				StringTokenizer st;
-				OutputStream os;
-				PrintStream p;
-				File destFile;
-				File srcFile;
-				String line;
-				int s=0;
-
+				ArrayList words = new ArrayList();
+				
 				srcFile = new File(srcFolder, file);
 				destFile = new File(destFolder, file);
 
@@ -133,7 +134,6 @@ public class Ngram {
 				} else {
 					System.out.println(KONTROL);
 				}
-				break;
 			}
 		}
 

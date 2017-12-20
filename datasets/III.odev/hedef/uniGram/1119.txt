@@ -1,0 +1,879 @@
+Sanayi: 6 defa bulunmaktadır
+beklentiyi: 1 defa bulunmaktadır
+aştı: 1 defa bulunmaktadır
+Büyümenin: 1 defa bulunmaktadır
+öncü: 1 defa bulunmaktadır
+göstergelerinden: 1 defa bulunmaktadır
+sanayi: 13 defa bulunmaktadır
+üretimi: 8 defa bulunmaktadır
+Eylül: 16 defa bulunmaktadır
+ayında: 22 defa bulunmaktadır
+geçen: 13 defa bulunmaktadır
+yılın: 13 defa bulunmaktadır
+aynı: 13 defa bulunmaktadır
+ayına: 13 defa bulunmaktadır
+göre: 21 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+6.2: 8 defa bulunmaktadır
+oranında: 13 defa bulunmaktadır
+artışla: 16 defa bulunmaktadır
+135.5: 2 defa bulunmaktadır
+değerini: 1 defa bulunmaktadır
+aldı.: 2 defa bulunmaktadır
+Sanayinin: 3 defa bulunmaktadır
+alt: 7 defa bulunmaktadır
+sektörleri: 5 defa bulunmaktadır
+incelendiğinde,: 7 defa bulunmaktadır
+2012: 11 defa bulunmaktadır
+yılı: 10 defa bulunmaktadır
+Eylül: 16 defa bulunmaktadır
+ayında: 22 defa bulunmaktadır
+geçen: 13 defa bulunmaktadır
+yılın: 13 defa bulunmaktadır
+aynı: 13 defa bulunmaktadır
+ayına: 13 defa bulunmaktadır
+göre;: 3 defa bulunmaktadır
+madencilik: 5 defa bulunmaktadır
+ve: 26 defa bulunmaktadır
+taşocakçılığı: 5 defa bulunmaktadır
+sektörü: 14 defa bulunmaktadır
+endeksi: 19 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+10.8,: 2 defa bulunmaktadır
+imalat: 4 defa bulunmaktadır
+sanayi: 13 defa bulunmaktadır
+sektörü: 14 defa bulunmaktadır
+endeksi: 19 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+6.2: 8 defa bulunmaktadır
+,: 1 defa bulunmaktadır
+elektrik,: 4 defa bulunmaktadır
+gaz,: 5 defa bulunmaktadır
+buhar: 5 defa bulunmaktadır
+ve: 26 defa bulunmaktadır
+iklimlendirme: 5 defa bulunmaktadır
+üretimi: 8 defa bulunmaktadır
+ve: 26 defa bulunmaktadır
+dağıtımı: 5 defa bulunmaktadır
+sektörü: 14 defa bulunmaktadır
+endeksi: 19 defa bulunmaktadır
+ise: 6 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+4.1: 4 defa bulunmaktadır
+arttı.: 4 defa bulunmaktadır
+Takvim: 4 defa bulunmaktadır
+etkisinden: 5 defa bulunmaktadır
+arındırılmış: 8 defa bulunmaktadır
+endeks: 5 defa bulunmaktadır
+2012: 11 defa bulunmaktadır
+yılı: 10 defa bulunmaktadır
+Eylül: 16 defa bulunmaktadır
+ayında: 22 defa bulunmaktadır
+geçen: 13 defa bulunmaktadır
+yılın: 13 defa bulunmaktadır
+aynı: 13 defa bulunmaktadır
+ayına: 13 defa bulunmaktadır
+göre: 21 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+6.2,: 3 defa bulunmaktadır
+mevsim: 3 defa bulunmaktadır
+ve: 26 defa bulunmaktadır
+takvim: 4 defa bulunmaktadır
+etkilerinden: 3 defa bulunmaktadır
+arındırılmış: 8 defa bulunmaktadır
+sanayi: 13 defa bulunmaktadır
+üretim: 6 defa bulunmaktadır
+endeksi: 19 defa bulunmaktadır
+ise: 6 defa bulunmaktadır
+bir: 7 defa bulunmaktadır
+önceki: 7 defa bulunmaktadır
+aya: 7 defa bulunmaktadır
+göre: 21 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+3.9: 4 defa bulunmaktadır
+arttı.: 4 defa bulunmaktadır
+Sanayinin: 3 defa bulunmaktadır
+alt: 7 defa bulunmaktadır
+sektörleri: 5 defa bulunmaktadır
+incelendiğinde,: 7 defa bulunmaktadır
+2012: 11 defa bulunmaktadır
+yılı: 10 defa bulunmaktadır
+Eylül: 16 defa bulunmaktadır
+ayında: 22 defa bulunmaktadır
+geçen: 13 defa bulunmaktadır
+yılın: 13 defa bulunmaktadır
+aynı: 13 defa bulunmaktadır
+ayına: 13 defa bulunmaktadır
+göre;: 3 defa bulunmaktadır
+madencilik: 5 defa bulunmaktadır
+ve: 26 defa bulunmaktadır
+taşocakçılığı: 5 defa bulunmaktadır
+sektörü: 14 defa bulunmaktadır
+endeksi: 19 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+10.8,: 2 defa bulunmaktadır
+imalat: 4 defa bulunmaktadır
+sanayi: 13 defa bulunmaktadır
+sektörü: 14 defa bulunmaktadır
+endeksi: 19 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+6.2,: 3 defa bulunmaktadır
+elektrik,: 4 defa bulunmaktadır
+gaz,: 5 defa bulunmaktadır
+buhar: 5 defa bulunmaktadır
+ve: 26 defa bulunmaktadır
+iklimlendirme: 5 defa bulunmaktadır
+üretimi: 8 defa bulunmaktadır
+ve: 26 defa bulunmaktadır
+dağıtımı: 5 defa bulunmaktadır
+sektörü: 14 defa bulunmaktadır
+endeksi: 19 defa bulunmaktadır
+ise: 6 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+4.1: 4 defa bulunmaktadır
+arttı.: 4 defa bulunmaktadır
+Takvim: 4 defa bulunmaktadır
+etkisinden: 5 defa bulunmaktadır
+arındırılmış: 8 defa bulunmaktadır
+endeks: 5 defa bulunmaktadır
+2012: 11 defa bulunmaktadır
+yılı: 10 defa bulunmaktadır
+Eylül: 16 defa bulunmaktadır
+ayında: 22 defa bulunmaktadır
+geçen: 13 defa bulunmaktadır
+yılın: 13 defa bulunmaktadır
+aynı: 13 defa bulunmaktadır
+ayına: 13 defa bulunmaktadır
+göre: 21 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+6.2,: 3 defa bulunmaktadır
+mevsim: 3 defa bulunmaktadır
+ve: 26 defa bulunmaktadır
+takvim: 4 defa bulunmaktadır
+etkilerinden: 3 defa bulunmaktadır
+arındırılmış: 8 defa bulunmaktadır
+sanayi: 13 defa bulunmaktadır
+üretim: 6 defa bulunmaktadır
+endeksi: 19 defa bulunmaktadır
+ise: 6 defa bulunmaktadır
+bir: 7 defa bulunmaktadır
+önceki: 7 defa bulunmaktadır
+aya: 7 defa bulunmaktadır
+göre: 21 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+3.9: 4 defa bulunmaktadır
+arttı.: 4 defa bulunmaktadır
+Türkiye: 1 defa bulunmaktadır
+İstatistik: 1 defa bulunmaktadır
+Kurumu: 1 defa bulunmaktadır
+(TÜİK): 1 defa bulunmaktadır
+2012: 11 defa bulunmaktadır
+yılı: 10 defa bulunmaktadır
+Eylül: 16 defa bulunmaktadır
+ayı: 1 defa bulunmaktadır
+Sanayi: 6 defa bulunmaktadır
+Üretim: 3 defa bulunmaktadır
+Endeksi’ni: 1 defa bulunmaktadır
+açıkladı.: 1 defa bulunmaktadır
+Buna: 1 defa bulunmaktadır
+göre: 21 defa bulunmaktadır
+Eylül: 16 defa bulunmaktadır
+ayında: 22 defa bulunmaktadır
+2005=100: 1 defa bulunmaktadır
+temel: 1 defa bulunmaktadır
+yıllı: 1 defa bulunmaktadır
+sanayi: 13 defa bulunmaktadır
+üretim: 6 defa bulunmaktadır
+endeksi: 19 defa bulunmaktadır
+geçen: 13 defa bulunmaktadır
+yılın: 13 defa bulunmaktadır
+aynı: 13 defa bulunmaktadır
+ayına: 13 defa bulunmaktadır
+göre: 21 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+6.2: 8 defa bulunmaktadır
+oranında: 13 defa bulunmaktadır
+artarak: 2 defa bulunmaktadır
+135.5: 2 defa bulunmaktadır
+düzeyinde: 3 defa bulunmaktadır
+gerçekleşti.: 5 defa bulunmaktadır
+Sanayi: 6 defa bulunmaktadır
+üretim,: 1 defa bulunmaktadır
+Aralık: 1 defa bulunmaktadır
+2009’dan: 1 defa bulunmaktadır
+2012: 11 defa bulunmaktadır
+yılı: 10 defa bulunmaktadır
+Temmuz: 1 defa bulunmaktadır
+ayına: 13 defa bulunmaktadır
+kadar: 1 defa bulunmaktadır
+dönemde: 2 defa bulunmaktadır
+geçen: 13 defa bulunmaktadır
+yılın: 13 defa bulunmaktadır
+aynı: 13 defa bulunmaktadır
+ayına: 13 defa bulunmaktadır
+göre: 21 defa bulunmaktadır
+artış: 6 defa bulunmaktadır
+göstermişti.: 2 defa bulunmaktadır
+32: 1 defa bulunmaktadır
+ay: 1 defa bulunmaktadır
+sonra: 1 defa bulunmaktadır
+ilk: 1 defa bulunmaktadır
+kez: 1 defa bulunmaktadır
+Ağustos’ta: 1 defa bulunmaktadır
+kesintisiz: 1 defa bulunmaktadır
+artış: 6 defa bulunmaktadır
+sürecine: 1 defa bulunmaktadır
+ara: 2 defa bulunmaktadır
+vererek: 1 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+1.8: 1 defa bulunmaktadır
+oranında: 13 defa bulunmaktadır
+gerileyen: 2 defa bulunmaktadır
+Endeks,: 2 defa bulunmaktadır
+Eylül: 16 defa bulunmaktadır
+ayında: 22 defa bulunmaktadır
+yeniden: 1 defa bulunmaktadır
+artışa: 1 defa bulunmaktadır
+geçti.: 1 defa bulunmaktadır
+-AYLIK: 1 defa bulunmaktadır
+BAZDA: 1 defa bulunmaktadır
+SANAYİ: 1 defa bulunmaktadır
+ÜRETİMİ: 1 defa bulunmaktadır
+YÜZDE: 5 defa bulunmaktadır
+15.6: 2 defa bulunmaktadır
+ARTTI-: 5 defa bulunmaktadır
+Sanayi: 6 defa bulunmaktadır
+üretimi: 8 defa bulunmaktadır
+endeksi: 19 defa bulunmaktadır
+Eylül: 16 defa bulunmaktadır
+ayında: 22 defa bulunmaktadır
+bir: 7 defa bulunmaktadır
+önceki: 7 defa bulunmaktadır
+aya: 7 defa bulunmaktadır
+göre: 21 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+15.6: 2 defa bulunmaktadır
+oranında: 13 defa bulunmaktadır
+artış: 6 defa bulunmaktadır
+gösterdi.: 1 defa bulunmaktadır
+Endeksin: 1 defa bulunmaktadır
+aylık: 1 defa bulunmaktadır
+bazda: 2 defa bulunmaktadır
+gelişimi: 1 defa bulunmaktadır
+incelendiğinde,: 7 defa bulunmaktadır
+sanayi: 13 defa bulunmaktadır
+üretimi,: 1 defa bulunmaktadır
+2012: 11 defa bulunmaktadır
+yılı: 10 defa bulunmaktadır
+Ocak: 1 defa bulunmaktadır
+ayında: 22 defa bulunmaktadır
+bir: 7 defa bulunmaktadır
+önceki: 7 defa bulunmaktadır
+aya: 7 defa bulunmaktadır
+göre: 21 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+14.9,: 1 defa bulunmaktadır
+Şubat: 1 defa bulunmaktadır
+ayında: 22 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+1.4: 1 defa bulunmaktadır
+oranında: 13 defa bulunmaktadır
+gerileme: 2 defa bulunmaktadır
+göstermişti.: 2 defa bulunmaktadır
+Mart: 1 defa bulunmaktadır
+ayında: 22 defa bulunmaktadır
+ise: 6 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+10.9: 1 defa bulunmaktadır
+oranında: 13 defa bulunmaktadır
+artış: 6 defa bulunmaktadır
+gösteren: 1 defa bulunmaktadır
+endeks: 5 defa bulunmaktadır
+Nisan: 1 defa bulunmaktadır
+ayında: 22 defa bulunmaktadır
+4.6: 1 defa bulunmaktadır
+oranında: 13 defa bulunmaktadır
+azalmıştı.: 1 defa bulunmaktadır
+Mayıs: 1 defa bulunmaktadır
+ayında: 22 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+7.5: 1 defa bulunmaktadır
+oranında: 13 defa bulunmaktadır
+artış,: 1 defa bulunmaktadır
+Haziran: 1 defa bulunmaktadır
+ayında: 22 defa bulunmaktadır
+1.6: 1 defa bulunmaktadır
+gerileme: 2 defa bulunmaktadır
+yaşanmıştı.: 1 defa bulunmaktadır
+Temmuz’da: 1 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+0.2: 1 defa bulunmaktadır
+oranında: 13 defa bulunmaktadır
+artan: 1 defa bulunmaktadır
+Endeks,: 2 defa bulunmaktadır
+Ağustos: 1 defa bulunmaktadır
+ayında: 22 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+11.7: 1 defa bulunmaktadır
+oranında: 13 defa bulunmaktadır
+gerilemişti.: 1 defa bulunmaktadır
+-İMALAT: 1 defa bulunmaktadır
+SANAYİNDE: 1 defa bulunmaktadır
+ÜRETİM: 1 defa bulunmaktadır
+GEÇEN: 1 defa bulunmaktadır
+YILIN: 1 defa bulunmaktadır
+AYNI: 1 defa bulunmaktadır
+AYINA: 1 defa bulunmaktadır
+GÖRE: 1 defa bulunmaktadır
+YÜZDE: 5 defa bulunmaktadır
+6.2: 8 defa bulunmaktadır
+ARTTI-: 5 defa bulunmaktadır
+Sanayinin: 3 defa bulunmaktadır
+alt: 7 defa bulunmaktadır
+sektörleri: 5 defa bulunmaktadır
+incelendiğinde,: 7 defa bulunmaktadır
+Eylül: 16 defa bulunmaktadır
+ayında: 22 defa bulunmaktadır
+geçen: 13 defa bulunmaktadır
+yılın: 13 defa bulunmaktadır
+aynı: 13 defa bulunmaktadır
+ayına: 13 defa bulunmaktadır
+göre;: 3 defa bulunmaktadır
+madencilik: 5 defa bulunmaktadır
+ve: 26 defa bulunmaktadır
+taşocakçılığı: 5 defa bulunmaktadır
+sektörü: 14 defa bulunmaktadır
+endeksi: 19 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+10.8: 1 defa bulunmaktadır
+artışla: 16 defa bulunmaktadır
+154.5’e: 1 defa bulunmaktadır
+yükseldi.: 1 defa bulunmaktadır
+İmalat: 1 defa bulunmaktadır
+sanayi: 13 defa bulunmaktadır
+sektörü: 14 defa bulunmaktadır
+endeksi: 19 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+6.2: 8 defa bulunmaktadır
+artışla: 16 defa bulunmaktadır
+133.5’e,: 1 defa bulunmaktadır
+elektrik,: 4 defa bulunmaktadır
+gaz,: 5 defa bulunmaktadır
+buhar: 5 defa bulunmaktadır
+ve: 26 defa bulunmaktadır
+iklimlendirme: 5 defa bulunmaktadır
+üretimi: 8 defa bulunmaktadır
+ve: 26 defa bulunmaktadır
+dağıtımı: 5 defa bulunmaktadır
+sektörü: 14 defa bulunmaktadır
+endeksi: 19 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+4.1: 4 defa bulunmaktadır
+artışla: 16 defa bulunmaktadır
+145.3’e: 1 defa bulunmaktadır
+ulaştı.: 2 defa bulunmaktadır
+-TAKVİM: 1 defa bulunmaktadır
+ENDEKSİNDEN: 1 defa bulunmaktadır
+ARINDIRILMIŞ: 1 defa bulunmaktadır
+ENDEKS: 2 defa bulunmaktadır
+YÜZDE: 5 defa bulunmaktadır
+6.2: 8 defa bulunmaktadır
+ARTTI-: 5 defa bulunmaktadır
+Takvim: 4 defa bulunmaktadır
+etkisinden: 5 defa bulunmaktadır
+arındırılmış: 8 defa bulunmaktadır
+endeks: 5 defa bulunmaktadır
+2012: 11 defa bulunmaktadır
+yılı: 10 defa bulunmaktadır
+Eylül: 16 defa bulunmaktadır
+ayında: 22 defa bulunmaktadır
+geçen: 13 defa bulunmaktadır
+yılın: 13 defa bulunmaktadır
+aynı: 13 defa bulunmaktadır
+ayına: 13 defa bulunmaktadır
+göre: 21 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+6.2: 8 defa bulunmaktadır
+artışla: 16 defa bulunmaktadır
+135.6: 1 defa bulunmaktadır
+değerinde: 1 defa bulunmaktadır
+gerçekleşti.: 5 defa bulunmaktadır
+Takvim: 4 defa bulunmaktadır
+etkisinden: 5 defa bulunmaktadır
+arındırılmış: 8 defa bulunmaktadır
+endekse: 2 defa bulunmaktadır
+göre: 21 defa bulunmaktadır
+sanayinin: 2 defa bulunmaktadır
+alt: 7 defa bulunmaktadır
+sektörleri: 5 defa bulunmaktadır
+incelendiğinde,: 7 defa bulunmaktadır
+2012: 11 defa bulunmaktadır
+yılı: 10 defa bulunmaktadır
+Eylül: 16 defa bulunmaktadır
+ayında: 22 defa bulunmaktadır
+geçen: 13 defa bulunmaktadır
+yılın: 13 defa bulunmaktadır
+aynı: 13 defa bulunmaktadır
+ayına: 13 defa bulunmaktadır
+göre: 21 defa bulunmaktadır
+imalat: 4 defa bulunmaktadır
+sanayi: 13 defa bulunmaktadır
+sektörü: 14 defa bulunmaktadır
+endeksi: 19 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+6.2: 8 defa bulunmaktadır
+oranında: 13 defa bulunmaktadır
+artışla: 16 defa bulunmaktadır
+133.6,: 1 defa bulunmaktadır
+elektrik,: 4 defa bulunmaktadır
+gaz,: 5 defa bulunmaktadır
+buhar: 5 defa bulunmaktadır
+ve: 26 defa bulunmaktadır
+iklimlendirme: 5 defa bulunmaktadır
+üretimi: 8 defa bulunmaktadır
+ve: 26 defa bulunmaktadır
+dağıtımı: 5 defa bulunmaktadır
+sektörü: 14 defa bulunmaktadır
+endeksi: 19 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+4.1: 4 defa bulunmaktadır
+artışla: 16 defa bulunmaktadır
+145.3: 1 defa bulunmaktadır
+düzeyine: 1 defa bulunmaktadır
+ulaşırken,: 1 defa bulunmaktadır
+madencilik: 5 defa bulunmaktadır
+ve: 26 defa bulunmaktadır
+taşocakçılığı: 5 defa bulunmaktadır
+sektörü: 14 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+8.7: 2 defa bulunmaktadır
+artarak: 2 defa bulunmaktadır
+152.2: 1 defa bulunmaktadır
+oldu.: 4 defa bulunmaktadır
+-MEVSİM: 1 defa bulunmaktadır
+VE: 1 defa bulunmaktadır
+TAKVİM: 1 defa bulunmaktadır
+ETKİSİNDEN: 1 defa bulunmaktadır
+ARINDILMIŞ: 1 defa bulunmaktadır
+ENDEKS: 2 defa bulunmaktadır
+YÜZDE: 5 defa bulunmaktadır
+3.9: 4 defa bulunmaktadır
+ARTTI-: 5 defa bulunmaktadır
+Eylül’de: 1 defa bulunmaktadır
+mevsim: 3 defa bulunmaktadır
+ve: 26 defa bulunmaktadır
+takvim: 4 defa bulunmaktadır
+etkilerinden: 3 defa bulunmaktadır
+arındırılmış: 8 defa bulunmaktadır
+sanayi: 13 defa bulunmaktadır
+üretim: 6 defa bulunmaktadır
+endeksi: 19 defa bulunmaktadır
+ise: 6 defa bulunmaktadır
+bir: 7 defa bulunmaktadır
+önceki: 7 defa bulunmaktadır
+aya: 7 defa bulunmaktadır
+göre: 21 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+3.9: 4 defa bulunmaktadır
+oranında: 13 defa bulunmaktadır
+artışla: 16 defa bulunmaktadır
+133: 1 defa bulunmaktadır
+8: 1 defa bulunmaktadır
+düzeyinde: 3 defa bulunmaktadır
+gerçekleşti.: 5 defa bulunmaktadır
+Mevsim: 1 defa bulunmaktadır
+ve: 26 defa bulunmaktadır
+takvim: 4 defa bulunmaktadır
+etkisinden: 5 defa bulunmaktadır
+arındırılmış: 8 defa bulunmaktadır
+endekse: 2 defa bulunmaktadır
+göre: 21 defa bulunmaktadır
+sanayinin: 2 defa bulunmaktadır
+alt: 7 defa bulunmaktadır
+sektörleri: 5 defa bulunmaktadır
+incelendiğinde,: 7 defa bulunmaktadır
+imalat: 4 defa bulunmaktadır
+sanayi: 13 defa bulunmaktadır
+endeksi: 19 defa bulunmaktadır
+bir: 7 defa bulunmaktadır
+önceki: 7 defa bulunmaktadır
+aya: 7 defa bulunmaktadır
+göre: 21 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+4: 1 defa bulunmaktadır
+artışla: 16 defa bulunmaktadır
+131.5’e: 1 defa bulunmaktadır
+yükselirken,: 1 defa bulunmaktadır
+madencilik: 5 defa bulunmaktadır
+ve: 26 defa bulunmaktadır
+taşocakçılığı: 5 defa bulunmaktadır
+sektörü: 14 defa bulunmaktadır
+endeksi: 19 defa bulunmaktadır
+bir: 7 defa bulunmaktadır
+önceki: 7 defa bulunmaktadır
+aya: 7 defa bulunmaktadır
+göre: 21 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+4.4: 1 defa bulunmaktadır
+oranında: 13 defa bulunmaktadır
+artışla: 16 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+137.5’e: 1 defa bulunmaktadır
+ulaştı.: 2 defa bulunmaktadır
+Elektrik,: 1 defa bulunmaktadır
+gaz,: 5 defa bulunmaktadır
+buhar: 5 defa bulunmaktadır
+ve: 26 defa bulunmaktadır
+iklimlendirme: 5 defa bulunmaktadır
+üretimi: 8 defa bulunmaktadır
+ve: 26 defa bulunmaktadır
+dağıtımı: 5 defa bulunmaktadır
+sektörü: 14 defa bulunmaktadır
+endeksi: 19 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+1.2: 1 defa bulunmaktadır
+artışla: 16 defa bulunmaktadır
+151: 1 defa bulunmaktadır
+oldu.: 4 defa bulunmaktadır
+-ARA: 1 defa bulunmaktadır
+MALI: 1 defa bulunmaktadır
+İMALATI: 1 defa bulunmaktadır
+YÜZDE: 5 defa bulunmaktadır
+5.3: 2 defa bulunmaktadır
+ARTTI-: 5 defa bulunmaktadır
+Eylül: 16 defa bulunmaktadır
+ayında: 22 defa bulunmaktadır
+arındırılmamış: 1 defa bulunmaktadır
+endeks: 5 defa bulunmaktadır
+verilerine: 1 defa bulunmaktadır
+göre: 21 defa bulunmaktadır
+ara: 2 defa bulunmaktadır
+malı: 4 defa bulunmaktadır
+imalatında: 2 defa bulunmaktadır
+üretim: 6 defa bulunmaktadır
+geçen: 13 defa bulunmaktadır
+yılın: 13 defa bulunmaktadır
+aynı: 13 defa bulunmaktadır
+ayına: 13 defa bulunmaktadır
+göre: 21 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+5.3: 2 defa bulunmaktadır
+artışla: 16 defa bulunmaktadır
+139.2: 1 defa bulunmaktadır
+oldu.: 4 defa bulunmaktadır
+Dayanıklı: 1 defa bulunmaktadır
+tüketim: 2 defa bulunmaktadır
+malı: 4 defa bulunmaktadır
+imalatı: 5 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+8.6: 1 defa bulunmaktadır
+artışla: 16 defa bulunmaktadır
+165.4,: 1 defa bulunmaktadır
+dayanıksız: 1 defa bulunmaktadır
+tüketim: 2 defa bulunmaktadır
+malı: 4 defa bulunmaktadır
+imalatı: 5 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+8.7: 2 defa bulunmaktadır
+artışla: 16 defa bulunmaktadır
+123.4,: 1 defa bulunmaktadır
+sermaye: 1 defa bulunmaktadır
+malı: 4 defa bulunmaktadır
+imalatı: 5 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+4.5: 1 defa bulunmaktadır
+artışla: 16 defa bulunmaktadır
+136.4: 1 defa bulunmaktadır
+düzeyinde: 3 defa bulunmaktadır
+gerçekleşti.: 5 defa bulunmaktadır
+Bu: 1 defa bulunmaktadır
+dönemde: 2 defa bulunmaktadır
+enerji: 1 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+5.1: 1 defa bulunmaktadır
+artışla: 16 defa bulunmaktadır
+136.6: 1 defa bulunmaktadır
+oldu.: 4 defa bulunmaktadır
+-ÜRETİMİN: 1 defa bulunmaktadır
+EN: 2 defa bulunmaktadır
+ÇOK: 1 defa bulunmaktadır
+GERİLEDİĞİ: 1 defa bulunmaktadır
+SEKTÖRLER-: 1 defa bulunmaktadır
+Eylül: 16 defa bulunmaktadır
+ayında: 22 defa bulunmaktadır
+sanayi: 13 defa bulunmaktadır
+üretimi: 8 defa bulunmaktadır
+sektörel: 1 defa bulunmaktadır
+bazda: 2 defa bulunmaktadır
+değerlendirildiğinde,: 1 defa bulunmaktadır
+6: 1 defa bulunmaktadır
+alt: 7 defa bulunmaktadır
+sektörde: 1 defa bulunmaktadır
+üretimin: 1 defa bulunmaktadır
+gerilediği: 1 defa bulunmaktadır
+belirlendi.: 1 defa bulunmaktadır
+2012: 11 defa bulunmaktadır
+yılı: 10 defa bulunmaktadır
+Eylül: 16 defa bulunmaktadır
+ayında: 22 defa bulunmaktadır
+geçen: 13 defa bulunmaktadır
+yılın: 13 defa bulunmaktadır
+aynı: 13 defa bulunmaktadır
+dönemine: 1 defa bulunmaktadır
+göre: 21 defa bulunmaktadır
+gerileyen: 2 defa bulunmaktadır
+sektörler: 2 defa bulunmaktadır
+arasında: 1 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+9: 1 defa bulunmaktadır
+ile: 9 defa bulunmaktadır
+makine: 2 defa bulunmaktadır
+ve: 26 defa bulunmaktadır
+ekipmanların: 1 defa bulunmaktadır
+kurulumu: 1 defa bulunmaktadır
+ve: 26 defa bulunmaktadır
+onarımı,: 1 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+4.2: 1 defa bulunmaktadır
+ile: 9 defa bulunmaktadır
+elektrikli: 1 defa bulunmaktadır
+teçhizat: 1 defa bulunmaktadır
+imalatı,: 3 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+3.1: 1 defa bulunmaktadır
+ile: 9 defa bulunmaktadır
+mobilya: 1 defa bulunmaktadır
+imalatı,: 3 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+1: 1 defa bulunmaktadır
+ile: 9 defa bulunmaktadır
+başka: 1 defa bulunmaktadır
+yerde: 1 defa bulunmaktadır
+sınıflandırılmamış: 1 defa bulunmaktadır
+makine: 2 defa bulunmaktadır
+ve: 26 defa bulunmaktadır
+ekipman: 1 defa bulunmaktadır
+imalatı,: 3 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+0.8: 1 defa bulunmaktadır
+ile: 9 defa bulunmaktadır
+ham: 1 defa bulunmaktadır
+petrol: 1 defa bulunmaktadır
+ve: 26 defa bulunmaktadır
+doğalgaz: 1 defa bulunmaktadır
+çıkarımı,: 1 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+0.1: 1 defa bulunmaktadır
+ile: 9 defa bulunmaktadır
+bilgisayarların: 1 defa bulunmaktadır
+elektronik: 1 defa bulunmaktadır
+ve: 26 defa bulunmaktadır
+optik: 1 defa bulunmaktadır
+ürünlerin: 1 defa bulunmaktadır
+imalatı: 5 defa bulunmaktadır
+yer: 1 defa bulunmaktadır
+aldı.: 2 defa bulunmaktadır
+-ALT: 1 defa bulunmaktadır
+SEKTÖRLERDE: 1 defa bulunmaktadır
+EN: 2 defa bulunmaktadır
+YÜKSEK: 1 defa bulunmaktadır
+ARTIŞ: 1 defa bulunmaktadır
+DİĞER: 1 defa bulunmaktadır
+ULAŞIM: 1 defa bulunmaktadır
+ARAÇLARININ: 1 defa bulunmaktadır
+İMALATINDA-: 1 defa bulunmaktadır
+Eylül: 16 defa bulunmaktadır
+ayında: 22 defa bulunmaktadır
+sanayi: 13 defa bulunmaktadır
+üretim: 6 defa bulunmaktadır
+endeksinde: 1 defa bulunmaktadır
+geçen: 13 defa bulunmaktadır
+yılın: 13 defa bulunmaktadır
+aynı: 13 defa bulunmaktadır
+ayına: 13 defa bulunmaktadır
+göre: 21 defa bulunmaktadır
+alt: 7 defa bulunmaktadır
+sektörler: 2 defa bulunmaktadır
+bazında: 1 defa bulunmaktadır
+değişim: 1 defa bulunmaktadır
+oranları: 1 defa bulunmaktadır
+incelendiğinde,: 7 defa bulunmaktadır
+en: 1 defa bulunmaktadır
+yüksek: 1 defa bulunmaktadır
+artış: 6 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+196.9: 1 defa bulunmaktadır
+ile: 9 defa bulunmaktadır
+diğer: 1 defa bulunmaktadır
+ulaşım: 1 defa bulunmaktadır
+araçlarının: 1 defa bulunmaktadır
+imalatında: 2 defa bulunmaktadır
+gerçekleşti.: 5 defa bulunmaktadır
+Bunu: 1 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+53.4: 1 defa bulunmaktadır
+ile: 9 defa bulunmaktadır
+ağaç,: 1 defa bulunmaktadır
+ağaç: 1 defa bulunmaktadır
+ve: 26 defa bulunmaktadır
+mantar: 1 defa bulunmaktadır
+ürünleri: 1 defa bulunmaktadır
+imalatı: 5 defa bulunmaktadır
+(mobilya: 1 defa bulunmaktadır
+hariç,: 1 defa bulunmaktadır
+yüzde: 46 defa bulunmaktadır
+26.9: 1 defa bulunmaktadır
+ile: 9 defa bulunmaktadır
+kayıtlı: 1 defa bulunmaktadır
+medyanın: 1 defa bulunmaktadır
+basılması: 1 defa bulunmaktadır
+ve: 26 defa bulunmaktadır
+çoğaltılması: 1 defa bulunmaktadır
+takip: 1 defa bulunmaktadır
+etti.: 1 defa bulunmaktadır
+/**: 2 defa bulunmaktadır
+Arındırılmamış: 2 defa bulunmaktadır
+Sanayi: 6 defa bulunmaktadır
+Üretim: 3 defa bulunmaktadır
+Endeksi: 1 defa bulunmaktadır
+Aylar      : 1 defa bulunmaktadır
+2008   : 1 defa bulunmaktadır
+2009   : 1 defa bulunmaktadır
+2010  : 1 defa bulunmaktadır
+2011 : 1 defa bulunmaktadır
+2012: 11 defa bulunmaktadır
+Ocak      : 2 defa bulunmaktadır
+112.3   : 1 defa bulunmaktadır
+88.1   : 1 defa bulunmaktadır
+99.3 : 1 defa bulunmaktadır
+118.4 : 1 defa bulunmaktadır
+120.2: 1 defa bulunmaktadır
+Şubat     : 2 defa bulunmaktadır
+111.3   : 1 defa bulunmaktadır
+84.6   : 1 defa bulunmaktadır
+99.5 : 1 defa bulunmaktadır
+113.4 : 1 defa bulunmaktadır
+118.5: 1 defa bulunmaktadır
+Mart      : 2 defa bulunmaktadır
+121.5   : 1 defa bulunmaktadır
+95.4  : 1 defa bulunmaktadır
+115.8 : 1 defa bulunmaktadır
+128.1 : 1 defa bulunmaktadır
+131.4: 1 defa bulunmaktadır
+Nisan     : 2 defa bulunmaktadır
+119.4   : 1 defa bulunmaktadır
+96.9  : 1 defa bulunmaktadır
+113.3 : 1 defa bulunmaktadır
+123.4 : 1 defa bulunmaktadır
+125.4: 1 defa bulunmaktadır
+Mayıs     : 2 defa bulunmaktadır
+123.4  : 1 defa bulunmaktadır
+102.3  : 1 defa bulunmaktadır
+117.6 : 1 defa bulunmaktadır
+127.2 : 1 defa bulunmaktadır
+134.7: 1 defa bulunmaktadır
+Haziran   : 2 defa bulunmaktadır
+121.4  : 1 defa bulunmaktadır
+109.4  : 1 defa bulunmaktadır
+120.3 : 2 defa bulunmaktadır
+128.7 : 1 defa bulunmaktadır
+132.6: 1 defa bulunmaktadır
+Temmuz    : 1 defa bulunmaktadır
+121.1  : 1 defa bulunmaktadır
+110.4  : 1 defa bulunmaktadır
+120.3 : 2 defa bulunmaktadır
+128.5 : 1 defa bulunmaktadır
+132.8: 1 defa bulunmaktadır
+Ağustos   : 2 defa bulunmaktadır
+110.9  : 1 defa bulunmaktadır
+103.7  : 1 defa bulunmaktadır
+115.0 : 1 defa bulunmaktadır
+119.4 : 1 defa bulunmaktadır
+117.2: 1 defa bulunmaktadır
+Eylül     : 2 defa bulunmaktadır
+114.1  : 1 defa bulunmaktadır
+103.1  : 1 defa bulunmaktadır
+113.9 : 1 defa bulunmaktadır
+127.6 : 1 defa bulunmaktadır
+135,5: 1 defa bulunmaktadır
+Ekim      : 1 defa bulunmaktadır
+110.5  : 1 defa bulunmaktadır
+117.4  : 1 defa bulunmaktadır
+129.0 : 1 defa bulunmaktadır
+138.7: 1 defa bulunmaktadır
+Kasım     : 1 defa bulunmaktadır
+110.0  : 1 defa bulunmaktadır
+106.8  : 1 defa bulunmaktadır
+116.8 : 1 defa bulunmaktadır
+126.7: 1 defa bulunmaktadır
+Aralık     : 1 defa bulunmaktadır
+94.2  : 1 defa bulunmaktadır
+116.7  : 1 defa bulunmaktadır
+136.2 : 1 defa bulunmaktadır
+141.3: 1 defa bulunmaktadır
+Yıllık    : 2 defa bulunmaktadır
+114.2  : 1 defa bulunmaktadır
+102.9  : 1 defa bulunmaktadır
+116.4 : 1 defa bulunmaktadır
+126.8: 1 defa bulunmaktadır
+**/: 1 defa bulunmaktadır
+/**: 2 defa bulunmaktadır
+Arındırılmamış: 2 defa bulunmaktadır
+Sanayi: 6 defa bulunmaktadır
+Üretim: 3 defa bulunmaktadır
+Endeksi’ndeki: 1 defa bulunmaktadır
+artış: 6 defa bulunmaktadır
+hızı(%): 1 defa bulunmaktadır
+Aylar     : 1 defa bulunmaktadır
+2010/2009 : 1 defa bulunmaktadır
+2011/2010 : 1 defa bulunmaktadır
+2012/2011: 1 defa bulunmaktadır
+Ocak      : 2 defa bulunmaktadır
+12,8      : 1 defa bulunmaktadır
+19,2      : 1 defa bulunmaktadır
+1,5   : 1 defa bulunmaktadır
+Şubat     : 2 defa bulunmaktadır
+17,6      : 1 defa bulunmaktadır
+14,0      : 1 defa bulunmaktadır
+4,4: 1 defa bulunmaktadır
+Mart      : 2 defa bulunmaktadır
+21,4      : 1 defa bulunmaktadır
+10,6      : 1 defa bulunmaktadır
+2,6 : 1 defa bulunmaktadır
+Nisan     : 2 defa bulunmaktadır
+16,9       : 1 defa bulunmaktadır
+8,9      : 1 defa bulunmaktadır
+1,5: 1 defa bulunmaktadır
+Mayıs     : 2 defa bulunmaktadır
+14,9       : 1 defa bulunmaktadır
+8,2      : 1 defa bulunmaktadır
+5,9: 1 defa bulunmaktadır
+Haziran   : 2 defa bulunmaktadır
+10,0       : 1 defa bulunmaktadır
+7,0      : 2 defa bulunmaktadır
+3,0: 1 defa bulunmaktadır
+Temmuz     : 1 defa bulunmaktadır
+8,8       : 1 defa bulunmaktadır
+7,0      : 2 defa bulunmaktadır
+3,3: 1 defa bulunmaktadır
+Ağustos   : 2 defa bulunmaktadır
+10,8       : 1 defa bulunmaktadır
+3,8     : 1 defa bulunmaktadır
+-1,8: 1 defa bulunmaktadır
+Eylül     : 2 defa bulunmaktadır
+10,4      : 1 defa bulunmaktadır
+12,1      : 1 defa bulunmaktadır
+6,2: 1 defa bulunmaktadır
+Ekim       : 1 defa bulunmaktadır
+9,9       : 1 defa bulunmaktadır
+7,5 : 1 defa bulunmaktadır
+Kasım      : 1 defa bulunmaktadır
+9,4       : 1 defa bulunmaktadır
+8,5: 1 defa bulunmaktadır
+Aralık    : 1 defa bulunmaktadır
+16,7       : 1 defa bulunmaktadır
+3,7: 1 defa bulunmaktadır
+Yıllık    : 2 defa bulunmaktadır
+13,1       : 1 defa bulunmaktadır
+8,9: 1 defa bulunmaktadır
+ANKA: 1 defa bulunmaktadır

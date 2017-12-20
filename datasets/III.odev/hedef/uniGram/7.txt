@@ -1,0 +1,5 @@
+Corridor,: 1 defa bulunmaktadır
+yabancı: 1 defa bulunmaktadır
+yatırımcının: 1 defa bulunmaktadır
+gözdesi: 1 defa bulunmaktadır
+oldu: 1 defa bulunmaktadır

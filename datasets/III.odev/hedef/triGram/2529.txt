@@ -1,0 +1,51 @@
+Erdoğan dinleyeni biliyor: 1 defa bulunmaktadır
+dinleyeni biliyor CHP'nin: 1 defa bulunmaktadır
+biliyor CHP'nin Bilişim: 1 defa bulunmaktadır
+CHP'nin Bilişim Uzmanı: 1 defa bulunmaktadır
+Bilişim Uzmanı İzmir: 1 defa bulunmaktadır
+Uzmanı İzmir Milletvekili: 1 defa bulunmaktadır
+İzmir Milletvekili Erdal: 1 defa bulunmaktadır
+Milletvekili Erdal Aksünger'den: 1 defa bulunmaktadır
+Erdal Aksünger'den çarpıcı: 1 defa bulunmaktadır
+Aksünger'den çarpıcı değerlendirme:: 1 defa bulunmaktadır
+çarpıcı değerlendirme: Hakkı: 1 defa bulunmaktadır
+değerlendirme: Hakkı KURBAN: 1 defa bulunmaktadır
+Hakkı KURBAN - Başbakan: 1 defa bulunmaktadır
+KURBAN - Başbakan 'Dinlendim': 1 defa bulunmaktadır
+- Başbakan 'Dinlendim' diyorsa,: 1 defa bulunmaktadır
+'Dinlendim' diyorsa, dinleyeni: 1 defa bulunmaktadır
+diyorsa, dinleyeni de: 1 defa bulunmaktadır
+dinleyeni de biliyordur.: 1 defa bulunmaktadır
+de biliyordur. Cihaz: 1 defa bulunmaktadır
+biliyordur. Cihaz bulunduğunda: 1 defa bulunmaktadır
+Cihaz bulunduğunda bu: 1 defa bulunmaktadır
+bulunduğunda bu 3: 1 defa bulunmaktadır
+bu 3 günde: 1 defa bulunmaktadır
+3 günde tespit: 1 defa bulunmaktadır
+günde tespit edilir. : 1 defa bulunmaktadır
+tespit edilir.  -: 1 defa bulunmaktadır
+edilir.  - O: 1 defa bulunmaktadır
+- O cihazın: 1 defa bulunmaktadır
+O cihazın gücünün: 1 defa bulunmaktadır
+cihazın gücünün ne: 1 defa bulunmaktadır
+gücünün ne kadar: 1 defa bulunmaktadır
+ne kadar olduğu,: 1 defa bulunmaktadır
+kadar olduğu, nereye: 1 defa bulunmaktadır
+olduğu, nereye kadar: 1 defa bulunmaktadır
+nereye kadar veri: 1 defa bulunmaktadır
+kadar veri aktarabileceği,: 1 defa bulunmaktadır
+veri aktarabileceği, sinyalle: 1 defa bulunmaktadır
+aktarabileceği, sinyalle mi: 1 defa bulunmaktadır
+sinyalle mi verileri: 1 defa bulunmaktadır
+mi verileri gönderdiği: 1 defa bulunmaktadır
+verileri gönderdiği ya: 1 defa bulunmaktadır
+gönderdiği ya da: 1 defa bulunmaktadır
+ya da bir: 1 defa bulunmaktadır
+da bir data: 1 defa bulunmaktadır
+bir data kablosuna: 1 defa bulunmaktadır
+data kablosuna mı: 1 defa bulunmaktadır
+kablosuna mı bağlandığı: 1 defa bulunmaktadır
+mı bağlandığı görülmüştür.: 1 defa bulunmaktadır
+bağlandığı görülmüştür. HAKKI: 1 defa bulunmaktadır
+görülmüştür. HAKKI KURBAN: 1 defa bulunmaktadır
+HAKKI KURBAN  : 1 defa bulunmaktadır

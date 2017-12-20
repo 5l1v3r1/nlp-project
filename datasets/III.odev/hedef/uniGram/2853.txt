@@ -1,0 +1,17 @@
+İstanbul: 2 defa bulunmaktadır
+Boğazı: 1 defa bulunmaktadır
+gemi: 2 defa bulunmaktadır
+trafiğine: 1 defa bulunmaktadır
+kapatıldı: 1 defa bulunmaktadır
+İstanbul: 2 defa bulunmaktadır
+Boğazı,: 1 defa bulunmaktadır
+yoğun: 1 defa bulunmaktadır
+sis: 1 defa bulunmaktadır
+yüzünden: 1 defa bulunmaktadır
+çift: 1 defa bulunmaktadır
+yönlü: 1 defa bulunmaktadır
+olarak: 1 defa bulunmaktadır
+transit: 1 defa bulunmaktadır
+gemi: 2 defa bulunmaktadır
+geçişlerine: 1 defa bulunmaktadır
+kapatıldı.             : 1 defa bulunmaktadır

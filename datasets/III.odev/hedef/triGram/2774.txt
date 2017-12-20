@@ -1,0 +1,102 @@
+Bir firma itiraz: 1 defa bulunmaktadır
+firma itiraz etti,: 1 defa bulunmaktadır
+itiraz etti, okul: 1 defa bulunmaktadır
+etti, okul sütü: 1 defa bulunmaktadır
+okul sütü ihalesi: 1 defa bulunmaktadır
+sütü ihalesi iptal: 1 defa bulunmaktadır
+ihalesi iptal Gıda,: 1 defa bulunmaktadır
+iptal Gıda, Tarım: 1 defa bulunmaktadır
+Gıda, Tarım ve: 1 defa bulunmaktadır
+Tarım ve Hayvancılık: 1 defa bulunmaktadır
+ve Hayvancılık Bakanlığı: 1 defa bulunmaktadır
+Hayvancılık Bakanlığı Okul: 1 defa bulunmaktadır
+Bakanlığı Okul Sütü: 1 defa bulunmaktadır
+Okul Sütü İhalesinin: 1 defa bulunmaktadır
+Sütü İhalesinin iptal: 1 defa bulunmaktadır
+İhalesinin iptal edildiğini: 1 defa bulunmaktadır
+iptal edildiğini açıkladı.: 1 defa bulunmaktadır
+edildiğini açıkladı. Okul: 1 defa bulunmaktadır
+açıkladı. Okul Sütü: 1 defa bulunmaktadır
+Okul Sütü Programı: 1 defa bulunmaktadır
+Sütü Programı Kapsamında: 1 defa bulunmaktadır
+Programı Kapsamında UHT: 1 defa bulunmaktadır
+Kapsamında UHT İçme: 1 defa bulunmaktadır
+UHT İçme Sütü: 1 defa bulunmaktadır
+İçme Sütü Mal: 1 defa bulunmaktadır
+Sütü Mal Alım: 1 defa bulunmaktadır
+Mal Alım İhalesi,: 1 defa bulunmaktadır
+Alım İhalesi, 6: 1 defa bulunmaktadır
+İhalesi, 6 firmanın: 1 defa bulunmaktadır
+6 firmanın katılımı: 1 defa bulunmaktadır
+firmanın katılımı ile: 1 defa bulunmaktadır
+katılımı ile 20: 1 defa bulunmaktadır
+ile 20 Aralık: 1 defa bulunmaktadır
+20 Aralık tarihinde: 1 defa bulunmaktadır
+Aralık tarihinde yapılarak: 1 defa bulunmaktadır
+tarihinde yapılarak onaylanmıştı.: 1 defa bulunmaktadır
+yapılarak onaylanmıştı. Ancak: 1 defa bulunmaktadır
+onaylanmıştı. Ancak ihalenin: 1 defa bulunmaktadır
+Ancak ihalenin Güneydoğu: 1 defa bulunmaktadır
+ihalenin Güneydoğu Anadolu: 1 defa bulunmaktadır
+Güneydoğu Anadolu ve: 1 defa bulunmaktadır
+Anadolu ve İç: 1 defa bulunmaktadır
+ve İç Anadolu: 1 defa bulunmaktadır
+İç Anadolu Bölgesi: 1 defa bulunmaktadır
+Anadolu Bölgesi kısmına: 1 defa bulunmaktadır
+Bölgesi kısmına teklif: 1 defa bulunmaktadır
+kısmına teklif veren: 1 defa bulunmaktadır
+teklif veren firmalardan: 1 defa bulunmaktadır
+veren firmalardan birinin: 1 defa bulunmaktadır
+firmalardan birinin yaptığı: 1 defa bulunmaktadır
+birinin yaptığı itirazı: 1 defa bulunmaktadır
+yaptığı itirazı değerlendiren: 1 defa bulunmaktadır
+itirazı değerlendiren Bakanlık,: 1 defa bulunmaktadır
+değerlendiren Bakanlık, itirazı: 1 defa bulunmaktadır
+Bakanlık, itirazı yerinde: 1 defa bulunmaktadır
+itirazı yerinde ihalenin: 1 defa bulunmaktadır
+yerinde ihalenin tümünü iptal: 1 defa bulunmaktadır
+ihalenin tümünü iptal etti.: 1 defa bulunmaktadır
+tümünü iptal etti. Bakanlık,: 1 defa bulunmaktadır
+etti. Bakanlık, yaptığı: 1 defa bulunmaktadır
+Bakanlık, yaptığı açıklamada,: 1 defa bulunmaktadır
+yaptığı açıklamada, ihalenin: 1 defa bulunmaktadır
+açıklamada, ihalenin yasanın: 1 defa bulunmaktadır
+ihalenin yasanın ilgili: 1 defa bulunmaktadır
+yasanın ilgili maddesine: 1 defa bulunmaktadır
+ilgili maddesine göre: 1 defa bulunmaktadır
+maddesine göre en: 1 defa bulunmaktadır
+göre en kısa: 1 defa bulunmaktadır
+en kısa süre: 1 defa bulunmaktadır
+kısa süre içerisinde: 1 defa bulunmaktadır
+süre içerisinde yeniden: 1 defa bulunmaktadır
+içerisinde yeniden yapılacağını: 1 defa bulunmaktadır
+yeniden yapılacağını ve: 1 defa bulunmaktadır
+yapılacağını ve okul: 1 defa bulunmaktadır
+ve okul sütü: 1 defa bulunmaktadır
+okul sütü dağıtımının,: 1 defa bulunmaktadır
+sütü dağıtımının, önceden: 1 defa bulunmaktadır
+dağıtımının, önceden planlandığı: 1 defa bulunmaktadır
+önceden planlandığı şekilde: 1 defa bulunmaktadır
+planlandığı şekilde 2012-2013: 1 defa bulunmaktadır
+şekilde 2012-2013 eğitim: 1 defa bulunmaktadır
+2012-2013 eğitim öğretim: 1 defa bulunmaktadır
+eğitim öğretim döneminin: 1 defa bulunmaktadır
+öğretim döneminin 2.: 1 defa bulunmaktadır
+döneminin 2. yarı: 1 defa bulunmaktadır
+2. yarı yılında: 1 defa bulunmaktadır
+yarı yılında başlayacağını: 1 defa bulunmaktadır
+yılında başlayacağını duyurdu.: 1 defa bulunmaktadır
+başlayacağını duyurdu. İtirazı: 1 defa bulunmaktadır
+duyurdu. İtirazı yapan: 1 defa bulunmaktadır
+İtirazı yapan firmanın Denizlili: 1 defa bulunmaktadır
+yapan firmanın Denizlili Aynes: 1 defa bulunmaktadır
+firmanın Denizlili Aynes olduğu: 1 defa bulunmaktadır
+Aynes olduğu öğrenildi. Aynes: 1 defa bulunmaktadır
+olduğu öğrenildi. Aynes ihaleye teklif: 1 defa bulunmaktadır
+öğrenildi. Aynes ihaleye teklif vermiş: 1 defa bulunmaktadır
+ihaleye teklif vermiş ancak: 1 defa bulunmaktadır
+vermiş ancak kazanamamıştı.: 1 defa bulunmaktadır
+ancak kazanamamıştı. OKUL: 1 defa bulunmaktadır
+kazanamamıştı. OKUL SÜTÜ: 1 defa bulunmaktadır
+OKUL SÜTÜ İHALESİ: 1 defa bulunmaktadır
+SÜTÜ İHALESİ ONAYLANDI: 1 defa bulunmaktadır

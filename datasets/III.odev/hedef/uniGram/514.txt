@@ -1,0 +1,139 @@
+İkinci: 2 defa bulunmaktadır
+el: 3 defa bulunmaktadır
+araç: 6 defa bulunmaktadır
+satışında: 1 defa bulunmaktadır
+bayram: 2 defa bulunmaktadır
+bereketi: 1 defa bulunmaktadır
+Kurban: 2 defa bulunmaktadır
+Bayramı'nın: 1 defa bulunmaktadır
+yaklaşmasıyla: 1 defa bulunmaktadır
+ikinci: 1 defa bulunmaktadır
+el: 3 defa bulunmaktadır
+araç: 6 defa bulunmaktadır
+satışları: 1 defa bulunmaktadır
+da: 1 defa bulunmaktadır
+hız: 1 defa bulunmaktadır
+kazandı.: 1 defa bulunmaktadır
+Başkent: 1 defa bulunmaktadır
+Otomotivciler: 1 defa bulunmaktadır
+Derneği: 1 defa bulunmaktadır
+(BOD): 1 defa bulunmaktadır
+Başkanı: 1 defa bulunmaktadır
+Aydın: 1 defa bulunmaktadır
+Erkoç,: 2 defa bulunmaktadır
+araç: 6 defa bulunmaktadır
+satışlarının: 1 defa bulunmaktadır
+bayram: 2 defa bulunmaktadır
+dönemlerinde: 1 defa bulunmaktadır
+hızlandığını: 1 defa bulunmaktadır
+belirterek,: 1 defa bulunmaktadır
+yaklaşan: 1 defa bulunmaktadır
+Kurban: 2 defa bulunmaktadır
+Bayramı: 1 defa bulunmaktadır
+öncesinde: 1 defa bulunmaktadır
+araç: 6 defa bulunmaktadır
+almak: 1 defa bulunmaktadır
+isteyenleri: 1 defa bulunmaktadır
+hızlı: 1 defa bulunmaktadır
+davranmaları: 1 defa bulunmaktadır
+konusunda: 1 defa bulunmaktadır
+uyardı.: 1 defa bulunmaktadır
+Konuya: 1 defa bulunmaktadır
+ilişkin: 1 defa bulunmaktadır
+AA: 1 defa bulunmaktadır
+muhabirine: 1 defa bulunmaktadır
+değerlendirmelerde: 1 defa bulunmaktadır
+bulunan: 1 defa bulunmaktadır
+Erkoç,: 2 defa bulunmaktadır
+''Güvenmediğiniz: 1 defa bulunmaktadır
+kişilerden: 1 defa bulunmaktadır
+araç: 6 defa bulunmaktadır
+satın: 1 defa bulunmaktadır
+almayın.: 1 defa bulunmaktadır
+Alacağınız: 1 defa bulunmaktadır
+aracın,: 1 defa bulunmaktadır
+almadan: 1 defa bulunmaktadır
+önce: 1 defa bulunmaktadır
+mutlaka: 1 defa bulunmaktadır
+gerekli: 1 defa bulunmaktadır
+kontrollerini: 1 defa bulunmaktadır
+yaptırın'': 1 defa bulunmaktadır
+uyarılarında: 1 defa bulunmaktadır
+bulundu.: 1 defa bulunmaktadır
+İkinci: 2 defa bulunmaktadır
+el: 3 defa bulunmaktadır
+araç: 6 defa bulunmaktadır
+piyasasındaki: 1 defa bulunmaktadır
+bazı: 1 defa bulunmaktadır
+araçların: 1 defa bulunmaktadır
+ortalama: 1 defa bulunmaktadır
+satış: 1 defa bulunmaktadır
+fiyatları: 1 defa bulunmaktadır
+ise: 1 defa bulunmaktadır
+şöyle;: 1 defa bulunmaktadır
+Marka-Model             : 1 defa bulunmaktadır
+Yıl         : 1 defa bulunmaktadır
+Yakıt            : 1 defa bulunmaktadır
+Fiyat: 1 defa bulunmaktadır
+Tofaş: 1 defa bulunmaktadır
+Şahin             : 1 defa bulunmaktadır
+1995      : 1 defa bulunmaktadır
+Benzin+LPG         : 1 defa bulunmaktadır
+8.000: 1 defa bulunmaktadır
+Fiat: 1 defa bulunmaktadır
+Albea              : 1 defa bulunmaktadır
+2006      : 2 defa bulunmaktadır
+Benzin+LPG        : 3 defa bulunmaktadır
+13.000: 1 defa bulunmaktadır
+Hyundai: 1 defa bulunmaktadır
+Accent          : 1 defa bulunmaktadır
+2005      : 3 defa bulunmaktadır
+Benzin+LPG        : 3 defa bulunmaktadır
+17.000: 1 defa bulunmaktadır
+Renault: 1 defa bulunmaktadır
+Megane          : 1 defa bulunmaktadır
+2004      : 1 defa bulunmaktadır
+Benzin+LPG        : 3 defa bulunmaktadır
+19.500: 1 defa bulunmaktadır
+Ford: 1 defa bulunmaktadır
+Mondeo             : 1 defa bulunmaktadır
+2005      : 3 defa bulunmaktadır
+Dizel             : 6 defa bulunmaktadır
+25.000: 1 defa bulunmaktadır
+Citroen: 1 defa bulunmaktadır
+C4              : 1 defa bulunmaktadır
+2008      : 2 defa bulunmaktadır
+Dizel             : 6 defa bulunmaktadır
+30.000: 1 defa bulunmaktadır
+Peugeot: 1 defa bulunmaktadır
+407             : 1 defa bulunmaktadır
+2006      : 2 defa bulunmaktadır
+Dizel             : 6 defa bulunmaktadır
+32.000: 1 defa bulunmaktadır
+Volkswagen: 1 defa bulunmaktadır
+Jetta        : 1 defa bulunmaktadır
+2010      : 2 defa bulunmaktadır
+Benzin            : 2 defa bulunmaktadır
+43.000: 1 defa bulunmaktadır
+L.Rover: 1 defa bulunmaktadır
+Freelander      : 1 defa bulunmaktadır
+2007      : 1 defa bulunmaktadır
+Dizel             : 6 defa bulunmaktadır
+52.000: 1 defa bulunmaktadır
+Chevrolet: 1 defa bulunmaktadır
+Captiva       : 1 defa bulunmaktadır
+2008      : 2 defa bulunmaktadır
+Dizel             : 6 defa bulunmaktadır
+53.000: 1 defa bulunmaktadır
+Mercedes: 1 defa bulunmaktadır
+C180           : 1 defa bulunmaktadır
+2010      : 2 defa bulunmaktadır
+Benzin            : 2 defa bulunmaktadır
+79.000: 1 defa bulunmaktadır
+BMW: 1 defa bulunmaktadır
+X5                  : 1 defa bulunmaktadır
+2005      : 3 defa bulunmaktadır
+Dizel             : 6 defa bulunmaktadır
+94.000: 1 defa bulunmaktadır
+ : 2 defa bulunmaktadır
+ : 2 defa bulunmaktadır

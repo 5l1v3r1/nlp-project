@@ -1,0 +1,5 @@
+Türk: 1 defa bulunmaktadır
+firmadan: 1 defa bulunmaktadır
+Bağdat'a: 1 defa bulunmaktadır
+dev: 1 defa bulunmaktadır
+proje: 1 defa bulunmaktadır
